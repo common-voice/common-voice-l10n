@@ -1,0 +1,28 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+basepath = "."
+
+# Classic Common Voice strings -- frozen paths.
+# Never rename files or move keys between files; translation memory is keyed by path + id.
+[[paths]]
+    reference = "common-voice/en/**"
+    l10n = "common-voice/{locale}/**"
+
+# Classic Spontaneous Speech strings -- frozen paths.
+# Same constraint as common-voice above.
+[[paths]]
+    reference = "spontaneous-speech/en/**"
+    l10n = "spontaneous-speech/{locale}/**"
+
+# MONO shared strings (all modalities): common.ftl / errors.ftl / content.ftl.
+[[paths]]
+    reference = "mcv-common/en/**"
+    l10n = "mcv-common/{locale}/**"
+
+# MONO modality strings: one coarse file per modality (scs.ftl / sps.ftl / cs.ftl / acr.ftl).
+# Add a new modality by adding a file here -- never move keys between files (path + id is frozen).
+[[paths]]
+    reference = "mcv-content/en/**"
+    l10n = "mcv-content/{locale}/**"
