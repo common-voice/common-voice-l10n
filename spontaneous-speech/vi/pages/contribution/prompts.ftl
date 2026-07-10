@@ -1,0 +1,39 @@
+## Prompts page
+
+record-player-header = Ghi âm phản hồi của bạn
+mic-access-error = Bạn cần cho phép truy cập micrô.
+# actionType will be Click (for desktop devices) or Tap (for mobile devices)
+prompt-page-instruction = { $actionType } <micIcon></micIcon> và phản hồi tự nhiên nhất có thể
+# Message which appears when there are no more resources on this page
+no-prompts-continue-skipped-message = Không còn câu hỏi nào cho ngôn ngữ này. Nếu bạn đã bỏ qua bất kỳ câu hỏi nào, bạn có thể tiếp tục với nội dung đã bỏ qua hoặc chuyển sang phần phiên âm âm thanh và thử lại sau.
+error-skipping = Đã xảy ra lỗi khi bỏ qua yêu cầu này
+error-recording = Đã xảy ra lỗi khi đang ghi âm
+error-recording-too-short = Thời lượng ghi quá ngắn. Thời lượng tối thiểu là { $minDurationSeconds }  giây.
+error-recording-too-long = Thời lượng ghi quá dài. Thời lượng tối đa là { $maxDurationMinutes }  phút.
+error-fetching-prompts = Đã xảy ra sự cố khi truy xuất yêu cầu. Vui lòng thử lại sau.
+error-uploading-response = Đã xảy ra lỗi khi đang tải lên phản hồi của bạn
+error-empty-audio = Quá trình ghi thất bại. Tập tin âm thanh dường như trống. Vui lòng thử lại.
+error-platform-webview = Chức năng ghi âm có thể không được hỗ trợ trên trình duyệt có hạn chế này. Vui lòng sử dụng ứng dụng trình duyệt đầy đủ.
+error-recording-too-short-seconds = Thời lượng ghi quá ngắn. Thời lượng tối thiểu là { $minDurationSeconds } giây.
+error-recording-too-long-minutes = Thời lượng ghi quá dài. Thời lượng tối đa là { $maxDurationMinutes } phút.
+cannot-play-audio = Không thể phát âm thanh. Vui lòng thử lại.
+prompt-submitted-success = Đã gửi phản hồi thành công
+prompt-response-deleted-success = Đã xoá phản hồi thành công
+# For the button to delete a response to a prompt
+delete = Xóa
+# For the disabled button on a prompt that indicates a prompt is already submitted
+submitted = Đã gửi
+# For the button on the Respond to prompts page which can be used to submit all responses at once
+submit-all-button = Gửi tất cả
+
+## Explainer text (Respond to Prompt)
+
+learn-how-to-use-prompts = Tìm hiểu cách sử dụng trang này
+learn-how-to-use-prompts-explanation = Bạn chỉ cần phản hồi yêu cầu bằng vài câu, tự nhiên nhất có thể. Hãy đảm bảo ngôn từ của bạn đúng mực và không gây phản cảm.
+learn-how-to-use-prompts-guidance = Nhấp vào <guidanceLink>đây</guidanceLink> để tìm hiểu cách sử dụng trang này
+learn-how-to-use-transcribe = Tìm hiểu cách phiên âm
+learn-how-to-use-transcribe-explanation = Viết lại chính xác những gì người đó nói, gồm cả các từ đệm như 'ừm' hoặc 'ờ'.
+learn-how-to-use-transcribe-guidance = Nhấp vào <guidanceLink>đây</guidanceLink> để tìm hiểu cách sử dụng trang này
+learn-how-to-use-check-transcript = Tìm hiểu cách kiểm tra một bản chép lời
+learn-how-to-use-check-transcript-explanation = Bản chép lời phải ghi lại mọi từ hoặc âm thanh hội thoại không phải từ vựng mà người đó nói ra, bao gồm cả những từ lặp lại.
+learn-how-to-use-check-transcript-guidance = Nhấp vào <guidanceLink>đây</guidanceLink> để tìm hiểu cách sử dụng trang này

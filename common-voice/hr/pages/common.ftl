@@ -1,0 +1,336 @@
+# Don't rename the following section, its contents are auto-inserted based on the name (see scripts/pontoon-languages-to-ftl.js)
+# [Languages]
+
+
+## Languages
+
+aa = Afarski
+aat = Arvanitski
+ab = Abhaški
+abb = Bankon
+abq = Abaza
+ace = Acehski
+ady = Adigejski
+af = Afrikanski
+aii = Suret
+ajg = Adja
+aln = Gegijski albanski
+am = Amharski
+an = Aragonski
+ar = Arapski
+arn = Mapudungun
+as = Asamski
+ast = Asturijski
+az = Azerbejdžanski
+azz = Nahuatl iz visočja Puebla
+ba = Baškirski
+bag = Tuki
+bal = Baludži
+bas = Basaa
+bax = Bamun
+bba = Baatonum
+bbj = Ghomala
+bbl = Tush
+bce = Mengambo
+bci = Baoule
+be = Bjeloruski
+beb = Bamvele
+bew = Betawi
+bfd = Bafut
+bft = Balti
+bg = Bugarski
+bgp = Istočni Baludži
+bkh = Bakoko
+bkm = Kom
+bm = Bambara
+bn = Bengalski
+bnm = Batanga
+bnn = Bunun
+bo = Tibetski
+br = Bretonski
+brh = Brahui
+bri = Mokpwe
+brx = Bodo
+bs = Bosanski
+bsh = Kateviri
+bsk = Burušaski
+bsy = Sabah Bisaya
+btv = Bateri
+bum = Bulu
+bxk = Bukusu
+bxr = Buryat
+byv = Medumba
+ca = Katalonski
+cak = Kakčikelski
+cdo = Istočni Min
+ce = Čečenski
+cgg = Chiga
+cjk = Čokwe
+ckb = Centralnokurdski
+cnh = Hakha Chin
+co = Korzički
+cpx = Heng Hua
+cpy = Asheninka Južni Ucayali
+crh = Krimskotatarski
+cs = Češki
+cut = Teutila Cuicatec
+cux = Tepeuxila Cuicatec
+cv = Čuvaški
+cy = Velški
+da = Danski
+dag = Dagbani
+dar = Dargwa
+dav = Kidaw'ida
+de = Njemački
+dmk = Dawoodi
+dml = Dameli
+dsb = Lužičkosrpski, donji
+dua = Duala
+dv = Divehijski
+dyu = Dioula
+ebr = Ebrie
+ee = Ewe
+el = Grčki
+en = Engleski
+eo = Esperanto
+es = Španjolski
+et = Estonski
+eto = Eton
+eu = Baskijski
+ewo = Ewondo
+fa = Perzijski
+ff = Fulski
+fi = Finski
+fo = Ferojski
+fr = Francuski
+fuf = Pular Guinea
+fy-NL = Frizijski
+ga-IE = Irski
+gl = Galicijski
+gn = Guarani
+gom = Goan Konkani
+gu-IN = Gudžaratski
+guc = Wayuunaiki
+ha = Hausa
+he = Hebrejski
+hi = Hindski
+hil = Hiligajnonski
+hr = Hrvatski
+hsb = Lužičkosrpski, gornji
+ht = Haićanski
+hu = Mađarski
+hy-AM = Armenski
+ia = Interlingua
+id = Indonezijski
+ie = Interlingua
+ig = Igbo
+is = Islandski
+it = Talijanski
+izh = Ingrijski
+ja = Japanski
+jbo = Lojban
+jv = Javanski
+ka = Gruzijski
+kaa = Karakalpački
+kab = Kabilijski
+kbd = Kabardinski
+ki = Kikuyu
+kk = Kazački
+km = Khmerski
+kmr = sjevernokurdski
+kn = Kannada
+knn = Konkani (devanagari)
+ko = Korejski
+kpv = Komi-Zyrian
+kw = Kornski
+ky = Kirgiski
+lb = Luksemburški
+lg = Lugandski
+lij = Ligurijski
+ln = Lingala
+lo = Laoški
+lt = Litavski
+ltg = Latgalijski
+lv = Latvijski
+lzz = Laz
+mai = Maithili
+mdf = Moksha
+mg = Malgaški
+mhr = Meadow Mari
+mk = Makedonski
+ml = Malajalamski
+mn = Mongolski
+mni = Meetei Lon
+mos = Mossi
+mr = Marathi
+mrj = Hill Mari
+ms = Malajski
+mt = Malteški
+my = Burmanski
+myv = Erzya
+nan-tw = Tajvanski (Minnan)
+nb-NO = Norveški Bokmål
+nd = IsiNdebele (Sjeverni)
+ne-NP = Nepalski
+nhe = Istočni Huasteca Nahuatl
+nhi = Zapadni Sierra Puebla Nahuatl
+nia = Niaski
+nl = Nizozemski
+nn-NO = Novonorveški
+nr = IsiNdebele (Jug)
+nso = Sjeverni Sotho
+ny = Chinyanja
+nyn = Runyankole
+oc = Okcitanski
+om = Afaan Oromo
+or = Odia
+os = Osetski
+pa-IN = Pandžapski
+pap-AW = Papiamentu (Aruba)
+pl = Poljski
+ps = Paštunski
+pt = Portugalski
+quc = K'iche'
+quy = Quechua Chanka
+qvi = Kichwa
+rm-sursilv = Romansh Sursilvan
+rm-vallader = Romansh Vallader
+ro = Rumunjski
+ru = Ruski
+rw = Kinjarvandski
+sah = Sakha
+sat = Santali (Ol Chiki)
+sc = Sardinijski
+scn = Sicilijanski
+sco = Škotski
+sd = Sindski
+sdh = Južni kurdski
+shi = Shilha
+si = Sinhala
+sk = Slovački
+skr = Saraiki
+sl = Slovenski
+snk = Soninke
+so = Somalski
+sq = Albanski
+sr = Srpski
+ss = Svatski
+st = Južni soto
+su = Sundanski
+sv-SE = Švedski
+sw = Svahili
+syr = Sirijski
+ta = Tamilski
+te = Telugu
+tg = Tadžički
+th = Tajlandski
+ti = Tigrinjajski
+tig = Tigre
+tk = Turkmenski
+tl = Tagalog
+tn = Setswana
+tok = Toki Pona
+tr = Turski
+ts = Xitsonga
+tt = Tatarski
+tw = Twi
+ty = Tahićanski
+tyv = Tuvanski
+uby = Ubykh
+udm = Udmurtski
+ug = Ujgurski
+uk = Ukrajinski
+ur = Urdski
+uz = Uzbečki
+ve = Tshivenda
+vec = Venecijanski
+vi = Vijetnamski
+vmw = Emakhuwa
+vot = Votjački
+wo = Wolof
+xh = Xhosa
+yi = Jidiš
+yo = Yoruba
+yue = Kantonski
+zgh = Tamazight
+zh-CN = Kineski (Kina)
+zh-HK = Kineski (Hong Kong)
+zh-TW = Kineski (Tajvan)
+zu = Zulu
+zza = Zaza
+
+# [/]
+
+
+## Layout
+
+profile = Profil
+help = Pomoć
+contact = Kontakt
+privacy = Privatnost
+terms = Uvjeti
+cookies = Kolačići
+faq = Često postavljena pitanja
+documentation = Dokumentacija
+content-license-text = Sadržaj je dostupan pod licencom <licenseLink>Creative Commons</licenseLink>
+share-title = Pomogni nam pronaći donatore glasa.
+share-text = Pomogni učiti strojeve govoriti ljudskim jezikom, doniraj svoj glas na { $link }
+link-copied = Poveznica je kopirana
+back-top = Povratak na vrh
+logout = Odjava
+donate = Doniraj
+stayintouch = Mi u Mozilli gradimo zajednicu za govorne tehnologije. Želimo te obavještavati o novostima, novim izvorima podataka i voljeli bi saznati kako koristite podatke.
+privacy-info = Obećajemo, da ćemo pažljivo postupati s tvojim podacima. Saznaj više na stranici <privacyLink>napomena o privatnosti</privacyLink>.
+return-to-cv = Natrag na Common Voice
+email-input =
+    .label = E-mail
+loading = Učitavanje…
+email-opt-in-info = Želim primati e-mailove poput podsjetnika o ciljevima, novostima o napretku i bilten Common Voicea.
+email-opt-in-info-title = Pridruži se Common Voice mailing listi
+email-opt-in-info-sub-with-challenge = Primaj e-mailove poput podsjetnika o izazovima i ciljevima, novostima o napretku i bilten Common Voicea.
+email-opt-in-privacy-v2 = Prihvaćanjem primanja e-mail poruka, pristaješ na obradu tvojih podataka, kako je objašnjeno u Mozillinoj <privacyLink>politici privatnosti</privacyLink>.
+indicates-required = * obilježava obvezno polje
+not-available-abbreviation = --
+# Text shown on a button that can be clicked to copy text to the clipboard
+copy = Kopiraj
+# Text shown on a button that can be clicked to close a modal or panel
+close = Zatvori
+# Text shown on a button that can be clicked to cancel an action
+cancel = Odustani
+# Text shown on a button that can be clicked to delete an item
+delete = Izbriši
+
+## Donate banner
+
+# Text wrapped in <mark></mark> will have a white background.
+donate-banner-cta = <mark>Trebamo</mark><br/><mark>tvoju pomoć!</mark>
+# Text wrapped in <strong></strong> will be rendered on bold font
+donate-banner-cta-explanation = Spremanje skupova podataka i poboljšanje platforme za više od 100 jezičnih zajednica koje se oslanjaju na ono što mi radimo košta gotovo milijun dolara godišnje. <strong>Ako cijeniš otvorene, uključive podatke – doniraj danas!</strong>
+# Text wrapped in <mark></mark> will have a white background.
+languages-donate-banner-cta = <mark>Koristiš CV za</mark><br/><mark>svoje istraživanje?</mark>
+languages-donate-banner-cta-explanation = Common Voice se financira donacijama i dotacijama! Volimo surađivati s akademicima, civilnim društvom i istraživačima iz industrije. Common Voice se može besplatno koristiti, ali su doprinosi platformi i hostingu vrlo korisni.
+localization-select =
+    .label = Odaberi jezik/lokalizaciju
+
+## MDC Announcement
+
+# Main text for MDC announcement. Text wrapped in <strong></strong> will be rendered with bold font
+announcement-mdc-text = <strong>Novi skupovi podataka Common Voice</strong> sada su dostupni za preuzimanje isključivo putem naše sestrinske platforme, Mozilla Data Collective. Pridružite se za pristup više od 300 globalnih skupova podataka, koje je izgradila zajednica za zajednicu.
+# Button text for MDC announcement
+announcement-mdc-button-text = Pridruži se platformi „Mozilla Data Collective”
+# Aria text for button which opens MDC on a new page
+announcement-mdc-button-aria-text = Otvara se u novoj kartici
+
+## Common Language/Dataset Selector & SearchBox Related
+
+# Generic search box defaults
+searchbox-default-label = Za pretragu, počni tipkati
+searchbox-default-placeholder = Traži …
+searchbox-default-aria-label = Traži
+dropdown-no-results = Nema podudaranja
+# Common Voice Dataset=Language search box
+dataset-searchbox-label = Mijenja jezik prikaza i jezik skupa podataka
+dataset-searchbox-placeholder = Traži jezik …
+dataset-searchbox-aria-label = Traži jezik
+dataset-search-no-results = Nije pronađen odgovarajući jezik
+request-new-language = Zatraži novi jezik

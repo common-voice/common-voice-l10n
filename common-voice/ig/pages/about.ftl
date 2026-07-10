@@ -1,0 +1,103 @@
+## ABOUT US
+
+about-title = Gị́nị́ kpàlìtèrè Common Voice?
+about-header-description-v2 =
+    <p>Common Voice bụ ntọala data olu dị n'ọha, nke olu ndị ọrụ nkwado nke efu na-eme ntụnye n'ụwa niile gbara gburugburu na-akwado. Ndị chọrọ ịmepụta ngwa olu nwere ike iji ntọala data ahụ zụọ mọdelu meshịn lenin.</p>
+    <p>Ugbu a, ọ bụ ụlọ ọrụ nwere ọtụtụ ntọala data olu, nke na-egbochi ihe ọhụrụ. Ntọala data olu anaghị anọchite anya ndị a nke ọma: ndị anaghị asụ Bekee, ndị nwere agba, ndị nwere nkwarụ, ụmụ nwanyị na ndị LGBTQIA+. Nke a pụtara na teknụzụ olu kwadoro anaghị arụ ọrụ ma ọlị maka ọtụtụ asụsụ, ebe ọ na-arụ ọrụ, ọ nwere ike ọ gaghị arụ ọrụ nke ọma maka onye ọ bụla. Anyị chọrọ ịgbanwe nke ahụ site n'ịkpalite ndị mmadụ ebe niile ka ha kesaa olu ha.</p>
+how-does-it-work-title-v2 = Kedu ka Common Voice si arụ ọrụ?
+how-does-it-work-text = Anyị na-eme ka mmadụ niile nweta ntọala data olu dị iche iche. Nye onyinye olu gị, gosi na obere ndekọ olu ndị ọzọ ziri ezi, mee ka ntọala data ahụ ka mma nye onye ọ bụla.
+
+## How does it work section
+
+about-language-req-subtitle = Mmadụ na-arịọ ka e tinye asụsụ.
+about-localization-title = Ndabere Weebụsaịtị N'asụsụ
+about-localization-subtitle = A tụgharịrị ederede weebụsaịt ahụ n'asụsụ ahụ.
+about-sentence-collection-title = Nchịkọta Ahịrịokwu
+about-sentence-collection-subtitle = A na-achịkọta ahịrịokwu ka ndị mmadụ gụpụta ya ka ọ daa ụda.
+about-new-lang-title = Ngosiputa Asụsụ Ọhụrụ
+about-new-lang-subtitle = Anyị na-egosiputa saịtị Common Voice ahụ n'asụsụ a.
+about-voice-contrib-title = Ụtụ Olu
+about-voice-contrib-subtitle = Ndị mmadụ bịa ma tụnye olu ha.
+about-voice-validation-title = Nkwenye Olu
+about-voice-validation-subtitle = Mmadụ ndị ọzọ na-ekwenyere mkpụrụ ndekọ olu ndị ahụ.
+about-dataset-release-title = Mwepụta Ntọala Data
+about-dataset-release-subtitle = Anyị na-ewupụta ntọala data ahụ ọnwa atọ ọ bụla.
+about-subscribe-text = Chọrọ inwe mmetụta na Common Voice?
+about-speak = Kwùó ókwú
+about-speak-text = Ndị na-eme ntụnye na-edekọ mkpụrụ olu site n'ịgụ ya n'ọba ahịrịokwu e nyere n'onyinye.
+about-listen-queue = Íhé ńdí Í gà-égè
+about-listen-queue-text = Á nà-àwúnyéÍhé ákpònyèrè n'ímé ọ́gbárá íhé ńdị́ á tụ̀kọ̀tàrà ǹké ná-ákwádó há màkà ńgèré.
+about-listen = Gèé ńtị̀
+about-listen-text = Ndị ojieme na-ekwenyere ịdị mma nke mkpụrụ olu e nyere n'onyinye, na-elere ma okwuu agụrụ ahịrịokwu ahụ nke ọma.
+about-is-it-valid = Mkpụrụ olu ahụ ọ dị mma?
+about-is-it-valid-text = A na-aka mkpụrụ ndekọ olu dị ka "nke dị mma" mgbe ojieme binyere ya akwụkwọ Ee.
+about-yes-votes = Mbinye aka ee
+about-yes-votes-text = Ojieme abụọ dị iche iche ga-ekwenye n'ịdị mma Mkpụrụ ndekọ olu, ime ka ọ banye na ntọala data Common Voice.
+about-no-votes = Mbinye aka adịghi
+about-no-votes-text = Mgbe ojieme jụrụ mkpụrụ ndekọ olu ọ laghachi na Queue ahụ. Ọ bụrụ na a jụrụ ya nke ugboro abụọ, e buje mkpụrụ ndekọ olu ahụ na Clip Graveyard.
+about-dataset-new = Ntọala Data Common Voice
+about-dataset-new-text = Ntọala Data Common Voice nwere ọtụtụ narị nke puku nke ngosi olu nke na-enyere ndị developa aka wulite ngwaọrụ e ji a mata olu.
+about-clip-graveyard = Grevyaadi Klip
+about-clip-graveyard-text = Grevyaadi Klip
+about-get-involved = Sònyé
+about-get-involved-text-2 = Chọrọ inye aka ime Common Voice ka ọ dịwanye mma?
+about-stay-in-touch = Kedu ka m ga-esi enwe mmetụta?
+about-stay-in-touch-button = Debanye aha
+about-stay-in-touch-text-1 = <emailFragment>Debanye aha</emailFragment> n'ahịrị nzipụ ozi anyị iji mụta otu ị ga-esi sonye n'ozi nkwalite, ihe omume ma sonye n'ịrụ atụmatụ dị na Common Voice.
+about-stay-in-touch-text-2 = I nwere ike zute ndị ọzọ n'otu asụsụ Mozilla dị iche iche site n'isonye <discordLink>Discord</discordLink> ma ọ bụ <discourseLink>Discourse</discourseLink> maka mkparịta ụka isiokwu, ma ọ bụ <matrixLink>Matrix</matrixLink> maka ndụmọdụ ngwá ngwá.
+about-nav-why-common-voice = Màkà gị́nị́?
+about-nav-how-it-works = Ètú ólé?
+about-nav-partners = Ńdí ḿmékọ́
+about-nav-get-involved = Sònyé
+about-nav-how-it-works-2 = Kedu ka Common Voice si arụ ọrụ?
+about-nav-playbook = Mụta etu e si esonye
+
+## Community Playbook Content
+## What is a language
+
+about-playbook-what-is-language = Gịnị bụ asụsụ na Common Voice?
+about-playbook-what-is-language-content-1 = E nwere ọtụtụ ụzọ e si eche maka asụsụ. N'ihi ebumnuche mọdelụ mmata olu, Common Voice na-atụ aro ilekwasị anya na 'nghọta ibe', ma ọ bụ 'ndị na-asụ asụsụ a hà nwere ike ịghọta ibe ha ma ha gbalịa ime ótù ahụ?'
+about-playbook-what-is-language-content-2 = Anyị chọrọ ka mọdelụ okwu ka mma n'ịghọta ọtụtụ ndị na-ekwu okwu dị iche iche. Nke a ime, ntọala data olu ga-anọchite anya ọtụtụ mmadụ dị iche iche.
+about-playbook-what-is-language-content-3 = Ụfọdụ asụsụ nwere nnukwu ndịiche n'ụtọasụsụ, nchịkọta okwu na mkpọpụta okwu. N'ihi nke a, anyị <ctaLink>na-ewebata 'Variants'</ctaLink> na 2022. Nke a na-enye ótù dị iche iche ụzọ isi ịmata asụsụ ha n'ime nnukwu ntọala data.
+
+## How do I add a language
+
+about-playbook-how-add-language = Kedu etu m ga-esi tinye asụsụ?
+about-playbook-how-add-language-content-1 =
+    Nke mbụ, lelee ma asụsụ gị <languageLink>adịlarị</languageLink>.
+    Ọ bụrụ na ọ dịghị, ị nwere ike <languageRequestLink>jụọ maka itinye asụsụ gị</languageRequestLink>.
+    E nwere usoro abụọ. Ịtụgharị saịtị ahụ, na ịchịkọta ahịrịokwu
+about-playbook-how-add-language-translating-heading = Ịtụgharị saịtị ahụ
+about-playbook-how-add-language-translating-content-1 = <translateVideoLink>Lelee ntụziaka anyị gbasara etu e si e ji Pontoon.</translateVideoLink>
+about-playbook-how-add-language-translating-content-2 =
+    Anyị na-eji ngwaọrụ Mozilla a kpọrọ <pontoonLink>Pontoon</pontoonLink> maka ntụgharị asụsụ. Pontoon nwere ọtụtụ asụsụ,
+    mana ọ bụrụ na o nweghị nke gị, ị nwere ike <pontoonRequestLink>rịọ ka e tinye asụsụ gị</pontoonRequestLink>.
+    Mgbe ahụ, iji mee ka asụsụ ahụ dị n'ọrụ Common Voice,
+    <githubRepoLink>rịọ asụsụ ọhụrụ na GitHub</githubRepoLink>. <localizationFragment>Lee ihe ndị ọzọ na ntụgharị asụsụ saịtị</localizationFragment>.
+about-playbook-how-add-language-collecting-sentences-heading = Ịchịkọta ahịrịokwu
+about-playbook-how-add-language-collecting-sentences-content-1 = <sentenceCollectorVideo>Lelee ntụziaka anyị maka iji Ihe Nchịkọta Ahịrịokwu</sentenceCollectorVideo>.
+about-playbook-how-add-language-collecting-sentences-content-2 =
+    Ị nwere ike <sentenceCollectorLinkAdd>tinye ahịrịokwu dị obere n'ọnụọgugụ </sentenceCollectorLinkAdd>,
+    ma ọ bụ ị nwere ike mee<bulkImportDocsLink>mbubata buru ibu site n'iji Github</bulkImportDocsLink>.
+    Cheta na ahịrịokwu kwesịrị ịbụ <licenseLink>CC0 (ma ọ bụ public domain)</licenseLink>, ma ọ bụ ị nwere ike dee nke gị.
+about-playbook-how-add-language-collecting-sentences-content-3 = <sentenceCollectorFragment>Lee ihe ndị ọzọ gbasara nchịkọta ahịrịokwu</sentenceCollectorFragment>.
+
+## How does localization work
+
+about-playbook-how-localize = Kedu ka nkachisi saịtị si arụ ọrụ?{ " " }
+about-playbook-how-localize-content-1 = Ntụgharị saịtị Common Voice na-eme na<strong>Pontoon</strong>
+about-playbook-how-localize-content-2 = <pontoonAccountLink>Meghee akaụntụ </pontoonAccountLink>ọ bụrụ na I nweghị otu. Mgbe ahụ, họrọ asụsụ gị <strong>('Team') </strong>ma họrọkwa ọrụ, <pontoonCvLink>Common Voice </pontoonCvLink>. A ga-enwe faịlụ a ga-atụgharị. Pịa aka n'otu, mgbe ahụ ọ ga-egosi mkpụrụokwu na Bekee na igbe ịtụgharị ha.{ " " }
+about-playbook-how-localize-content-3 = Ntụgharị bụ site na Bekee, mana ị ga-ahụ <strong>aro </strong>n'asụsụ ọzọ. Pịa <strong>Profaịlụ</strong>akara, mgbe ahụ <strong>nhazi</strong>jikọọ ma tinye asụsụ ọ bụla ị na-asụ. N'okpuru akụkụ aka nri, a ga-enwe ndetu ntụgharị a kpọrọ <strong>Locales</strong>. Ntụgharị na-egosi na saịtị ma otu ụbọchị gachaa.{ " " }
+about-playbook-how-localize-content-4 = A dịla njikere iweputa saịtị ahụ mgbe o ruru 75% ngwụcha.{ " " }
+about-playbook-how-localize-content-5 = Kirie vidio nkọwa anyị iji nye aka{ " " }
+
+## How to add sentences
+
+about-playbook-how-add-sentences = Kedu ka m ga-esi tinye ahịrịokwu?{ " " }
+about-playbook-how-add-sentences-content-1 = I nwere ike tinye ahịrịokwu na <writePageLink>Dee peeji</writePageLink>ma ọ bụ nyochaa ahịrịokwu na <reviewPageLink>Nyochaa peeji </reviewPageLink>.{ " " }
+about-playbook-how-add-sentences-content-2 = Mmadụ abụọ ga-enyochariri ma nabata ahịrịokwu iji tinye ya na Common Voice. I ga-emepụta ntuziaka nye asụsụ gị <languageGuidelinesLink>ebe a </languageGuidelinesLink> Ahịrịokwu ga-adịriri na <licenseLink>ebe ọha </licenseLink> ma pekarịa mkpụrụokwu 15. I nwere ike ịgwa onye nwe ederede ahụ ka o mee ya<waiverLink> CC0 site n'iji usoro nhapụ ikike </waiverLink>, ma zitere anyị ya nacommonvoice@mozilla.com
+about-playbook-how-add-sentences-content-3 = I nwere ike iji <scraperLink> Ihe mwepụta ahịrịokwu</scraperLink>  iji nkenke ahịrịokwu ka nkwado site na Wikipedia
+
+## How to access dataset
+
+about-playbook-how-access-dataset = Kedu ka m ga-esi enweta ma jiri ntọala data rụọ ọrụ?

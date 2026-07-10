@@ -1,0 +1,91 @@
+## Datasets Page
+
+datasets-heading = Datamarç̌a
+datasets-headline = { "" }
+# New/upcoming datasets page headline
+datasets-headline-mdc = Mozilla Common Voiceşi data set̆epeşa açkva ar xvala Mozilla Data Collectiveşen ixtimen.
+language = Nena
+download-dataset-header = datamarç̌a Kogeiğit
+download-delta-explainer = { "" }
+download-dataset-tag = { "" }
+# File size in gigabytes
+size = Boyut̆i
+validated-hr-total = Tzuraneri saatişi ǩoroba
+overall-hr-total = Geneluri saatişi ǩoroba
+cv-license = Lisansi
+audio-format = Xomaşi Format̆i
+dataset-splits = Bogepe (Tzana do Cinsiyet̆i)
+number-of-voices = Xomaşi ǩoretsxa
+splits = Boginape
+email-to-download = { "" }
+why-email = Amolva var it̆işu.
+confirm-size = { "" }
+size-gigabyte = Didi Biritanya
+size-megabyte = MB
+confirm-no-identify = Common Voiceşi datamarç̌as na ren msinapupeşi noçinepe odziru şeni var inç̌itaten<b>ǩebuli atna</b>
+confirm-join-mailing-list = Common Voiceşi e-posta list̆eşa amaxtimu ginon (gorum)
+download-language = { $language } doya geiğit
+validated-hours = İtzuranu Saatepe
+recorded-hours = Doliç̌aru Saatepe
+whats-inside = Common Voice datamarç̌aşi doloxe mupe orenan?
+dataset-description-hours =
+    Datamarçhas na ren khatha doloçhara umemgvapu MP3 do hemus na numtsxun ar çharaşi dosyaşen eçkindun. Datamarçhas na doloçharun <b>{ $total }</b> saatişi didos, osinapu oçinu şeni tzana, cinsiyethi do aksani steri demografikhuri meta marçhape meşadzin.
+    Datamarçha hatzi <b>{ $languages }</b> nenas <b>{ $valid }</b> saatişen eçkindun ama phanda çkva dido xoma do nena ekhevumtsxumt.
+want-dataset-update = { "" }
+subscribe = Abone iyi
+get-started-speech = Osinapu Oçinus Kogyoç̌ǩit
+other-datasets = Majura Xomaşi Datamarç̌ape
+feedback-q = Uǩaçxeni gnapa giğunan-i?
+# This indicates that there is no data to display
+no-information = Çkinapa va ren
+resource-nemo-info = { "" }
+resource-deepspeech-info = { "" }
+resource-coqui-info = Galiçuri
+community-playbook = Partiyaşi becit̆i kitabi
+data-other-ted-name = TED-LIUM ǩoroba
+data-other-voxforge-description = { "" }
+data-other-tatoeba-description = { "" }
+your-feedback = { "" }
+go-discourse = Zit̆aşe İdi
+missing-language = Nena-tkvani datamarç̌as var dziremt-i? Nena ogoru şeni Nenapeşi butkaşa idit.
+go-languages-page = Nena but̆ǩaşe idi
+ready-to-validate = Cumlepe getzuranus meşvelu şeni xadziri oret-i?
+more = Çkva
+download = Kogeiği
+dataset-version = Versioni
+sha256-checksum-copied = SHA256 Checksum ǩop̌ya dixenu!
+sha256-checksum-copied-error = SHA256 Checksum ǩop̌ya var ixenu!
+clipboard-not-supported = Panok var numxacams
+no-information-available = Çkinapa  ren
+dataset-metadata-sex = Seksi
+# dataset metadata - age of contributor
+dataset-metadata-age = Tzana
+donate-modal-message = Dataseti tkvani gyulun (culun)
+dataset-donate-modal-heading = Giçkit̆es-i...
+data-download-singleword-title = Ar Zit̆a Noğire Boligina Kogeiğit
+data-download-button = Common Voiceşi Datape kogeiğit
+data-download-yes = Ho
+data-download-deny = Var
+data-download-license = Lisans: <licenseLink>CC-0</licenseLink>
+data-download-modal = { "" }
+data-subtitle = Oxori
+data-explanatory-text = { "" }
+data-get-started = <speechBlogLink>Osinapu Oçinobas Kogyoç̌ǩit</speechBlogLink>
+data-other-title = Majura xomaşi datamarç̌ape
+data-other-goto = { $isname }'şe idi
+data-other-download = Meçama Geiği
+data-bundle-button = Datamarç̌aşi Paket̆i kogeiğit
+data-bundle-description = Comman Voicesi data març̌ape xvala var jindoleni majura xoma datapeti.
+release-version = Versioni
+dataset-date = Tarixi
+license = Lisansi: <licenseLink>{ $license }</licenseLink>
+license-mixed = Oǩont̆aleri
+# Support old genders in older datasets
+male = Mamuli
+female = Daduli
+# MENU ITEM TOOLTIPS
+download-contribute-menu-tooltip = Xomaşi dataseti çkunis geiğit (ciğit)
+# MENU ITEM ARIA LABELS
+download-contribute-menu-aria-label = Common Voiceşi datape odziru şeni geğmaluşi goşatsxunape
+datasets-show-more = Mtel Dataseti otziri
+datasets-show-less = En soni Dataseti otziri

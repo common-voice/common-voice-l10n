@@ -1,0 +1,152 @@
+action-click = Чиртегез
+action-tap = басып алыгыз
+contribute = Үз өлешеңне кертү
+review = Тикшерү
+skip = Калдырып тору
+shortcuts = Төймә комбинацияләре
+clips-with-count-pluralized =
+    { $count ->
+        [one] <bold>{ $count }</bold> Клип
+       *[other] <bold>{ $count }</bold> Клиплар
+    }
+goal-help-recording = Сез Common Voice'ка көнлек { $goalValue } аудиоязма яздыру максатының <goalPercentage></goalPercentage> күрсәткеченә ирешүдә ярдәм иттегез!
+goal-help-validation = Сез Common Voice'ка көнлек { $goalValue } аудиоязма тикшерү максатының <goalPercentage></goalPercentage> күрсәткеченә ирешүдә ярдәм иттегез!
+contribute-more =
+    { $count ->
+        [one] башка
+       *[other] Тагын { $count }'не башкарырга әзерме?
+    }
+speak-empty-state = Бу телдә яздыруга җөмләләр калмады...
+no-sentences-for-variants = Сезнең диалектта җөмләләр калмаган бугай! Телегезнең башка диалектларында булган җөмләләрнең күрсәтелүен көйләүләрдән сайлый аласыз.
+speak-empty-state-cta = Җөмләләр өстәү
+speak-loading-error =
+    Сезгә укыр өчен  һичбер җөмлә табылмады.
+    Зинһар соңрак тырышып карагыз.
+record-button-label = Тавышыгызны яздырыгыз
+share-title-new = Безгә күбрәк тавыш табарга <bold>ярдәм итегез</bold>
+keep-track-profile = Профиль булдырып, башкарган эшләрегезне күзәтеп барыгыз
+login-to-get-started = Башлау өчен керегез яки теркәлегез
+target-segment-first-card = Сез үз өлешегезне безнең беренче максатлы сегментыбызга кертәсез
+target-segment-generic-card = Сез үз өлешегезне максатлы сегментка кертәсез
+target-segment-first-banner = Common Voice-ның { $locale } беренче максатлы сегментын булдырырга ярдәм итегез
+target-segment-add-voice = Тавышыгызны өстәү
+target-segment-learn-more = Тулырак
+change-preferences = Көйләнмәләрне үзгәртү
+login-signup = Керү / Теркәлү
+vote-yes = Әйе
+vote-no = Юк
+datasets = Мәгълүмат тупланмалары
+languages = Телләр
+about = Хакында
+partner = Партнёр
+submit-form-action = Җибәрү
+
+## Reporting
+
+report = Шикаять итү
+report-title = Шикаять итү
+report-ask = Бу җөмләгә бәйле нинди кыенлыкларыгыз бар?
+report-offensive-language = Рәнҗеткеч сүзләр
+report-offensive-language-detail = Җөмләдә кимсетүле я рәнҗеткеч сүзләр бар.
+report-grammar-or-spelling = Грамматик / орфографик хата
+report-grammar-or-spelling-detail = Җөмләдә грамматик яки орфографик хата бар.
+report-different-language = Башка тел
+report-different-language-detail = Бу җөмлә мин сөйләшкән телдә түгел.
+report-difficult-pronounce = Әйтүе кыен
+report-difficult-pronounce-detail = Бу җөмләдә укырга я әйтергә кыен сүзләр я гыйбарәләр бар.
+report-offensive-speech = Рәнҗеткеч сүз
+report-offensive-speech-detail = Бу клипта кимсетүле-рәнҗеткеч  гыйбарәләр бар.
+report-other-comment =
+    .placeholder = Комментарий
+success = Уңыш
+continue = Дәвам итү
+report-success = Шикаять җибәрелде
+
+## Speak & Listen Shortcuts
+
+# Must be one letter that appears in the translated { skip } string.
+shortcut-skip = s
+
+## Speak Shortcuts
+
+# Must be one letter that appears in the translated record-string inside of { shortcut-record-toggle-label }.
+# Must be different from { shortcut-skip }, { shortcut-vote-yes } and { shortcut-vote-no }
+shortcut-record-toggle = r
+shortcut-record-toggle-label = Яздыру/Туктату
+shortcut-rerecord-toggle = [1-5]
+shortcut-rerecord-toggle-label = Клипны янәдән яздыру
+shortcut-discard-ongoing-recording = ESC
+shortcut-discard-ongoing-recording-label = Агымдагы яздырудан баш тарту
+shortcut-submit = Enter
+shortcut-submit-label = Клипларны җибәрү
+request-language-text = Common Voice'ка Сезнең телегез өстәлмәгәнме әле?
+request-language-button = Телнең өстәлүен сорау
+
+## Listen Shortcuts
+
+# Must be one letter that appears in the translated play-string inside of { shortcut-play-toggle-label }.
+# Must be different from { shortcut-skip }, { shortcut-vote-yes } and { shortcut-vote-no }
+shortcut-play-toggle = p
+shortcut-play-toggle-label = Уйнату/Туктату
+# Must be one letter that appears in the { vote-yes } string.
+# Must be different from { shortcut-skip }, { shortcut-vote-no } and { shortcut-play-toggle }
+shortcut-vote-yes = y
+# Must be one letter that appears in the { vote-no } string.
+# Must be different from { shortcut-skip }, { shortcut-vote-yes } and { shortcut-play-toggle }
+shortcut-vote-no = n
+
+## Validation criteria
+
+contribution-criteria-nav = Критерийлар
+contribution-criteria-link = Катнашу критерийларын карау
+contribution-criteria-page-title = Катнашу критерийлары
+contribution-criteria-page-description = Аудиоязмаларны тыңлаганда нәрсәгә игътибар итәргә кирәклеген, һәм үзегезнең аудиоязмаларыгызны да ничек баетып булганын өйрәнегез.
+contribution-for-example = мәсәлән
+contribution-misreadings-title = Дөрес укымаулар
+contribution-misreadings-description = Сез тыңлаган аудиоязманың текстка туры килүен бик игътибар белән тикшерегез. Кечкенә генә хаталар булса да, аудиоязманы кире кагасыз. <br />Бик еш очраучы хата мисаллары:
+contribution-misreadings-description-extended-list-1 = Аудиоязма башында сүз яки сүзнең бер өлешен төшереп калдыру. Мәсәлән, "сәлам" урынына "әләм" дип яздыру.
+contribution-misreadings-description-extended-list-2 = Сүз ахырында <strong>"лар/ләр"</strong> төшеп калган.
+contribution-misreadings-description-extended-list-3 = Язылган сүзгә охшаш, ләкин аерылып торган сүз әйтелә. Мәсәлән, "алып кайтабыз" урынына "апкайтабыз" дип әйтү, яки киресенчә.
+contribution-misreadings-description-extended-list-4 = Яздыруны иртәрәк тәмамлаганга соңгы сүзнең ахыры яздырылмыйча калган.
+contribution-misreadings-description-extended-list-5 = Бер үк сүзне берничә тапкыр укырга тырышу.
+contribution-misreadings-example-1-title = Бу балыклар базарда сатыла.
+contribution-misreadings-example-2-title = Бу балык базарда сатыла.
+contribution-misreadings-example-2-explanation = ["балыклар" булырга тиеш иде]
+contribution-misreadings-example-3-title = Бу балыклар базарда саты-.
+contribution-misreadings-example-3-explanation = [Язма соңгы сүзнең ахырына җитмичә өзелә]
+contribution-misreadings-example-4-title = Бу балыклар базарда сатыла. Әйе.
+contribution-misreadings-example-4-explanation = [Кирәкле тексттан күбрәк яздырылган]
+contribution-misreadings-example-5-title = Без чәй алып кайтабыз.
+contribution-misreadings-example-6-title = Без чәй апкайтабыз.
+contribution-misreadings-example-6-explanation = ["алып кайтабыз" булырга тиеш иде]
+contribution-misreadings-example-7-title = Без бер чәй алып кайтабыз.
+contribution-misreadings-example-7-explanation = [Чыганак текстта "бер" юк]
+contribution-misreadings-example-8-title = Төклетура узып үтте.
+contribution-misreadings-example-8-explanation = [Туры килмәгән эчтәлек]
+contribution-varying-pronunciations-title = Төрле әйтелешләр
+contribution-varying-pronunciations-description = Укучының сүзне дөрес әйтмәве, басымны урынсыз калдыруы яки сорау билгесенә игътибар итмәве нигезендә язуны кире кагар алдыннан сак булыгыз. Дөньяның һәм илнең төрле почмакларында кулланылган төрле акцентлар һәм әйтелешләр булырга мөмкин. Зинһар, сездән башкача сөйләшә алганнарны кире какмагыз.
+contribution-varying-pronunciations-description-extended = Икенче яктан караганда, укучы бу сүзне бәлки беренче тапкыр очраткан һәм аның әйтелешен дөрес чамалый алмаган гына дип уйласагыз, зинһар өчен, аны кабул итмәгез. Шикләнсәгез, калдырып тору төймәсенә басыгыз.
+contribution-varying-pronunciations-example-1-title = Башына берет кигән иде.
+contribution-varying-pronunciations-example-1-explanation = ['Берет' сүзендә басым беренче иҗегенә (Британия) ясалса да дөрес, икенче иҗегенә дә (АКШ).]
+contribution-varying-pronunciations-example-2-title = Аның кулы күтәрелгән иде.
+contribution-varying-pronunciations-example-2-explanation = ['Raised' сүзе инглиз телендә һәрвакыт бер иҗектә әйтелә, ике түгел]
+contribution-background-noise-title = Арткы планда шау-шу
+contribution-background-noise-description = Безнең теләгебез — фонда төрле чит тавышлар булганда да машина өйрәтү алгоритмнарының эшли алуы. Шуңа күрә хәтта нык яңгыраган чит тавышлар кергән язмалар да кабул ителә ала. Бары тик шунысы шарт — андый тавышлар сезгә барлык текстны ишетергә комачауламаска тиеш. Фондагы музыка уйнаса да, язма шулай ук кабул ителә. Ләкин сез һәрбер аерым сүзне анык ишетмәсәгез, андый язма яраксыз.
+contribution-background-noise-description-extended = Язма кинәт өзелү яки аның эчендә шытыр-пытыр тавышлар булу сәбәпле текст тулысынча ишетелмәсә, язманы кире кагыгыз.
+contribution-background-noise-example-1-fixed-title = <strong>[Төчкерү]</strong> Бу балыклар базарда <strong>[ютәл]</strong> сатыла.
+contribution-background-noise-example-2-fixed-title = Бу балыклар база <strong>[ютәл]</strong> сатыла.
+contribution-background-noise-example-2-explanation = [Текстның бер өлеше ишетелми]
+contribution-background-noise-example-3-fixed-title = <strong>[Шытыр-пытыр тавыш]</strong> балыклар базарда <strong>[шытыр-пытыр тавыш]</strong> -атыла.
+contribution-background-voices-title = Арткы планда тавышлар
+contribution-background-voices-description = Фонда чит кеше тавышлары ишетелер-ишетелмәс булса, бу — проблема түгел. Ләкин сез текстта булмаган ниндидер аерым сүзне аера алсагыз, андый язманы кире кагарга кирәк. Чөнки сүзләрне танучы машина алгоритмы хата ясарга мөмкин. Гадәттә, андый очраклар кемдер телевизорны сүндермәсә яки якын-тирәдә әңгәмә барса була.
+contribution-background-voices-description-extended = Язманың кинәт өзелүе яки шытыр-пытыр тавышлар аркасында текстның ниндидер өлеше ишетелмәсә, язманы кире кагыгыз.
+contribution-background-voices-example-1-title = Бу балыклар базарда сатыла. <strong>[бер тавыш белән укыла]</strong>
+contribution-background-voices-example-1-explanation = Киләсеңме? <strong>[башка кеше эндәшә]</strong>
+contribution-volume-title = Тавыш көче
+contribution-volume-description = Төрле язмаларда тавыш катылыгы да төрле була — бу табигый күренеш. Шуңа күрә аларны кире кагуның шарты — тавыш, артык көчле булып, язмага бозыклык кертергә тиеш, яки (монысы ешрак очрый) тавыш бөтенләй ишетмәслек булып, сез, текстка мөрәҗәгать итмичә, берни дә аңламаска тиеш. Башка очракларда язманы кире кагарга кирәкми.
+contribution-reader-effects-title = Укучы эффектлары
+contribution-reader-effects-description = Яздырган мисалларның күпчелеге кешеләрнең табигый сөйләменнән гыйбарәт. Кайвакыт очрый торган гадәти булмаган язмалар (кычкырып сөйләшү, пышылдау яки сизелерлер дәрәҗәдә «драматик» сөйләшү) кабул ителә ала. Ләкин җырлау язмаларын һәм компьютерда синтезланган тавышлы язмаларны кабул итмәгез.
+contribution-just-unsure-title = Тәгаен белмисезме?
+contribution-just-unsure-description = Бу киңәшләр ярдәм итә алмаса, акылыгызга нигезләнеп карар кабул итегез. Әгәр чынлап та нишләргә белмәсәгез, калдырып тору төймәсен кулланып киләсе язмага күчегез.
+see-more = <chevron></chevron>Күбрәк
+see-less = <chevron></chevron>Әзрәк

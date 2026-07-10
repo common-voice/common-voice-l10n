@@ -1,0 +1,70 @@
+## ABOUT US
+
+about-title = Khazia Common Voice?
+about-header-description-v2 =
+    <p>Common Voice cha khizaw kaoki liata ypa kyhpachâna raihriatuhpazy ta ama ao ta ama deichhyhpa moto hmâ theipa databyh a châ. Ao application padua khohpazy cha data-zy he khaw pachuna mode-zy pachu awpa ta ama hmâh thei</p>
+    <p>Tahmâ cha, ao databyh hluh via he hmo thiehpa papina pakhâ khâhpa kawpanizy liata a y. Ao databyhzy cha vyuh ta aduana a chyh kaw: Mongyuh reih cheih leipazy, chyhzy rôh, heih lyuleipazy, chanôzy nata LGBTQIA+chyhsazy. Rei khohpa cha ao pahypa tekanawlawchi cha reihchâ hluhpi châta raihria vei, cha cha rai a hriana su liata chyhsa to châta â lyu kawpa ta rai hria thei aw vei tahpa a châ. Suto liata ypa chyhsazy cha ama aozy thyupa ta cha cha thla awpa ta eima cha hrua khoh</p>
+how-does-it-work-title-v2 = Common Voice cha kheihta e rai a hria?
+how-does-it-work-text = Keimo cha hnawh-pahypa ao databyh he eima tlua hai. Na ao kha thyu la, mo hropa aozy adona kha apyh la, dataset he moto châta a pha via thei nawpa ta tao mah y.
+
+## How does it work section
+
+about-language-req-subtitle = Mo pakha ta reih sâ kha apakhôthlusa.
+about-localization-title = Website Reihpaleina
+about-localization-subtitle = Website châzy kha cha reih lâ chata paleipa a châ.
+about-sentence-collection-title = Bietlâh Pahmaohna
+about-sentence-collection-subtitle = Bietlâhzy cha chyhsazy a paro kawpa ta ama rei thei nawpa ta pahmaohpa a châ.
+about-new-lang-title = Reih Thiehpa Pathao
+about-new-lang-subtitle = Keimo cha Common Voice he he reih heta eima pathao.
+about-voice-contrib-title = Ao Deichhyna
+about-voice-contrib-subtitle = Chyhsazy ta avy ei ta, ama aozy ama vaw thyu.
+about-voice-validation-title = Ao Apyna
+about-voice-validation-subtitle = Mo hrozy ta cha ao clip-zy cha amâ py.
+about-dataset-release-title = Dataset Pathliena
+about-dataset-release-subtitle = Keimo cha dataset he thla 3 a pha chareih ta eima pathlei tyh.
+about-subscribe-text = Common Voice nata azaona na hnei khoh ma?
+about-speak = Biereih
+about-speak-text = Deichhytuhzy cha bank sâ kha tawhta ama thyu chiehpa bietlâhzy reina chôta ama aozy ama pangia.
+about-listen-queue = Nahthlie-Paziah
+about-listen-queue-text = Ao clip-zy cha nahthlie thei awpa ta pangiana paziahpa liata so khai hawpa a châ.
+about-listen = Nahthlie
+about-listen-text = Hmâhtuhpazy cha reih papua tuhpazy ta bietlâh kha âdo kawpa ta ama reih ma tahpa ta tahpa pasiana chôta ama thyu chiehpa clip-zy kha amâ py.
+about-is-it-valid = He clip he âdo ma?
+about-is-it-valid-text = Ao clip cha hmâhtuhpa ta Âdo tahpa vaw a pie tita, "âdo" tahpa ta ngiana taopa a châ.
+about-yes-votes = ≥ 2 Apypa vawzy
+about-yes-votes-text = Common Voice dataset lâta palei awpa ta ao clip sâ kha cha alyu leipa hmâhtuhpa mo pa no tawhta amâ py awpa â byuh.
+about-no-votes = ≥ 2 Apy leipa vawzy
+about-no-votes-text = Hmâhtuhpa mo pakha tawhta ao clip kha â py vei pata nata paziahna lâ a vawh ha heih aw. Abeilâ ta a ei no na ta dythapa a châ khiah, thlâ su lâ paly awpa a châ.
+about-dataset-new = Common Voice Dataset
+about-dataset-new-text = Common Voice Dataset liana heta pamosana ao hluhpi y ta, cha chata developers-zy bao ta ao pahnona chhaichhi ama tao tita a bao.
+about-clip-graveyard = Clip Thyna
+about-clip-graveyard-text =
+    Clip Thyna liana heta ao clip-zy, Common Voice dataset liana ta a hlao theileipa zy a y. Dataset hawhpa khata, Clip Thyna chhao he download  thei'pa ta a y. 
+    
+    He parawche liana heta maniah a baotuhpa, a ry liata palâsapa mozy nata phupyzy hnohta eimâ lyna eima palâsa:
+about-get-involved = A hlao
+about-get-involved-text-2 =
+    Common Voice he hma-pha via n’awpa ta na baoh khoh ma? 
+    A pha kaw! Email tlyma <discourseLink>Discourse</discourseLink> 
+    forums lâta maniah vaw chho la, website liana ta rairuna na hnei khiahtala,
+    <githubLink>GitHub</githubLink> lâta vaw tly la, chata leipa ta
+    <matrixLink>Matrix</matrixLink> community chat liana chhao maniah vaw hlao teh.
+about-stay-in-touch = Kheihta e eimâ zao parei thei aw?
+about-stay-in-touch-button = mohsaih athu
+about-stay-in-touch-text-1 = Common Voice liata kempeizy, event-zy, nata co-design features-zy liata kheihta e nâ hlao thei aw tahpa pahno nawpa ta, eima mailing list liata <emailFragment>mohsaih athu</emailFragment> teh..
+about-stay-in-touch-text-2 = Mozilla reih kawiti liata mohropazy nata ahmô nawpa ta <discordLink>Discord</discordLink> chvk pachia byuhpa tlâhpizy châta <discourseLink>Discourse</discourseLink> chvk pachâna hia chatlei nawpa châta <matrixLink>Matrix</matrixLink> he nâ pazao thei.
+about-nav-why-common-voice = Khazia?
+about-nav-how-it-works = Kheihta?
+about-nav-partners = Akaolâhpazy
+about-nav-get-involved = A hlao
+about-nav-how-it-works-2 = Common Voice cha kheihta e rai a hria?
+about-nav-playbook = Ahlao dâh achu teh
+
+## Community Playbook Content
+## What is a language
+
+about-playbook-what-is-language = Common Voice lia reihchâ tahpa cha khâpa maw?
+
+## How is Common Voice funded
+
+about-playbook-how-funded-content-3 = Nâma tlyma nâmo phupy ta he parawche liana heta na thapasa khoh khiahtala, <donateLink>thyuna</donateLink> na tao thei, chvk eima partnerships team-zy he <emailFragment>commonvoice@mozilla.com</emailFragment> liana heta nâ vaw chho thei hra.

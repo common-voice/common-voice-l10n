@@ -1,0 +1,3 @@
+## Dashboard
+
+stats = snpuwan

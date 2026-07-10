@@ -1,0 +1,345 @@
+# GUIDELINES PAGE
+guidelines-header = Közreműködői irányelvek
+guidelines-header-subtitle = Értse meg, hogyan adhat hozzá mondatokat és hangklipeket a Common Voice adatkészlethez, illetve hogyan ellenőrizheti őket
+voice-collection = Hanggyűjtés
+sentence-collection = Mondatok gyűjtése
+question-collection = Kérdésgyűjtemény
+scripted-speech = Előre megírt beszéd
+spontaneous-speech = Spontán beszéd
+dont-subheader = Ne
+
+## Voice Collection nav ids
+
+varying-pronunciations = Változó kiejtések
+misreadings = Félreolvasások
+offensive-content = Sértő tartalom
+background-noise = Háttérzaj
+background-voices = Hangok a háttérben
+volume = Hangerő
+reader-effects = Felolvasói hatások
+just-unsure = Csak bizonytalan?
+example = Példa
+
+## Voice collection sidebar content
+
+varying-pronunciations-explanation-1 = Minden akcentust szívesen várunk! Legyen nagyon óvatos, mielőtt azért utasít el egy klipet, mert az olvasó hibásan ejtett ki egy szót, rossz helyre tette a hangsúlyt, vagy figyelmen kívül hagyta a központozást. Sokféle kiejtést használnak, és nem biztos, hogy mindet hallotta a helyi közösségében. Erősen vegye figyelembe, hogy mások másképpen beszélnek.
+varying-pronunciations-explanation-2 = Másrészt, ha úgy gondolja, hogy az olvasó még sosem találkozott a szóval, és tévesen tippelt a kiejtésére, akkor utasítsa el. Ha bizonytalan, használja a kihagyás gombot.
+varying-pronunciations-example = A posta zárva volt.
+varying-pronunciations-tip-1 = [A sztenderd nyelvváltozatban rövid o-val mondjuk]
+varying-pronunciations-tip-2 = [Viszont egyes nyelvjárásokban hosszú ó-val ejtik]
+offensive-content-explanation = A mondatok egy közösségi moderálási folyamat során kerülnek átvizsgálásra, azonban ez a folyamat nem tökéletes. Ha olyan mondatot lát vagy hall, amely sérti Önt – például mert sérti a <participationGuidelines>közösségi részvételi irányelveinket</participationGuidelines> –, akkor használja a jelentés gombot a felületen. Felkereshet minket a <emailFragment>commonvoice@mozilla.com</emailFragment> címen is.
+misreadings-explanation-1 = Számít, hogy az oldalon lévő összes szót helyesen olvassa-e fel. Hallgatáskor nagyon gondosan ellenőrizze, hogy pontosan az lett rögzítve, ami le lett írva; elutasítsa el, ha hozzáadott, összevont vagy kihagyott szavakat.
+misreadings-explanation-2 = A gyakori hibák közé tartoznak a következők:
+misreadings-explanation-3 = Hiányzó „A” vagy „Az” a felvétel elején.
+misreadings-explanation-4 = Hiányzó ragok a szavak végén.
+misreadings-explanation-5 = Olyan összevonások felolvasása, melyek nem szerepelnek a szövegben.
+misreadings-explanation-6 = Hiányzó utolsó szó a felvétel túl gyors befejezése miatt.
+misreadings-explanation-7 = Többszöri próbálkozás egy szó felolvasására.
+misreadings-example-1 = Kimegyünk kávézni.
+misreadings-example-2 = Elmegyünk kávézni.
+misreadings-example-3 = Megyünk kávézni.
+misreadings-example-4 = A dongó elszállt.
+misreadings-tip-1 = [Ennek kellene lennie: „Kimegyünk”]
+misreadings-tip-2 = [Hiányzik az igekötő]
+misreadings-tip-3 = [Nem egyező tartalom]
+background-noise-explanation = Hallania kell a felvétel minden szavát. Azt szeretnénk, ha a gépi tanulási algoritmusok képesek legyenek kezelni a különféle háttérzajokat, és még a viszonylag hangos zajok vagy a halk háttérzenék is elfogadhatók, feltéve, hogy nem akadályozzák abban, hogy hallja a szöveg egészét. A szöveg érthetőségét megakadályozó recsegések vagy „szakadások” azt jelentik, hogy el kell utasítania a klipet.
+background-noise-example-1 = A triász óriás dinoszauruszai.
+background-noise-example-2 = [Tüsszentés] A triász [köhögés] óriás dinoszauruszai.
+background-noise-example-3 = A triász óriás dinója [köhögés].
+background-noise-example-4 = [Recsegés] triász óriás [ropogás]-oszauruszai.
+background-noise-tip-1 = [háttérzaj szakítja meg]
+background-noise-tip-2 = [A szöveg egy része nem hallható]
+background-voices-explanation = Egy kis háttérzaj rendben van, de ha hallja, hogy valaki más is beszél, akkor a klipet el kell utasítani. Ez jellemzően akkor történik, ha a TV bekapcsolva maradt, vagy a közelben beszélgetés folyik.
+background-voices-example-1 = A triász óriás dinoszauruszai. [egy hang által felolvasva]
+background-voices-tip-1 = Jössz? [más hívta]
+volume-explanation = Természetes eltérések lesznek az olvasók hangereje között. Csak azokat utasítsa el, ahol a hangerő olyan magas, hogy szétesik a felvétel, vagy (ami gyakrabban előfordul) olyan halk, hogy az írott szöveg nélkül nem érti, hogy pontosan mit is olvas fel.
+reader-effects-explanation = A legtöbb felvételen az emberek a természetes hangjukon beszélnek. Elfogadhatja az alkalmi nem szokásos felvételeket, amelyen kiabálnak, suttognak vagy csak „drámai” hangok olvassák fel. Viszont a felénekelt vagy számítógéppel szintetizált felvételeket utasítsa el.
+just-unsure-explanation = Ha olyan dologgal találkozik, amelyre ezek az irányelvek nem vonatkoznak, akkor szavazzon a legjobb megítélése szerint. Ha valóban nem tud dönteni, akkor használja a kihagyás gombot, és folytassa a következő felvétellel.
+still-have-questions = További kérdése van?
+contact-common-voice = Kapcsolat a Common Voice csapattal
+
+## Sentence collection nav ids
+
+public-domain = Közkincs
+citing-sentences = Mondatok idézése
+adding-sentences = Mondatok hozzáadása
+reviewing-sentences = Mondatok ellenőrzése
+sentence-domain = Mondatdomén
+
+## Sentence collection sidebar content
+
+public-domain-explanation-1 = Nagyon fontos, hogy minden szöveges mondat <publicDomain>közkincs</publicDomain> (<cc0>cc0</cc0>) legyen, mivel a Common Voice adatkészlet cc0 licenc alatt kerül kiadásra. Csak akkor töltsön fel mondatot, ha biztos benne, és mindig adja meg a releváns idézetet.
+public-domain-explanation-2 = Egy hasznos beszédfelismerő motor építéséhez a legjobb mondatok köznyelviek, és modern szóhasználatúak. Néhány ötlet a mondatok előállításához:
+public-domain-explanation-3 = Alkosson modern, köznyelvi mondatokat egyedül, barátaival vagy nyelvi közösségével – például egy „write-a-thon” segítségével
+public-domain-explanation-4 = Lépjen kapcsolatba szerzőkkel, drámaírókkal vagy forgatókönyvírókkal, és kérdezze meg, hogy hajlandóak lennének-e munkáik egy részét közkincsként felajánlani
+public-domain-explanation-5 = Keressen olyan szövegeket, amelyekre a szerzői jog már nem vonatkozik – például a legtöbb 1920 előtt megjelent könyvet
+public-domain-explanation-6 = Lépjen kapcsolatba kormányzatokkal, nonprofit vagy médiaszervezetekkel, és kérdezzen rá, hogy a webes tartalmuk, jelentéseik vagy más tartalmuk felajánlható-e közkincsként
+citing-sentences-explanation-1 = Fontos, hogy használja az idézeteket, mert így ellenőrizhetjük, hogy a mondatok közkincsek-e, és hogy nem vonatkozik-e rájuk szerzői jogi korlátozás.
+citing-sentences-subheader-websites = Webhelyek
+citing-sentences-subheader-websites-explanation = Felveheti a weboldalt, például „Common Voice – https://commonvoice.mozilla.org/”
+citing-sentences-subheader-academic-reference = Akadémiai hivatkozás
+citing-sentences-subheader-academic-reference-explanation =
+    Használhat akadémiai hivatkozási stílust, például a Harvard-stílust:
+    „Mozilla (2021) Common Voice. Available at https://commonvoice.mozilla.org/ (Accessed: 15th September 2021)”
+citing-sentences-subheader-offline-sources = Offline források
+citing-sentences-subheader-offline-sources-explanation = Az interneten nem elérhető közkincsű szövegek esetén használhatja az akadémiai hivatkozási stílust, például a Harvard-stílust: „Jess (2021) Saját nyilvános licencű költeményeim”
+citation =
+    .label = Idézet
+self-citation = Saját idézés
+self-citation-explanation = Így hivatkozik saját magára, ha a tartalmat saját maga írta.
+adding-sentences-subheader-length = { "" }
+adding-sentences-subheader-length-explanation = A mondatnak 15 szónál rövidebbnek kell lennie.
+adding-sentences-subheader-spelling-punctuation = Helyesírás és központozás
+adding-sentences-subheader-spelling-punctuation-explanation = A mondatot helyesen kell leírni.
+adding-sentences-subheader-speakable = Kimondható
+adding-sentences-subheader-speakable-explanation = A legjobb mondatok természetesek és társalgási jellegűek – könnyen olvashatónak kell lenniük. Bár a fonetikai sokféleség és a mondatok különböző szavai fontosak, igyekszünk a mondatok rögzítését is a lehető legvonzóbbá és szórakoztatóbbá tenni az önkéntes közösség számára.
+adding-sentences-subheader-numbers = Számok
+adding-sentences-subheader-numbers-explanation = A forrásszövegben ideális esetben ne legyenek számok, mert problémákat okozhatnak a hangos felolvasásnál. A számok kiolvasása a környezetüktől függ, és zavart okozhatnak az adatkészletben. Például a „250” olvasható „kétszázötvenként” vagy „kettőszázötvenként” is.
+adding-sentences-subheader-abbreviations = Rövidítések és mozaikszavak
+adding-sentences-subheader-abbreviations-explanation = Az olyan rövidítéseket és mozaikszavakat, mint a „USA” vagy az „ICE”, kerülni kell a forrásszövegben, mert előfordulhat, hogy azok kiejtése nem esik egybe a leírásukkal. Továbbá, egy rövidítésnek több helyes olvasata is lehet.
+adding-sentences-subheader-punctuation = Központozás
+adding-sentences-subheader-punctuation-explanation = Speciális szimbólumokat és írásjeleket csak akkor szabad használni, ha feltétlenül szükséges. Például egy aposztróf szerepel az olyan angol szavakban, mint a „don't” és a „we're”, ezeknek szerepelnie kell a forrásszövegben, de nem valószínű, hogy valaha is szükség lesz az olyan speciális szimbólumra, mint a „@” vagy a „#”.
+adding-sentences-subheader-special-characters = Speciális karakterek és idegen betűk
+adding-sentences-subheader-special-characters-explanation-1 = A betűknek érvényesnek kell lenniük a beszélt nyelven. Például a „ж” egy betű az orosz ábécében, de sose használják az angolban, ezért sosem szerepelhet semmilyen angol forrásszövegben.
+adding-sentences-subheader-special-characters-explanation-2 = A nyelveknek saját ellenőrzési szabályaik lehetnek, további követelményekkel a honosításukkor. Ha egy nyelvhez nincs konkrét ellenőrzőfájl, akkor az angol szabályok jelennek meg a közreműködők számára.
+adding-sentences-subheader-offensive-content = Sértő tartalom
+adding-sentences-subheader-offensive-content-explanation = Ha a mondat sértő vagy felháborító – például kifejezetten szókimondó tartalom miatt, vagy megsérti a <communityGuidelines>közösségi részvételi irányelveinket</communityGuidelines> –, akkor a mondatot el kell utasítania. A probléma eszkalálásához felveheti velünk a kapcsolatot a <emailFragment>commonvoice@mozilla.com</emailFragment> címen.
+reviewing-sentences-explanation-1 = Ha a mondat megfelel a fenti feltételeknek, kattintson az „Igen” gombra.
+reviewing-sentences-explanation-2 = Ha a mondat nem felel meg a fenti feltételeknek, kattintson a „Nem” gombra.
+reviewing-sentences-explanation-3 = Ha nem biztos a mondattal kapcsolatban, ki is hagyhatja, és továbbugorhat a következőre.
+reviewing-sentences-explanation-4 = Ha elfogynak az ellenőrizhető mondatok, akkor segítsen további mondatok összegyűjtésében.
+domain-explanation = A domén a mondat témakörére utal. Jelenleg ezek közül választhat:
+
+## Question collection ids
+
+adding-questions = Kérdések hozzáadása
+
+## Question collection sidebar content
+
+what-makes-a-good-question-subheader = Mitől jó egy kérdés?
+what-makes-a-good-question-explanation = Egy jó kérdés a nyilvános részvételű adatkészletben:
+what-makes-a-good-question-explanation-criteria-1 = Legyen könnyen érthető és megválaszolható
+what-makes-a-good-question-explanation-criteria-2 = Legyen általánosságban releváns
+what-makes-a-good-question-explanation-criteria-3 = Ne használjon vagy várjon el ártalmas vagy sértő kifejezéseket
+what-makes-a-good-question-tip = Azt is megfontolhatja, hogy különböző kontextusokon és doméneken íveljen át.
+easy-to-understand = Könnyen érthető
+easy-to-understand-explanation = Válasszon egyszerű kérdéseket, amelyek bárki számára könnyen érthetőek, kultúrától és kontextustól függetlenül.
+spelling-and-pronunciation = Helyesírás és központozás
+spelling-and-pronunciation-explanation = Írjon helyesen.
+length = Hossz
+length-explanation = A kérdésre néhány mondatban kell tudni válaszolni.
+dont-add-subheader = Ne adjon hozzá
+culturally-specific-questions = Kulturális sajátosságú kérdéseket
+culturally-specific-questions-explanation = Olyan kérdéseket, amelyek nagyon kultúrafüggőek, vagy sokat feltételeznek a válaszolóról
+length-avoid-explanation = Olyan kérdéseket, amelyekre nehéz 15 másodperc alatt válaszolni (ez a maximális kliphossz)
+process-steps = Folyamatokat / lépéseket
+process-steps-explanation = Olyan kérdéseket, melyek több lépés felsorolását igényelnek. A lépések felsorolása a természetes beszéd helyett arra késztetik a felhasználót, hogy felmondja a választ.
+offensive-content-sensitive-information = Sértő vagy érzékeny információkra vonatkozó kérdéseket
+offensive-content-sensitive-information-explanation-explanation-1 = Olyan kérdéseket, amelyek személyazonosításra alkalmas információkat kérhetnek
+offensive-content-sensitive-information-explanation-explanation-2 = Olyan kérdéseket, amelyek gyűlöletbeszédet keltő, vagy más elfogult vagy sértő szándékúak lehetnek
+offensive-content-sensitive-information-explanation-explanation-3 = Olyan kérdéseket, amelyekre bizalmas, potenciálisan felzaklató válaszokat adhatnak
+example-questions-subheader = Példakérdések
+example-questions-explanation-1 = <examplePromptsLink>120 példakérdést talál ezen a lapon.</examplePromptsLink>
+example-questions-explanation-2 = Ha egy kérdéscsoportot küldene be feldolgozásra, akkor a <githubLink>GitHubon keresztül teheti meg</githubLink>, vagy küldje el a listáját e-mailben a <emailFragment>commonvoice@mozilla.com</emailFragment> címre.
+
+## Spontaneous Speech sidebar content
+
+# Answer Questions
+answer-questions = Kérdések megválaszolása
+answer-questions-subheader = Általános útmutatás
+answer-questions-explanation-1 = Gondoljon egy pillanatra a kérdésen, fontolja meg, hogy mit szeretne mondani, de ne gondolja át túlságosan. Kattintson a „rögzítés” ikonra. A rögzítés után meghallgathatja saját magát, felveheti újra, törölheti vagy beküldheti.
+answer-questions-explanation-2 = Ne feledje – ne aggódjon, ha dadog, szünetet tart vagy megismétel egy szót. Ezek mind hasznos adatok a mérnökök számára, akik átfogó, valós beszédfelismerő eszközöket készítenek.
+answer-questions-tip-1 = Rögzítsen egy viszonylag csendes helyen
+answer-questions-tip-2 = Válasszon olyan helyet, ahol jó az internetkapcsolat
+answer-questions-tip-3b = Próbáljon meg 15-30 másodperc alatt válaszolni
+answer-questions-tip-4 = Kerülje a gyűlölködő, uszító vagy más módon sértő beszédet
+answer-questions-tip-5 = Beszéljen természetesen, mintha egy barátjával tenné – használja a saját valódi nyelvváltozatát, dialektusát és akcentusát
+answer-questions-tip-6 = A hangereje legyen állandó – ne kiabáljon vagy énekeljen
+# Transcribe the Audio
+transcribe-the-audio = Hang leiratozása
+transcribe-the-audio-subheader-1 = Általános útmutatás
+transcribe-the-audio-subheader-2 = Számok és rövidítések
+transcribe-the-audio-subheader-3 = Speciális címkék
+transcribe-the-audio-subheader-4 = Szórészletek, hamis kezdések, ismétlődő szavak
+transcribe-the-audio-subheader-5 = Nyelvtani hibák és kollokvializmusok
+transcribe-the-audio-subheader-1-explanation = Általában le kell írnia mindent, amit hall. Ez ezt takarja:
+transcribe-the-audio-subheader-1-explanation-example-1 = A nehézségek leírása, beleértve a habozásokat és az ismétlődéseket is
+transcribe-the-audio-subheader-1-explanation-example-2 = Zajesemények címkézése, mint a köhögés vagy a nevetés
+transcribe-the-audio-subheader-1-explanation-example-3 = Jelentős zajszennyezés címkézése, mint a háttérben zajló csevegés vagy autódudák
+transcribe-the-audio-subheader-1-explanation-example-4 = A nyelvtani változatokat és a szlengeket előfordulásuk szerint kell rögzíteni. Ne javítsa vagy szerkessze mások beszédét.
+transcribe-the-audio-subheader-2-explanation-1 = A számokat és szimbólumokat szavakkal kell kiírni, nem számokkal vagy speciális karakterekkel. Példa:
+transcribe-the-audio-subheader-2-explanation-2 = A mozaikszavakat az adott nyelven szokásos módon kell írni, a nagybetűkre vonatkozó szokásos szabályok szerint. Ezeket nem szabad fonetikusan átírni. Példa:
+# text wrapped in correct will be shown as green text in the UI
+transcribe-the-audio-subheader-2-example-1-correct = <correct> Helyes</correct>: száz kilométerre van innen
+# text wrapped in wrong will be shown as red text in the UI
+transcribe-the-audio-subheader-2-example-1-wrong = <wrong>Hibás</wrong>: 100 kilométerre van innen
+# text wrapped in correct will be shown as green text in the UI, text wrapped in underline will be underlined in the UI
+transcribe-the-audio-subheader-2-example-2-correct = <correct> Helyes</correct>: Viszlát <underline>kétezer-tizenötben</underline>
+# text wrapped in wrong will be shown as green text in the UI, text wrapped in underline will be underlined in the UI
+transcribe-the-audio-subheader-2-example-2-wrong = <wrong>Hibás</wrong>: Viszlát <underline>2015-ben</underline>
+transcribe-the-audio-subheader-2-example-3-correct = <correct>Helyes</correct>: húsz százalékos kedvezmény volt rá
+transcribe-the-audio-subheader-2-example-3-wrong = <wrong>HIbás</wrong>: 20%-os kedvezmény volt rá
+transcribe-the-audio-subheader-2-example-4-correct = <correct>Helyes</correct>: Az <underline>FBI</underline> letartóztatta őket múlt csütörtökön
+transcribe-the-audio-subheader-2-example-4-wrong = <wrong>HIbás</wrong>: Az <underline>ef bí áj</underline> letartóztatta őket múlt csütörtökön
+transcribe-the-audio-subheader-3-explanation = A következő speciális címkéket kell használni az eltérések, töltelékszavak és más nem verbális tartalmak jelölésére (angolul).
+tags-table-header-1 = Címke
+tags-table-header-2 = Jelentés
+tags-laugh = Nevetés
+tags-disfluency = Megszakadás
+tags-unclear = Nem egyértelmű
+tags-noise = Zaj
+tags-laugh-explanation = A nevetés hangja.
+tags-disfluency-explanation =
+    Töltelékszó vagy helykitöltőként használt hang, miközben a beszélő eldönti, hogy mit akar mondani.
+    A magyarban néhány gyakori tétovázási hangok a „hát”, „hmm”, „ööö” stb.
+tags-unclear-explanation = Egy szó vagy szósorozat, amely nem érthető.
+tags-noise-explanation =
+    Bármilyen más típusú zaj, például a beszélő köhög vagy köszörüli a torkát,
+    egy autó dudál, valami megüti a mikrofont, csörög egy telefon, stb.
+# Note: do not translate any tag, like [noise] or [laugh]
+special-tags-example-2 =
+    És akkor [noise] elmentem nyaralni.
+    Nos, [noise] [laugh] ez nem épp nyaralás volt. [laugh]
+transcribe-the-audio-subheader-4-explanation-1 = A spontán beszéd természetesen tartalmaz hamis kezdéseket, ahol a teljes szónak csak egy töredéke jelenik meg. Ezekben az esetekben írja le a legjobb tudása szerint a szórészletet, és fűzzön egy kötőjelet a szó végéhez (-), jelezve, hogy a szó hibás. Példa:
+transcribe-the-audio-subheader-4-explanation-1-example = A neve <underline>Já- Ján-</underline> János volt.
+transcribe-the-audio-subheader-4-explanation-2 = Néha a beszélők többször megismételnek egy szót vagy szótöredéket. Ezt is át le kell iratozni. Példa:
+transcribe-the-audio-subheader-4-explanation-2-example = Aztán átmentem <underline>a háló- a</underline> hálószobába
+transcribe-the-audio-subheader-5-explanation-1 = A spontán beszéd természetesen tartalmaz nyelvtani hibákat. Ezeket nem szabad a leiratozáskor javítani. A leiratnak pontosan tükröznie kell az elhangzott tartalmat.
+transcribe-the-audio-subheader-5-explanation-2 = A beszélők használhatnak olyan kollokvializmusokat (például: „azér”, „vót” stb.), amelyek formailag nem tekinthetőek helyesnek. Ezeket úgy kell leiratozni, ahogy vannak, és nem szabad a formális megfelelőjükre cserélni őket.
+
+## Review the Transcription
+
+review-the-transcription = Leirat ellenőrzése
+review-the-transcription-subheader = Általános útmutatás
+review-the-transcription-explanation-1 = Általánosságban azt tanácsoljuk, hogy ne ugyanaz a személy ellenőrizze a leiratot, aki az eredeti leiratozást végezte. Nagyon nehéz ellenőrizni a saját munkát! A többszintű ellenőrzés robusztusabbá teheti a minőségbiztosítást, és csökkentheti a torzításokat és a hibákat.
+review-the-transcription-explanation-2 = Tekintse át a fenti leiratozási irányelveket, hogy ellenőrizze, hogy a leirat pontos-e. Szerkesztéseket végezhet és beküldheti.
+review-the-transcription-explanation-3 = Továbbá itt is megjelölheti a sértő, káros vagy más módon aggasztó tartalmakat, és azok eltávolításra kerülnek addig, amíg a Common Voice csapata nem ellenőrzi azokat, és nem vizsgálódik tovább.
+
+## Code-Switching
+
+code-switching = Kódváltás
+adding-a-question = Kérdés hozzáadása
+# Adding a Question
+code-switching-adding-question-subheader = Mitől jó egy kérdés?
+code-switching-adding-question-explanation = Egy jó kérdés a nyilvános részvételű adatkészletben:
+code-switching-adding-question-criteria-1 = Legyen könnyen érthető és megválaszolható
+code-switching-adding-question-criteria-2 = Legyen általánosságban releváns
+code-switching-adding-question-criteria-3 = Ne használjon vagy várjon el ártalmas vagy sértő kifejezéseket
+code-switching-adding-question-note = Azt is megfontolhatja, hogy különböző kontextusokon és doméneken íveljen át.
+# What types of questions to add
+code-switching-types-subheader = Milyen típusú kérdéseket adjon hozzá?
+code-switching-use-bilingual-prompts-header = Használjon kétnyelvű kérdéseket
+code-switching-use-bilingual-prompts-explanation = Használjon olyan kétnyelvű kérdéseket, amelyek mindkét nyelvet tartalmazzák: Példa:
+code-switching-ask-bilingual-contexts-header = Kérdezzen rá a kétnyelvű környezetkre
+code-switching-ask-bilingual-contexts-explanation = Használjon olyan helyzeteket, ahol mindkét nyelvet gyakran használják (például otthon, iskola, közösségi események). Példa:
+code-switching-ask-bilingual-contexts-explanation-example = „Amikor az unokatestvéreiddel beszélgetsz, felváltva használod a spanyolt és az angolt?”
+code-switching-focus-emotional-header = Fókuszáljon az érzelmes vagy a nagy súlyú pillanatokra
+code-switching-focus-emotional-explanation = Az emberek gyakran váltanak kódot, amikor érzelmeket vagy sürgősséget fejeznek ki. Példa:
+code-switching-focus-emotional-explanation-example = „Mondd el, mit mondtak a szüleid, amikor elmondtad nekik a nagy hírt – pontosan úgy, ahogy mondták.”
+code-switching-direct-quotes-header = Kérjen közvetlen idézeteket vagy visszaemlékezéseket
+code-switching-direct-quotes-explanation = Ösztönözze a résztvevőket, hogy pontosan úgy mondják el, ahogy történt. Példa:
+code-switching-direct-quotes-explanation-example = „Milyen szavakat használtál pontosan, amikor megtudtad?”
+code-switching-cultural-topics-header = Válasszon kultúrafüggő témákat
+code-switching-cultural-topics-explanation = Az ételek, a hagyományok, az ünnepek és a családi dinamika gyakran kódváltásra ösztönöz.
+code-switching-cultural-topics-explanation-example = „Hogyan írnád le a Día de los Muertost egy olyan embernek, aki csak magyarul beszél?”
+code-switching-informal-scenarios-header = Fedezzen fel informális helyzeteket
+code-switching-informal-scenarios-explanation = A barátokkal folytatott beszélgetések vagy SMS-ek gyakran természetesebb váltást igényelnek. Példa:
+code-switching-informal-scenarios-explanation-example = „Milyen vicceket mondanak a barátaid – és hogyan mondják?”
+# What to Avoid
+code-switching-avoid-subheader = Elkerülendő:
+code-switching-avoid-intro = Kérdések, melyek esetleg:
+code-switching-avoid-1 = Személyazonosításra alkalmas információkat kérnek
+code-switching-avoid-2 = Gyűlöletbeszédet sarkallnak, vagy más elfogult vagy sértő érzéseket váltanak ki
+code-switching-avoid-3 = Bizalmas, potenciálisan felzaklató válaszok megosztását okozzák
+code-switching-dont-header = Ne
+code-switching-dont-1 = Ne használjon túlságosan formális nyelvezetet
+# Reviewing a Question
+code-switching-review-subheader = Kérdés áttekintése
+code-switching-review-intro = Győződjön meg róla, hogy a kérdés megfelel a feltételeknek:
+code-switching-review-criterion-1 = Legyen könnyen érthető és megválaszolható
+code-switching-review-criterion-2 = Legyen általánosságban releváns
+code-switching-review-criterion-3 = Ne használjon vagy várjon el ártalmas vagy sértő kifejezéseket
+code-switching-review-does-not-header = És <bold>NE</bold> tartalmazzon:
+code-switching-review-offensive-content = <bold>Sértő vagy érzékeny információkra vonatkozó kérdéseket</bold>
+code-switching-answer-header = Sértő vagy érzékeny információkra vonatkozó kérdéseket
+code-switching-review-no-1 = Olyan kérdéseket, amelyek személyazonosításra alkalmas információkat kérhetnek
+code-switching-review-no-2 = Olyan kérdéseket, amelyek gyűlöletbeszédet keltő, vagy más elfogult vagy sértő szándékúak lehetnek
+code-switching-review-no-3 = Olyan kérdéseket, amelyekre bizalmas, potenciálisan felzaklató válaszokat adhatnak
+# Answering a Question
+code-switching-answer-subheader = Kérdés megválaszolása
+code-switching-answer-intro = Amikor egy kérdésre válaszol, a cél a természetes válaszadás – akárcsak egy való életbeli beszélgetésben. Szeretnénk megragadni, hogy valójában hogyan keverednek a nyelvek a mindennapi beszédben.
+code-switching-answer-bullet-1 = Gondoljon valós pillanatokra vagy helyzetekre: viccek, viták, hagyományok
+code-switching-answer-bullet-2 = Képzelje el, hogy SMS-t küld egy ismerősének, vagy elmesél valakinek egy történetet
+code-switching-answer-bullet-3 = Használjon olyan szavakat, amelyeket valóban használna, még akkor is, ha jövevény- vagy vegyes szavak
+code-switching-answer-bullet-4 = Nincs „tökéletes” válasz
+code-switching-authentic-header = Válaszoljon természetesen és hitelesen
+code-switching-authentic-speak = <bold>Beszéljen úgy, ahogy a barátaival vagy családjával.</bold> Ha a való életben is kever nyelveket, itt is tegye ugyanezt. Példa:
+code-switching-use-both-languages = <bold>Használja mindkét nyelvet, ha általában úgy mondaná.</bold> Már az is hasznos, ha csak egy-két szót vált. Példa:
+code-switching-authentic-direct-quotes = <bold>Ne használjon közvetlen idézetet vagy párbeszédet.</bold> Pontosan azt mondja el, amit valaki mondott, ne a letisztázott vagy formális változatát. Példa:
+code-switching-authentic-reflect = <bold>Tükrözze az érzelmet, az identitást és a környezetet.</bold> Váltás általában akkor történik, amikor az emberek érzelmeket, sürgősséget vagy kulturális elképzeléseket fejeznek ki. Válaszadáskor ezekre érdemes támaszkodni.
+code-switching-authentic-full-context = <bold>Használjon teljes válaszokat, környezettel együtt.</bold> Legyen a lehető legrészletesebb, és adjon meg annyi részletet, amennyit csak tud. A válaszokban osszon meg egy történetet vagy példát.
+# Don’t Overthink or Overedit
+code-switching-answer-dont-subheader = Ne gondolja, vagy szerkessze túl
+code-switching-answer-dont-correct-language = <bold>„Javítsa ki” a nyelvhasználatát.</bold> Ez nem egy dolgozat. Itt nem a „helyesség” számít, hanem a természetes nyelv.
+code-switching-answer-dont-avoid-switching = <bold>Kerülje a váltást, ha általában ezt teszi.</bold> Rendben van, ha a mondat vagy gondolat közepén, vagy csak egyetlen szó erejéig vált.
+code-switching-answer-dont-formal-writing = <bold>Beszéljen úgy, mintha formálisan írna.</bold> Kerülje a formális, tudományos válaszokat. Maradjon társalgási.
+code-switching-answer-dont-force-switch = <bold>Kényszerítse a váltást, ha az nem természetes.</bold> Csak akkor váltson, ha ebben a helyzetben természetesen így tenne.
+code-switching-answer-dont-translate-repeat = <bold>Fordítson le vagy ismételjen meg mindent.</bold> Csak egyszer mondja, ahogyan egy beszélgetésben tenné. Nem kell minden nyelven megadnia a válasz egy verzióját.
+# Transcribing
+code-switching-transcribe-subheader = Leiratozás
+code-switching-transcribe-intro = Ha kódváltást tartalmazó válaszokat ír át, akkor a beszélő nyelvét úgy jelenítse meg, ahogyan az elhangzott – javítás, szerkesztés vagy egyszerűsítés nélkül. Ez a nyelvek, a kötetlen beszéd és a vegyes nyelvű szavak közti minden váltásra vonatkozik.
+code-switching-transcribe-do-1 = Játssza le többször a rövid szakaszokat, hogy észrevegye a finom váltásokat
+code-switching-transcribe-do-2 = Tartson szünetet minden mondat után, hogy ellenőrizze a váltásokat vagy a kevert szavakat
+# Capture Speech Exactly as Spoken
+code-switching-capture-header = Rögzítse a beszédet pontosan úgy, ahogyan az elhangzott
+code-switching-capture-explanation = Írja le mindkét nyelvet, ahogy az megjelent/elhangzott. Ne „javítsa ki” a nyelvet vagy módosítsa egyetlen nyelvre.
+# Include filler words and markers
+code-switching-filler-header = Tartsa meg a kitöltőszavakat és jelölőket
+# Use standard spelling for each language
+code-switching-spelling-header = Használjon szabványos helyesírást az összes nyelvnél
+code-switching-spelling-explanation = Próbálja meg helyesen írni a szavakat az összes nyelven, kivéve, ha a beszélő egyértelműen a szokásostól eltérő módon ejti őket.
+# Don’t Clean Up or Simplify the Language
+code-switching-cleanup-header = Ne javítsa ki vagy egyszerűsítse le a nyelvet
+code-switching-cleanup-1 = Fordítás vagy átfogalmazás – azt írja le, amit a beszélő mond, ne azt, amire gondolt.
+code-switching-cleanup-2 = „Javítsa ki” a nyelvtant vagy a kiejtést – tartsa meg a beszélő természetes nyelvhasználatát.
+code-switching-cleanup-3 = Hagyja ki a kisebbnek tűnő kódváltásokat – a jövevényszavak számítanak.
+code-switching-cleanup-4 = Szúrjon be Jelentést megváltoztató írásjeleket – a folyama maradjon természetes.
+code-switching-cleanup-5 = Feltételezze, hogy minden szó nyelvét ismeri – használat alapján címkézzen.
+# Tagging
+code-switching-tagging-subheader = Címkézés
+code-switching-tagging-error-intro = Ha a leirat hibát tartalmaz, akkor jelölje meg a jelentés függvénnyel. Lehetséges hibák többek között:
+code-switching-tagging-error-1 = Helytelen írásjelek vagy kis- és nagybetűk
+code-switching-tagging-error-2 = Elírások
+code-switching-tagging-error-3 = Hibás helyesírással írt szavak
+# Using Correct Orthography for Each Language
+code-switching-orthography-header = Helyesírás az összes nyelven
+code-switching-orthography-explanation = Írjon minden szót annak a nyelvnek a helyesírása szerint, amelyből származnak. Például:
+code-switching-orthography-explanation-example-2 = Ha a quinceaños szót úgy ejtik ki, ahogy angolul mondják, akkor írja ñ betűvel.
+# Use Pronunciation to Help Determine the Language
+code-switching-pronunciation-header = Használja a kiejtést a nyelv meghatározására
+# Tag Punctuation Based on Nearby Language
+code-switching-punctuation-tagging-header = Központozás címkézése közeli nyelv alapján
+code-switching-punctuation-tagging-explanation = A központozást címkézze a bal oldalhoz legközelebbi nyelvvel. Példák:
+# Be Careful with Lookalikes
+code-switching-lookalikes-header = Legyen óvatos az azonos alakú szavakkal
+code-switching-lookalikes-explanation = Egyes szavak úgy nézhetnek ki, mintha egy nyelvből lennének, de egy másikban vannak használva. A jelentése és a használata alapján címkézze, ne a kinézete alapján. Példák:
+# When Not to Tag Words
+code-switching-not-tag-header = Mikor nem érdemes felcímkézni a szavakat
+code-switching-not-tag-explanation = Néhány szót <bold>nem kell címkézni</bold> nyelvi címkével, még akkor sem, ha kevertnek vagy átdolgozottnak tűnik.  Így kezeljen néhány példát:
+code-switching-not-tag-proper-names = <bold>Tulajdonnevek.</bold> Az emberek, helyek és intézmények neveit nem szabad címkézni. Példák:
+code-switching-not-tag-proper-names-example-1 = Személyek: Mária, János
+code-switching-not-tag-proper-names-example-2 = Helyek: Los Angeles, Florida
+code-switching-not-tag-proper-names-example-3 = Márkák/intézmények: Target, Burger King
+code-switching-not-tag-mixed-words = <bold>Kevert vagy alaktanilag átdolgozott szavak.</bold> Ne címkézzen meg szavakat, melyekben nyelvek keverednek, vagy más nyelvből származó végződéseket tartalmaznak. Példák:
+code-switching-not-tag-interjections = <bold>Indulatszavak.</bold> Az indulatszavaknak és a kitöltőszavaknak, a nyelvtől függetlenül, <bold>címke nélkül</bold> kell maradniuk. Példák:
+code-switching-not-tag-interjections-example-1 = „Eh”
+code-switching-not-tag-interjections-example-2 = „Nem”
+code-switching-not-tag-interjections-example-3 = „Ja”
+code-switching-not-tag-interjections-example-4 = „Öhm”
+
+## Reporting Content
+
+reporting-content = Tartalom jelentése
+reporting-content-subheader = Általános útmutatás
+reporting-content-explanation-1 = Meg kell jelölnie a sértő, káros vagy más módon aggasztó tartalmat. Nem tartalmazhat továbbá személyazonosításra alkalmas információkat, például telefonszámot vagy címet. El lesz távolítva az élményéből, amíg a Common Voice csapat át nem nézi, és tovább nem vizsgálja.
+reporting-content-explanation-2 = A tartalom jelentéséhez kattintson a „Jelentés” gombra, és válasszon egyet vagy az összes lehetőséget: Sértő tartalom, Más nyelv, Személyazonosításra alkalmas információ, Egyéb. Ezután a szövegmezőben adjon részletesebb információt arról, hogy miért jelentette be a tartalmat. Majd a Jelentés gombra kattintva küldje be a jelentést.

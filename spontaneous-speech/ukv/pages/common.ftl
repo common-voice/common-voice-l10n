@@ -1,0 +1,35 @@
+## General
+
+# Toast message that is displayed when an error occurs
+error = lya'gan
+action-click = tanye
+action-tap = 'bole
+# Label for contribution switcher on contribution pages, $language represents the current language the user is contributing to
+# Text wrapped in <strong></strong> will be shown in bold
+contribution-picker-label = gwegwelunda i pirit nagele'g i dataset kata
+coming-soon = kutusin jore gwe nyona tutulundo
+media-recorder-api-not-supported = pirit na 'biyani wiritön     API 'bayin i moga i pirit net galet na
+# Toast message that is displayed when an item is skipped
+skipped = tulan'ge
+audioplayer-header = yin'ge
+guidelines = Saresi
+# For the button to report an item
+report-button = lon'ge
+# For the button to skip an item
+skip-button = tulan'ge
+submit-button = selime
+contribute = gwegwelu
+
+## Navbar
+
+respond-to-prompt = tiki ruket
+check-transcriptions = tanye gaweresi
+
+## Not Found Page
+
+not-found-page-header = 'ban puwö
+not-found-page-content = payit logwon do ga'du nye lo ako puwö
+# Privacy and Terms checkbox
+accept-privacy-and-terms = nan a rugö i Loki na gworolo ka'deka'de ko saresi ako kulyasina na mumukö
+# Locales-Variants
+ms-MY = rutan lo jur Malaysia

@@ -1,0 +1,21 @@
+## Report Modal
+
+report-modal-title = رپورٹ جمع تِھیا
+report-modal-subtitle = آ مواد سے ساتیْ څھوْڑ کھاں مسائل پیخ بینَن؟
+offensive_speech = جارحانہ مواد
+offensive_speech-detail = مواد دہ توہین آمیز یا جارحانہ جِبِن۔
+empty_or_unintelligible = گُچھیْ یا ناقابلِ فہم
+empty_or_unintelligible-detail = مواد گُچِھن، اُرانُن، مُتی کوئے جِب دانوْ، وغیرہ۔
+personally_identifiable_information = ذاتی شان گیْ قابل شناخ معلومات۔
+personally_identifiable_information-detail = آ مواد کوئے منُوڙے شناخے بارَد ذاتی شان گیْ قابل شناخ معلوماتوج مشتملُن، کاتھ چہ سہ سے نُوم، ای میل پتہ، موقام، شناخے نمبر، یا فون نمبر۔
+personally_identifiable_information-answer-detail = آ مواد کوئے منُوڙے بارَد ذاتی شان گیْ شناخت بی معلومات لُکِھینوْ، کاتھ چہ سہ سے نُوم، ای میل پتہ، مقام، شناختی نمبر یا فون نمبر۔
+report-other-comment =
+    .placeholder = کومنٹ
+# Label for textarea in report modal
+other = مُتہ
+report-error = رپورٹ جمع تھیون دہ ایْک غلطی بِلِن۔
+# Label for Continue button in Report modal to indicate that the user wants to continue contributing after reporting
+continue = جاری پھتِیا۔
+# Header for report modal after successful reporting
+success = کامیابی
+report-success-message = رپورٹ کامیابی گیْ منظور تِھجِلِن۔

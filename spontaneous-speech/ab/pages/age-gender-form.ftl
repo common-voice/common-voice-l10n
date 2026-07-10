@@ -1,0 +1,20 @@
+# Age and Gender form
+age-gender-form-title = Иҭабуп Spontanious Speech азы иҟашәҵаз алагалазы!
+add-information-button = Аинформациа ацҵара
+continue-speaking-button = Ацәажәара ацҵара
+age-select-label = Шаҟа шықәса шәхыҵуазеи?
+select-your-age = Шәықәра алышәх
+country-of-residence-label = Атәыла/Аҟазаара арегион
+country-of-residence-placeholder =
+    .placeholder = Шәтәыла/Шәахьыҟоу арегион ҭажәгал
+why-are-you-asking = Избан шәзазҵаауа?
+thank-you-for-your-information = Иҭабуп шәинформациазы
+
+## Gender dropdown
+
+male_masculine = Ахаҵа/Ахаҵаратә
+female_feminine = Аԥҳәыс/Аҳәсатә
+intersex = Аинтерсекс
+transgender = Атрансгендер
+non-binary = Ибинартәым
+do_not_wish_to_say = Аҳәара сҭахӡам
