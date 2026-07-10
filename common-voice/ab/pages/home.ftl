@@ -1,0 +1,191 @@
+## Home Page
+
+home-title = Common Voice — ари ауаа шцәажәо амашьынақәа идзырҵо Mozilla аԥшьгамҭоуп.
+default-tagline = Mozilla Common Voice — ари ауаа шцәажәо амашьынақәа идзырҵо ԥшьгамҭоуп.
+home-cta = Шәыбжьы ҭаҩрала шәҳацхраа!
+wall-of-text-start = Абжьы —ԥсабаратәуп, абжьы — уаҩытәыҩсатәуп. Убри азоуп ҳмашьынақәа рзы иманшәалоу абызшәатә технологиа аԥҵара ҳзашьҭоу. Аха абжьытә системақәа раԥҵаразы, иаҭахуп зымҽхак ҭбаау абызшәатә дыррақәа.
+wall-of-text-more-mobile = Акорпорациақәа рхы иадырхәо адыррақәа реиҳарак ауаа рхы ирзархәом. Ари аҭагылазаашьа аинновациақәа рцәырҵра иаԥырхагоуп ҳәа ҳгәы иаанагоит. Убри азоуп абжьы адырразы ицхыраагӡахаша, зегьы рзы иаарту, иманшәалоу апроект —  Common Voice заԥаҳҵаз.
+wall-of-text-more-desktop = Уажәы шәара ишәылшоит шәыбжьы ҳзаашәышьҭыр, дарбанзаалак ихатәы инновациатә хархәагақәеи асаитқәеи аԥиҵарц азы ихы иаирхәаша иаарту абызшәатә дыррақәа рбаза аԥҵараҿы шәҳацхраарц.<lineBreak></lineBreak>Афразақәа шәҳәала ауаа шцәажәо аилкаараҿы амашьынақәа шәрыцхраарц азы. Ахаҭабзиара аиӷьтәразы егьырҭ аволонтиорцәа русушьа гәашәҭала. Ари мариоуп!
+wall-of-text-first = Абжьы —ԥсабаратәуп, уаҩытәыҩсатәуп. Убри азоуп ҳмашьынақәа рзы ахархәаратә абжьытә технологиа аԥҵара ҳзашьҭоу. Аха абжьытә системақәа раԥҵаразы, иаҭахуп зымҽхак ҭбаау абжьытә дыррақәа.
+wall-of-text-second = Аилахәыра дуқәа рхы иадырхәо адыррақәа реиҳарак ауаа рхы ирзархәом. Ари аҭагылазаашьа аинновациақәа рцәырҵра иаԥырхагоуп ҳәа ҳгәы иаанагоит. Убри азы  апроект  Common Voice аԥаҳҵеит, абжьы адырразы атехнологиа зегьы рзы иаартны, иманшәаланы иҟаларц азы.
+show-wall-of-text = Инарҭбааны
+help-us-title = Иҭаҩу гәаҭо шәҳацхраа!
+help-us-explain = Абжьҭаҩ аҿашәк, шәазыӡырҩы, насгьы иҳашәҳәа ҵаҟа иаагоу афраза ибзианы абжьы ахоума?
+no-clips-to-validate = Ҳгәы иаанагоит, ари абызшәала азыӡырҩразы абжьҭаҩқәа ыҟаӡам ҳәа. Шәхатәы ҭаҩны, иҿыцқәоу раԥҵара шәҳацхраа.
+toggle-play-tooltip = Арҳәара арежим аиагаразы шәақәыӷәӷәа { shortcut-play-toggle }
+speak-paragraph = Абжьы зхоу аҳәоуқәа рҭаҩра иаарту ҳдыррақәа реизга аԥҵара иузаҟәымҭхо хәҭоуп; шьоукы уи, иара убас аинтерес зҵоу усны ирыԥхьаӡаргьы ҟалоит.
+speak-goal-text = клип ҭаҩуп
+listen-paragraph = Иацҵоу абжьҭаҩқәа ргәаҭара даара акраҵанакуеит Common Voice амиссиазы. Абжьҭаҩқәа шәырзыӡырҩны, зхаҭабзиара ҳараку, иаарту абжьытә дыррақәа раԥҵара шәҳацхраа.
+listen-goal-text = бжьҭаҩ гәаҭоуп
+hours-recorded = Сааҭ ҭаҩуп
+hours-validated = Сааҭ гәаҭоуп
+voices-online = бжьы онлаин аҿы уажәыҵәҟьа
+todays-progress = Иахьатәи ԥхьацара
+help-reach-goal = Шәҳацхраа анагӡараҿы { $goal }
+read-terms-q = Ҳхархәара аилаӡарақәа шәрыԥхьама?
+ready-to-record = Шәыбжьы аҭара шәыхиоума?
+all-locales = Зегьы
+today = Иахьа
+x-weeks-short =
+    { $count ->
+        [one] Амчыбжь
+       *[other] мчыбжь
+    }
+x-months-short =
+    { $count ->
+        [one] амза
+       *[other] { $count }мыз
+    }
+x-years-short =
+    { $count ->
+        [one] шықәсык
+       *[other] шықәса
+    }
+help-make-dataset = Зхаҭабзиара ҳараку, иаарту адыррақәа реизга аԥҵара шәҳацхраа
+sign-up-account = Аккаунт аҭагалара
+email-subscription-title-v3 = Common Voice, Mozilla Foundation рырҿыцрақәа шәыҽрыҵажәҩы
+
+## Account Benefits
+
+benefits = Аԥыжәарақәа
+rich-data = Имаӡоу адемографиатә дыррақәа анҳашәҭо, урҭ иахьынӡауа ихарҭәааны иҟашәҵоит. Ҳара аҭыжьра аԥхьа адемографиатә дыррақәа зегьы ихаҿыдатәны иҟаҳҵоит.
+improve-audio = Апрофиль аинформациа аудиодыррақәа реилкаара еиӷьнатәуеит.
+keep-track = Еиуеиԥшым абызшәақәа рҿы шәаԥхьацареи шәырбагақәеи шәрыцклаԥшла.
+compare-progress = Шәаԥхьацареи егьырҭ адунеи зегьы аҟынтәи алахәылацәеи шеиҿыдрԥшуа гәашәҭала.
+view-goals = Хаҭалатәи ахықәкқәеи апроекттә хықәкқәеи рынагӡараҿы шәаԥхьацара шәацклаԥшла.
+join-newsletter = Агәаҳәара шәымазар, апроект иазку арҿыцрақәеи аинформациа ҿыци шәоуларц азы ҳрассылка ассиа шәалал.
+
+## What's public
+
+whats-public = Иарбан дыррақәоу зегьы ироуа?
+email-not-public = Ҳара шәелектронтә ԥошьҭа иаҳарбаӡом.
+recordings-and-locale-public = Иҟашәҵаз аҭаҩрақәеи урҭ злаҟашәҵаз абызшәақәеи рхыԥхьаӡара зегьы ирбаратәы иҟалоит.
+username-optin-public = Шәара шәхазы иалышәхыз ахархәаҩ ихьӡ иаргаманы, ма ирмаӡаны иҟашәҵар шәылшоит.
+demographic-deidentified-clarity-2 = Ицәыргоу ихымԥадатәиим адемографиатә дыррақәа (ақәра, ахаҵара-аԥҳәысра, абызшәа, акцент реиԥш иҟоу) шәыпрофиль аҿы ахаан ирбаратәы иҟалом, насгьы адыррақәа реизгаҿы шәаккаунт иадҳәалахаӡом. Хаз игоу бжьҭаҩқәак адемографиатә дыррақәа ирыдҳәалахоит еиҳа ииашоу анализ аҟаҵаразы – иаҳҳәап, аҭҵааҩы иазыҟаиҵо амодель иалкаау адемографиатә сегментк хықәкра азнаурц иҭаххар.
+username-email-not-demographic = Хархәаҩык иаҳасабала шәыхьӡи шәелектронтә ԥошьҭа адреси иҭыжьу адыррақәа ирыдҳәалахаӡом.
+
+## Landing
+
+welcome-staff = Бзиала шәаабеит { $company } аусзуҩцәа!
+help-contribute = Common Voice апрофиль аԥшәҵар, шәыбжьала ацхыраара ҳашәҭар, еиуеиԥшым, иаарту адыррақәа реизга аԥҵараҿы шәҳацхраар шәылшоит.
+login-company = Аҭалара/ { $company } аԥошьҭала аҽҭагалара
+profile-not-required = Алахәхаразы апрофиль амазаара шхәарҭоугьы, уи ихымԥадатәиӡам
+read-more-about = Ҳдаҟьа «Ҳара иҳазкны» аҿы еиҳаны еилышәкаа
+
+## NAV ITEMS
+
+answer-questions = Азҵаарақәа рҭак ҟашәҵала <small>(Лассы)</small>
+review-transcriptions = Атранскрипциақәа гәашәҭала<small>(Лассы)</small>
+add-questions = Азҵаарақәа ацышәҵа <small>(Лассы)</small>
+review-questions = Азҵаарақәа арецензиа рзура
+transcribe-audio = Аудио атранскрипциа азыжәу <small>(Лассы)</small>
+press-and-stories = Апрессеи аҭоурыхқәеи
+community-and-languages = Аилазаареи абызшәақәеи
+coming-soon = Лассы
+about-us = Ҳара иҳазкны
+scripted-speech = ЗАА ИХИОУ АЖӘАҲӘА
+spontaneous-speech = АСПОНТАНТӘ ЖӘАҲӘА
+
+## MENU ITEMS TOOLTIPS
+
+about-menu-tooltip = Алахәыларақәа, апрессеи астатиақәеи, аилазаареи абызшәақәеи
+about-us-menu-item-tooltip = Common Voice иадҳәалоу амиссиеи акомандеи ирызкны еилышәкаа.
+partnerships-menu-item-tooltip = Ҳлахәылаҩны аҟалара
+press-and-stories-menu-item-tooltip = Шәаҭаа ҳаблог, ма ҳара иҳазкны ианышәҵа
+community-and-languages-menu-item-tooltip = Абызшәақәа, аилазаарақәа, азеиԥш бжьы шәхазы иаашәырты
+
+## MENU ITEM ARIA LABELS
+
+about-menu-aria-label = Алахәыларақәеи, апрессеи, аҭоурыхқәеи, аилазаареи, абызшәақәеи рахь анеиразы ахкынҵа
+about-us-menu-aria-label = «Ҳара иҳазкны» архиарақәа рыхкынҵа
+about-us-menu-item-aria-label = Апараметрқәа «Ҳара иҳазкны» рыхкынҵа
+partnerships-menu-item-aria-label = Common Voice аус ацура атәы еилышәкаа
+press-and-stories-menu-item-aria-label = Common Voice иадҳәалоу апресс-релизқәеи астатиақәеи шәрықәиҭха
+community-and-languages-menu-item-aria-label = Common Voice адгылара знаҭо аилазаареи абызшәақәеи ртәы еилышәкаа
+
+## Hero section
+
+hero-title = Шәара шәбызшәала ицәажәо атехнологиақәа
+# Text wrapped in <bold></bold> will be shown in bold font
+hero-subtitle-1 = <bold>ИА адунеи бызшәақәак рзы мацара аус аураны изыҟои?</bold>
+hero-subtitle-2 = Ҳара ҳбызшәа — ари ҳара ҳҭоурых, ҳаилазаара, ҳкультура ауп. Шәааи адунеи аҿы иаабарц иаҳҭаху адыррақәа реизга аԥаҳҵап.
+# icon is an arrow that points downwards
+get-started = Алагара <icon><icon>
+
+## Action items section
+
+action-items-section-title = Common Voice — ари иаарту алагарҭатә код змоу, хәыда-ԥсада иҟоу платформоуп, ауаажәларра рнапхгарала адыррақәа раԥҵаразы
+action-items-section-subtitle = Дарбанзаалак атексттәи ацәажәаратәи дыррақәа реизга аԥҵо, гәаҭо, еимдо ибызшәа аиқәырхара, аиҭашьақәыргылара, аиӷьтәра илшоит.
+scripted-card-header = Асценариатә жәаҳәа
+scripted-card-content = Шәбызшәала аҳәоу шәҳәа, шәлагала ҟашәҵа еиуеиԥшым ацәажәаратә жәаҳәақәа реизгақәа рзы.
+spontaneous-card-header = Аспонтантә жәаҳәа
+spontaneous-card-content = Ацәажәаратә контекст азы адыррақәа реизгақәа раԥҵара иазку аҳәарақәа рҭакқәа ҟашәҵала. Зеиӷь ыҟам ҿырҳәалатәи абызшәақәа рзы.
+language-text-card-header = Атекст абызшәала
+language-text-card-content = Иаԥышәҵала, ма еимыжәдала ауаажәларратә мазара, аиҭагаразы аҳәоуқәеи атексти, ихәыҷу абызшәатә модельқәа уҳәа убас егьырҭгьы.
+coming-soon = Лассы
+add-text = Атекст ацҵара
+answer = Аҭак аҟаҵара
+
+## Community section
+
+community-section-title-202601 = Аглобалтә еилазаарақәа рыцхыраарала, аглобалтә еилазаарақәа рзы — 290 бызшәа, урҭ рхыԥхьаӡара аизҳара иаҿуп!
+join-discord-community = Discord аилазаара алалара
+# label for button
+join-discord-community-action = Discord аҿы шәҳацла
+join-discord-community-content = Абызшәатә еилазаара аилацәажәарақәа шәыҽрылашәырхәла, азҵаарақәа ықәшәыргылала, имҩаԥысраны иҟоу ауснагӡатәқәеи аицәажәарақәеи ртәы еилышәкаала.
+find-us-on-matrix = Matrix аҿы ҳшәыԥшаа
+find-us-on-matrix-content-v2 = Matrix – ари ареалтә аамҭазы адецентрализациа зызуу аицәажәаразы иаарту, иласу ԥкаанҵоуп, иара убас иаарту ахцәажәарақәа рзы Mozilla еиҳа еиӷьанашьо платформоуп. Ҳара "common-voice:mozilla.org" ауадаҿы ҳаҟоуп.
+# label for button
+find-us-on-element-action-1 = Аелемент
+find-us-on-matrix-action-2 = Егьырҭ аклиентцәа
+ask-mozilla-share = Mozilla шәаҳәа шәуснагӡатәқәа ртәы аҳәарц
+ask-mozilla-share-content = Ииасхьоу ма иҟалараны иҟоу аиԥылара шәымоума? Иаҳзеиҭашәҳәа, нас ҳаилазаара адырра раҳҭоит, мамзаргьы уи иазкны аблог аҿы ианышәҵа!
+# label for button
+ask-mozilla-share-action = Шәеиԥылара атәы ишәҳәа
+download-contribution-certificate = Шәалахәра асертификат аҭгара
+download-contribution-certificate-content = Шәусмҩаԥгатәқәа рзы, ма шәхазы асертификат ҭыжәга, Common Voice азы алагала ҟашәҵазар — шәара шәыда уи ҟалашьа аиуӡомызт!
+# label for button
+download-contribution-certificate-action = Шәсертификат жәга
+contribute-github = GitHub аҿы алагала аҟаҵара
+contribute-github-content = Ари апроект шәара шәеиԥш иҟоу ауаа рыда иалыршахомызт. 🎉 Common Voice аҽалархәразы азнеишьақәа рацәоуп — шәлагала ҟашәҵарц азы апрограммаҟаҵара шәылымшозаргьы ҟалоит!
+# label for button
+contribute-github-action = GitHub аҿы алагала аҟаҵара
+
+## Featured section
+
+featured-section-title = Ишәыдаагало...
+# icon is an arrow that points downwards
+download-press-pack = Ҳапресс-пакет ҭыжәга <icon></icon>
+
+## Developers section
+
+developers-section-title = Зегьы рхы иадырхәаша 130 бызшәа инареиҳаны рыла иҟоу иаарту ажәаҳәа адыррақәа реизга
+developers-section-subtitle = Аилазаара алархәны иаԥҵоу ASR, STT, TTS, иара убас NLP егьырҭ аконтекстқәа рзы адыррақәа реизга.
+# icon is an arrow that points to the right
+explore-datasets = Адыррақәа реизгақәа шәрыхәаԥш <icon></icon>
+
+## Get involved section
+
+get-involved-section-title = Аилазаара анапхгарала иаарту адыррақәа реизгақәа шәрыдгылала
+read-sentences-link = Аҳәоуқәа рыԥхьара
+validate-readings-link = Аԥхьашьа агәаҭара
+contribute-link = Атекстқәа реизгаҿы алагала аҟаҵара
+answer-questions-link = Азҵаарақәа рҭак аҟаҵара
+transcribe-answers-link = Аҭакқәа атранскрипциа рзура
+review-transcriptions-link = Атранскрипциақәа ргәаҭара
+contribute-text-link = Атекст адгалара
+press-and-stories-link = Апрессеи астатиақәеи
+
+## Partner section
+
+partner-section-title = Ҳлахәылаҩны аҟалара
+# Text wrapped in <bold></bold> will be shown in bold font
+partner-section-subtitle-tech-companies = <bold>Атехнологиатә еилахәырақәа</bold> - абызшәарацәатә, ԥхьаҟа ицо ИА-екосистемазы иаарту адыррақәа реизга аԥҵаразы ԥарала ацхыраара ҟашәҵала
+# Text wrapped in <bold></bold> will be shown in bold font
+partner-section-subtitle-civil-society = <bold>Ауаажәларратә еилазаареи аҭҵааҩцәеи</bold> - ихәарҭоу адыррақәа реизга хәыда-ԥсада иаԥышәҵала, иқәшәыргылала, еимыжәдала
+# Text wrapped in <bold></bold> will be shown in bold font
+partner-section-subtitle-philantropy = <bold>Агәыҳалалра</bold> - аҭыԥантәи аинновациақәеи аҿиареи шәрыцхраарц азы адыррақәа реизга аԥҵараан ԥарала ацхыраара ҟашәҵала
+# icon is an arrow that points to the right
+get-in-touch-button = Шәыҽҳамажәда <icon></icon>
+# Partners section
+our-partners-include = Ҳара ҳлахәылаҩцәа...

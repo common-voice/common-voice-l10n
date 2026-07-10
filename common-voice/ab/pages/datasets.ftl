@@ -1,0 +1,112 @@
+## Datasets Page
+
+datasets-heading = Адыррақәа реизга
+datasets-headline = Ҳара иаԥаҳҵоит иаарту, зхыԥхьаӡара рацәоу абызшәақәа зҵазкуа адыррақәа реизга, абжьытә ԥшьқәа рырҵаразы дарбанызаалак ихы иаирхәарц азы.
+datasets-positioning =
+    Ҳара иҳаԥхьаӡоит зегьы рхы иадырхәаша, идуу абжьытә дыррықәа реизгақәа амашьынатә рҵара ашьаҭала иҟоу ажәаҳәатә технологиақәа рхырхарҭаҿы аҿыцлагалақәеи ибзиоу акоммерциатә еиндаҭлареи рцәырҵа иацхраауеит. 
+    
+    Бызшәа рацәала еилоу Common Voice адыррақәа реизга, уажәнатә зегьы иреиҳау, зегьы рхы иадырхәаша абжьытә дыррақәа реизгоуп, аха уи иеиԥшқәоу рацәоуп.
+    
+    Ари адаҟьаҿы шәара ишәыԥшаар шәылшоит егьырҭ иаарту абжьытә дыррақәа реизгақәа рызхьарԥшқәа, насгьы Common Voice аҿиара ашьҭахь ҳҭыжьымҭақәа рҿыцрақәагьы.
+# New/upcoming datasets page headline
+datasets-headline-mdc = Mozilla Common Voice адыррақәа реизгақәа уажәшьҭа ихазхаҭалатәны иҟоуп Mozilla Data Collective аҿы.
+# New/upcoming datasets page headline text
+datasets-positioning-mdc =
+    Common Voice 23.0 инаркны Common Voice адыррақәа реизгақәа зегьы Mozilla Data Collective ала ихазхаҭалатәны рҭыгаразы алшара ыҟоуп!
+    
+    Ари адаҟьа Mozilla Common Voice адыррақәа реизгақәа ииасхьоу рверсиақәа рархив ауп. Архивқәа рҭыжьымҭақәа ахархәара рыҭатәуп арҵара хықәкыс иҟаҵаны акәымкәа, иҷыдоу аҭҵааратә сценариақәа рҿы мацара, рлагала алхзарц иаҳәаз ргәазыҳәарақәа пату рықәҵаразы.
+datasets-speech-bubble-content = Ажәабжь шьахәқәа! Лассы ицәырҵуеит Spontaneous Speech! Арҿыцрақәа шәрыцклаԥшла, иара убас аҵыхәтәантәи ажәабжьқәа шәоуларц азы хымԥада <discordLink>ҳ-Discord</discordLink> шәахәаԥш.
+language = Абызшәа
+download-dataset-header = Адыррақәа реизга рҭыгара
+download-delta-explainer = Ҳара ԥсахрақәак ҟаҳҵеит. Адельта-сегментқәа рҿы иҟоуп аҵыхәтәантәи аҭыжьымҭа инаркны иҿыцу аклипқәа. <deltaLink>Ари аусумҭа иазкны еиҳаны</deltaLink>.
+download-dataset-tag = Ишәҭаху абызшәатә дыррақәа реизга, насьы зыҭгара шәҭаху аверсиа алышәх.
+# File size in gigabytes
+size = Ашәагаа
+validated-hr-total = Зынӡа сааҭ гәаҭоуп
+overall-hr-total = Зынӡа сааҭ
+cv-license = Алицензиа
+audio-format = Аудиоформат
+dataset-splits = Аиҩшара (ақәреи ахаҵара-ԥҳәысреи)
+number-of-voices = Абыжьқәа рхыԥхьаӡара
+splits = Аиҩшара
+email-to-download = Аелектронтә ԥошьҭа ҭажәгал аҭыгаразы
+why-email = <b>Изаҭахузеи аԥошьҭа?</b> ҳаԥхьаҟа ҳаҽшәымаадар ҟалоит адыррақәа реизга аԥсахрақәа ирызкны, аелектронтә ԥошьҭа убри азы алшара ҳнаҭоит.
+why-donate-datasets-page = Mozilla Common Voice— ари адунеи аҿы зегь реиҳа еиуеиԥшым, иаарту, икраудсорсингтәу абжьытә дыррақәа реизга ауп, насгьы ҳара аус аауеит хатәгәаԥхаралатәи ацхыраара мацарала. 100 иреиҳау  абызшәатә еилазаарақәа рзы адыррақәа реизга рҭыԥыркреи, насгьы рплатформа аиӷьтәреи рзы шықәсык ахь миллион доллар аҭахуп. Иаарту, инклузивтәу адыррақәа рыхә ҳаракны ишәшьозар - <b>иахьа ацхыраара ҟашәҵа!</b>
+confirm-size = Шәара шәгәы иҭоума аҭыгара <b>{ $size }</b>
+size-gigabyte = ГБ
+size-megabyte = МБ
+confirm-no-identify = <b>Шәара шәақәшаҳаҭуп</b> Common Voice адыррақәа реизгақәа ирылахәу адикторцәа рхаҭара аилкаара шәшашьҭамло
+confirm-join-mailing-list = Сара схы аласырхәыр сҭахуп Common Voice арассылка асиа
+download-language = Аҭыгара: { $language }
+validated-hours = Сааҭ гәаҭоуп
+recorded-hours = Сааҭ ҭаҩуп
+whats-inside = Common Voice адыррақәа реизга аҩнуҵаҟа иагәылоузеи?
+dataset-description-hours =
+    Ҭаҩымҭацыԥхьаӡа адыррақәа реизгаҿы шьақәгылоуп иҷыдоу MP3-аудиои, уи иақәшәо атексттә фаили рыла. Иҭаҩу асааҭқәа рҟынтәи <b>{ $total }</b> ирацәаны аҭаҩымҭақәа иргәылоуп ажәаҳәа аилкаага адвожокқәа иаҳа ииашаны рырҵара иацхрааша адемографиатә метадыррақәа ақәра, ахаҵара-аԥҳәысра, ацәажәашьатә ҷыдарақәа реиԥш иҟоу.  
+    
+    Иахьатәи аамҭазы адыррақәа реизга шьақәгылоуп <b>{ $valid }</b> игәаҭоу сааҭқәа рыла <b>{ $languages }</b> бызшәақәа рыла, аха ҳара есымша иацаҳҵоит абыжь ҿыцқәеи абызшәақәеи. Шәахәаԥш ҳара иаҳтәу<languagesLink>абызшәақәа рдаҟьа</languagesLink> абызшәақәа разҵаара, ма ахалархәра.
+want-dataset-update = Common Voice адыррақәа реизга иҿыцу аверсиа аҭыжьра иазку ацҳамҭақәа шәоуларц шәҭахума? Шәнапы аҵажәҩы ҳара ҳажәабжьтә рассылка.
+subscribe = Аҽаҵаҩра
+get-started-speech = Common Voice апрограммақәа рҿы ахархәара шԥалшо
+other-datasets = Егьырҭ абжьытә дыррақәа реизгақәа
+feedback-q = Ахҳәаа ааныжьра
+# This indicates that there is no data to display
+no-information = Аинформациа ыҟам
+resource-nemo-info = <githubLink>NVIDIA NeMo</githubLink>™ - ари <docsLink>ҳаамҭазтәи аиҿцәажәаратә ИА амоделқәа аԥызҵо аҭҵааҩцәа рзы иаарту аханатәтәи код змоу амыругақәа реизга</docsLink> ауп.
+resource-deepspeech-info = Mozilla аҟынтәи ажәаҳәа аилкаага иаарту адвижок Deep Speech шәхатә ҳәоуқәа раԥҵараан шәхы иашәырхәар шәылшоит. Шәаԥхьа  <githubLink>ҳахҳәаа GitHub</githubLink> аҿы ма шәалахәха <discourseLink>DeepSpeech аҟәша Discourse</discourseLink> афорум аҿы, аус шалагатәу аилкааразы.
+resource-coqui-info = <coquiLink>Coqui</coquiLink> иаарту ацәажәаратә технологиа иазкуп. Урҭ рыпроектқәа ируакуп иҵаулоу арҵара шьаҭас измоу STT, TTS адвижокқәа.
+community-playbook = Аилазааразы арҵага шәҟәы
+resource-playbook-info = <playbooklink>Ишәыԥшаа хәарҭара злоу абжьгарақәа</playbookLink> Common Voice афункционал зегьы азы, алокализациа инаркны адыррақәа реизга рхархәара аҟынӡа, насгьы ҳаилазаареи шәареи шәшеимадахарц атәы еилышәкаа.
+data-other-librispeech-description = LibriSpeech шьақәгылоуп LibriVox апроект иатәу аудиошәҟәқәа рҟынтәи иаагоу инықәырԥшны 1000 сааҭи 16Кгц иҟоу англыз бызшәала иҭаҩу аудионҵамҭақәа реизгақәа рыла.
+data-other-ted-name = TED-LIUM аизга
+data-other-ted-description = TED-LIUM аизга аԥҵан TED асаит аҿы ахархәара змоу аудио еиҿцәажәарақәеи урҭ рытранскрипциақәеи рыла.
+data-other-voxforge-description = VoxForge аԥҵан атранскрипциа зызуу ажәаҳәа аизгаразы, уи анаҩс зхы иақәиҭу, иаарту ажәаҳәа еилкаага механизмқәа рхархәаразы.
+data-other-tatoeba-description = Tatoeba — ари абызшәа аҵаразы ихархәагоу аҳәоуқәа, аиҭагақәа, ацәажәаратә аудионҵамҭақәа рыла ишьақәгылоу идуу адыррақәа реизгоуп. Ари аҭыгара  иагәылоуп дара реилазаарала иҭаҩу ацәажәаратә англыз бызшәа.
+your-feedback = Common Voice аиӷьтәразы аидеиақәа шәымоума? Иаҳзеиҭашәҳәа Discourse афорум аҟны
+go-discourse = Discourse ахь аиасра
+missing-language = Аизгаҿы шәбызшәа ыҟаӡами? Абызшәақәа адаҟьаҿы шәазҵаа.
+go-languages-page = Абызшәақәа адаҟьахь аиасра
+ready-to-validate = Аҳәоуқәа ргәаҭараҿы шәҳацхраар шәыхиоума?
+more = Иҵегьы
+download = Аҭыгара
+dataset-version = Аверсиа
+sha256-checksum-copied = SHA256 аконтрольтә еицҵалыҵ акопиа ҟаҵоуп!
+sha256-checksum-copied-error = SHA256 аконтрольтә еицҵалыҵ акопиа аҟаҵара амуит.
+clipboard-not-supported = Аиҭныԥсахлара абуфер аднакылом
+no-information-available = Аинформациа ыҟаӡам
+dataset-metadata-sex = Ахаҵара-аԥҳәысра
+# dataset metadata - age of contributor
+dataset-metadata-age = Ақәра
+donate-modal-message = Шәдыррақәа реизга аҭыгара иаҿуп!
+dataset-donate-modal-heading = Шәара ижәдыруама…
+donate-modal-explanation-1 = 100 иреиҳау абызшәатә еилазаарақәа рзы адыррақәа реизгақәа рҭыԥыркреи аплатформа аиӷьтәреи рзы шықәсык ахь миллион доллар рҟынӡа аҭахуп?
+# Text in <bold></bold> will shown in bold
+donate-modal-explanation-2 = <bold>Иаарту, инклиузивтәу адыррақәа рыхә ҳаракны ишәшьозар, иахьа ацхыраара ҟашәҵа!</bold>
+data-download-singleword-title = Ахықәкытә сегмент «Ажәак» аҭыгара
+data-download-singleword-callout-v2 = Ари асегмент ахархәара иалкаау аҭагылазаашьақәа ирзынархоуп, ахыԥхьаӡарақәа, насгьы «ааи»/«мап» реилкаара аиӷьтәразы адыррақәа алоуп.
+data-download-button = Common Voice адыррақәа рҭыгара
+data-download-yes = Ааи
+data-download-deny = Мап
+data-download-license = Алицензиа: <licenseLink>CC-0</licenseLink>
+data-download-modal = Шәара аҭыгара шәгәы иҭоуп <size>{ $size }ГБ</size>, иацҵатәума?
+data-subtitle = Ҳара иаарту, зегьы рзы иҟоу абжьытә дыррақәа реизга аԥаҳҵоит, дарбанзаалак ажәаҳәа аилыркаага апрограммақәа рырҵаразы ихы иаирхәартә.
+data-explanatory-text = Ҳара агәра ҳгоит идуу, зегьы рзы иҟоу абжьытә дыррақәа реизга абжьы аилкаара амашьына-рҵаратә технологиаҿы аҿыцлагалақәеи акоммерциатә еиндаҭлареи рырҿиара ишацхраауа. Ари иглобалтәу ԥшьгароуп, ҳара зегьы иааҳаԥхьоит рхы аладырхәырц. Ҳара ҳхықәкы - адунеи зегьы аҿы иҟоу еиуеиԥшым абыжьқәа реилкаареи абжьытә технологиақәа ганрацәала рыҟазаареи ацхыраара рыҭара ауп.
+data-get-started = <speechBlogLink>ажәаҳәа аилкааразы аусура алагара</speechBlogLink>
+data-other-title = Егьырҭ абжьытә дыррақәа реизга...
+data-other-goto = { $name } ахь аиасра
+data-other-download = Адыррақәа аҭыгара
+data-bundle-button = Адыррақәа реизгақәа рарзақә аҭыгара
+data-bundle-description = Common Voice адыррақәеи абжьытә еизгақәа рдыррақәа ирызку адыррақәа зегьы ҵаҟа иарбоуп.
+release-version = Аверсиа
+dataset-date = Арыцхә
+license = Алицензиа: <licenseLink>{ $license }</licenseLink>
+license-mixed = Еилаԥсоуп
+# Support old genders in older datasets
+male = Ахацәа ртәы
+female = Аҳәса ртәы
+# MENU ITEM TOOLTIPS
+download-contribute-menu-tooltip = Ҳабжьытә дыррақәа реизга ҭыжәга
+# MENU ITEM ARIA LABELS
+download-contribute-menu-aria-label = Common Voice адыррақәа рахь анеиразы аҭгара апараметрқәа
+datasets-show-more = Адыррақәа реизга зегьы рырбара
+datasets-show-less = Аҵыхәтәантәи адыррақәа реизга рырбара

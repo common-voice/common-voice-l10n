@@ -1,0 +1,111 @@
+## Dashboard
+
+your-languages = Tvoji jezici
+toward-next-goal = Prema sljedećem cilju
+goal-reached = Cilj postignut
+clips-you-recorded = Isječci koje si snimio/la
+clips-you-validated = Isječci koje si potvrdio/la
+todays-recorded-progress = Današnji napredak Common Voicea o snimljenim isječcima
+todays-validated-progress = Današnji napredak Common Voicea o potvrđenim isječcima
+stats = Statistike
+awards = Nagrade
+you = Ti
+everyone = Svatko
+contribution-activity = Aktivnost doprinošenja
+top-contributors = Najaktivniji doprinositelji
+recorded-clips = Snimljeni isječci
+validated-clips = Potvrđeni isječci
+total-approved = Ukupno odobreno
+overall-accuracy = Ukupna točnost
+set-visibility = Postavi moju vidljivost
+visibility-explainer = Ova postavka kontrolira vidljivost tvoje ploče najboljih rezultata. Kad je skrivena, tvoj će napredak biti privatan. To znači da se tvoja slika, korisničko ime i napredak ne pojavljuju na ploči najboljih rezultata. Imaj na umu, da je za aktualiziranje ploče potrebno otprilike { $minutes } min.
+visibility-overlay-note = Napomena: Ako je postavljeno na „Vidljivo”, ta se postavka može promijeniti na <profileLink>stranici profila</profileLink>
+show-ranking = Pokaži moju ocjenu
+
+## Custom Goals
+
+get-started-goals = Započni sa ciljevima
+create-custom-goal = Stvori prilagođeni cilj
+goal-type = Koju vrstu cilja želiš izgraditi?
+both-speak-and-listen = Oboje
+both-speak-and-listen-long = Oboje (govori i slušaj)
+daily-goal = Dnevni cilj
+weekly-goal = Tjedni cilj
+easy-difficulty = Jednostavni
+average-difficulty = Prosječni
+difficult-difficulty = Teški
+pro-difficulty = Profesionalni
+lose-goal-progress-warning = Uređivanjem cilja, možda ćeš izgubiti svoj postojeći napredak.
+want-to-continue = Želiš li nastaviti?
+finish-editing = Najprije završiti s uređivanjem?
+lose-changes-warning = Ako sada prekineš izgubit ćeš promjene
+build-custom-goal = Izgradi prilagođeni cilj
+help-reach-hours-pluralized =
+    { $hours ->
+        [one] Pomogni dosegnuti{ $hours } sat za { $language } s osobnim ciljem
+        [few] Pomogni dosegnuti{ $hours } sata za { $language } s osobnim ciljem
+       *[other] Pomogni dosegnuti{ $hours } sati za { $language } s osobnim ciljem
+    }
+help-reach-hours-general-pluralized =
+    { $hours ->
+        [one] Pomogni Common Voiceu dosegnuti{ $hours } sat za jezik s osobnim ciljem
+        [few] Pomogni Common Voiceu dosegnuti{ $hours } sata za jezik s osobnim ciljem
+       *[other] Pomogni Common Voiceu dosegnuti{ $hours } sati za jezik s osobnim ciljem
+    }
+set-a-goal = Postavi cilj
+cant-decide = Ne možeš se odlučiti?
+activity-needed-calculation-fixed = 100 ljudi koji snimaju 100 rečenica dnevno mogu generirati 13 sati audio animaka. Održavajući ovu izvedbu, 1000 sati se mogu postići za manje od 3 mjeseca.
+how-many-per-day = Sjajno! Koliko isječaka dnevno?
+how-many-a-week = Sjajno! Koliko isječaka tjedno?
+which-goal-type = Želiš li govoriti, slušati ili oboje?
+receiving-emails-info =
+    S tvojim trenutačnim postavkama primat ćeš e-mailove kao što su podsjetnici za ciljeve,
+    aktualiziranja vlastitog napretka i biltene Common Voicea
+not-receiving-emails-info =
+    S tvojim trenutačnim postavkama <bold>NE PRIMAŠ</bold> e-mailove kao što su podsjetnici za ciljeve,
+    aktualiziranja vlastitog napretka i biltene Common Voicea
+n-clips-pluralized =
+    { $count ->
+        [one] { $count } isječak
+        [few] { $count } isječka
+       *[other] { $count } isječaka
+    }
+help-share-goal = Pomogni nam pronaći još glasova, podijeli svoj cilj
+confirm-goal = Potvrdi cilj
+goal-interval-weekly = Tjedno
+# $type is one of share-goal-type-*
+share-n-daily-contribution-goal = Podijeli svoj dnevni cilj od { $count } isječaka za { $type }
+# $type is one of share-goal-type-*
+share-n-weekly-contribution-goal = Podijeli svoj tjedni cilj od { $count } isječaka za { $type }
+share-goal-type-speak = Govor
+share-goal-type-listen = Slušanje
+share-goal-type-both = Govor i slušanje
+# LINK will be replaced with the current URL
+goal-share-text = Upravo sam stvorio osobni cilj davanja glasa projektu #CommonVoice – pridruži mi se i pomogni učiti strojeve govoriti ljudskim jezikom { $link }
+weekly-goal-created = Tvoj tjedni cilj je stvoren
+daily-goal-created = Tvoj dnevni cilj je stvoren
+track-progress = Prati napredak ovdje i na tvojoj stranici sa statistikama.
+return-to-edit-goal = Vrati se ovamo i uredi cilj u bilo kojem trenutku.
+share-goal = Dijeli moj cilj s drugima
+
+## Goals
+
+streaks = Serije
+days =
+    { $count ->
+        [one] Dan
+        [few] Dana
+       *[other] Dana
+    }
+recordings =
+    { $count ->
+        [one] snimka
+        [few] snimke
+       *[other] snimaka
+    }
+validations =
+    { $count ->
+        [one] Potvrda
+        [few] Potvrde
+       *[other] Potvrda
+    }

@@ -1,0 +1,323 @@
+# GUIDELINES PAGE
+guidelines-header = Катнашу күрсәтмәләре
+guidelines-header-subtitle = Common Voice мәгълүматлар тупланмасына өлеш кертү һәм керткән мәгълүматның раслауны ничек башкарырга икәнен ачыклагыз.
+voice-collection = Тавышлар тупланмасы
+sentence-collection = Фразалар тупланмасы
+question-collection = Сораулар тупланмасы
+scripted-speech = Сценарий буенча сөйләү
+spontaneous-speech = Кинәт туган сөйләм
+dont-subheader = Болай эшләмәгез
+
+## Voice Collection nav ids
+
+varying-pronunciations = Төрле әйтелешләр
+misreadings = Дөрес укымаулар
+offensive-content = Рәнҗеткеч эчтәлек
+background-noise = Арткы планда шау-шу
+background-voices = Арткы планда тавышлар
+volume = Тавыш көче
+reader-effects = Укучы эффектлары
+just-unsure = Тәгаен белмисезме?
+example = Мисал
+
+## Voice collection sidebar content
+
+varying-pronunciations-explanation-1 = Без төрле акцентларны хуплыйбыз! Укучының сүзне дөрес әйтмәве, басымны дөрес куймавы яки сорау билгесенә игътибар итмәве аркасында язуны кире кагар алдыннан бераз уйлап алыгыз. Дөньяның һәм илнең төрле почмакларында кулланылган төрле акцентлар һәм әйтелешләр очрарга мөмкин. Зинһар, сез күнеккәннән аерылып торган сөйләмне кире кагарга ашыкмагыз.
+varying-pronunciations-explanation-2 = Икенче яктан, укучы бу сүзне элек беркайчан да очратмаган һәм аны дөрес укымый дип саныйсыз икән, аны кире кагыгыз. Шикләнсәгез, калдырып тору төймәсенә басыгыз.
+varying-pronunciations-example = Юл ачык түгел иде.
+varying-pronunciations-tip-1 = [Мишәр татарчасында «ачык» сүзе «а-цык» («ц» авазы белән) булып яңгырый]
+varying-pronunciations-tip-2 = [Казан татарчасында «ачык» сүзе «а-щык» (йомшак «ч» белән) булып яңгырый]
+offensive-content-explanation = Җөмләләр җәмгыять тарафыннан модерация үткәндә тикшерелә. Ләкин бу процесс камил түгел. Ниндидер җөмлә сезне хурласа яки кәефегезне төшерсә — мәсәлән, <participationGuidelines>җәмгыятьтә катнашу кагыйдәләрен</participationGuidelines> бозуы аркасында — кулланучы интерфейсында "флажок" төймәсенә басыгыз. Шулай ук, безгә <emailFragment>commonvoice@mozilla.com</emailFragment> адресы буенча язарга була.
+misreadings-explanation-1 = Биттәге барлык сүзләрне дөрес уку зур әһәмияткә ия. Тикшерү процессында тыңлаганада бик игътибарлы булыгыз. Яздырылган мәгълүмат чыганак текстка төп-төгәл туры килергә тиеш. Нәрсәдер өстәлгән яки кыскартылган булса, ниндидер сүзләр яздырылмыйча калган булса, язманы кабул итмәгез.
+misreadings-explanation-2 = Бик еш очрый торган хаталар арасында:
+misreadings-explanation-3 = Яздыру соң кабызылган булган, шуңа күрә беренче сүзнең башы яздырылмыйча калган.
+misreadings-explanation-4 = Сүзнең азагы әйтелмичә калган, мәсәлән: "минем белән" урынына "мин белән".
+misreadings-explanation-5 = Язылган сүзгә охшаш, ләкин аерылып торган сүз әйтелә. Мәсәлән, "алып кайтабыз" урынына "апкайтабыз" дип әйтү, яки киресенчә.
+misreadings-explanation-6 = Яздыруны артык иртә туктату аркасында соңгы сүзнең азагы яздырылмыйча калган.
+misreadings-explanation-7 = Бер үк сүзне берничә тапкыр укырга тырышу.
+misreadings-example-1 = Без чәй алып кайтабыз.
+misreadings-example-2 = Без чәй апкайтабыз.
+misreadings-example-3 = Без бер чәй алып кайтабыз.
+misreadings-example-4 = Төклетура узып үтте.
+misreadings-tip-1 = ["алып кайтабыз" булырга тиеш иде]
+misreadings-tip-2 = [Чыганак текстта "бер" юк]
+misreadings-tip-3 = [Туры килмәгән эчтәлек]
+background-noise-explanation = Язмадагы һәрбер сүз ачык ишетелергә тиеш. Безнең теләгебез — фонда төрле чит тавышлар булганда да машина өйрәтү алгоритмнарының эшли алуы. Шуңа күрә хәтта нык яңгыраган чит тавышлар кергән язмалар да кабул ителә ала. Бары тик шунысы шарт — андый тавышлар сезгә барлык текстны ишетергә комачауламаска тиеш. Текстны ишетергә комачаулаучы чатырдаулар яки «өзелүләр» булса, сез клипны кулланудан баш тартырга тиешсез.
+background-noise-example-1 = Бу балыклар базарда сатыла.
+background-noise-example-2 = [Төчкерү] Бу балыклар базарда [ютәл] сатыла.
+background-noise-example-3 = Бу балыклар база [ютәл] сатыла.
+background-noise-example-4 = [Шытыр-пытыр тавыш] балыклар базарда [шытыр-пытыр тавыш]-атыла.
+background-noise-tip-1 = [фондагы чит шау-шу белән бозылган]
+background-noise-tip-2 = [Текстның өлеше ишетелми]
+background-voices-explanation = Фонда каты булмаган шау-шу булса, бу рөхсәт ителә. Ләкин чит кеше аерым сүзләр сөйләгәнен ишетсәгез, клипны кире кагарга кирәк. Гадәттә, мондый хәл, фонда телевизор эшләсә, яки якын-тирәдә кемнәрдер сөйләшсә, очрый.
+background-voices-example-1 = Бу балыклар базарда сатыла. [бер тавыш белән укыла]
+background-voices-tip-1 = Син киләсеңме? [башка кеше әйтте]
+volume-explanation = Төрле язмаларда тавыш катылыгы да төрле була — бу табигый күренеш. Шуңа күрә аларны кире кагуның шарты — тавыш, артык көчле булып, язмага бозыклык кертергә тиеш, яки (монысы ешрак очрый) тавыш бөтенләй ишетмәслек булып, сез, текстка мөрәҗәгать итмичә, берни дә аңламаска тиеш. Башка очракларда язманы кире кагарга кирәкми.
+reader-effects-explanation = Күпчелек язмаларда кешеләр гадәти табигый тавышлары белән сөйли. Сез кайвакыт очрый торган кычкырып, пышылдап яки артык «драматик» тавыш белән сөйләүле язмаларны кабул итә аласыз, әлбәттә. Ләкин, җырлаулы язмаларны яки компьютерда синтезланган тавышлы язмаларны кабул итмәгез.
+just-unsure-explanation = Бу киңәләрдә аңлатылмаган мисалларга тап булсагыз, акыллы фикер йөртүегезгә нигезләнеп тавыш бирегез. Әгәр дә барыбер нишләргә белмисез икән, калдырып тору төймәсенә басыгыз һәм киләсе язмага күчегез.
+still-have-questions = Сорауларыгыз калдымы?
+contact-common-voice = Common Voice такымына мөрәҗәгать итегез
+
+## Sentence collection nav ids
+
+public-domain = Иҗтимагый милектә
+citing-sentences = Җөмләләрне цитаталау
+adding-sentences = Җөмләләр өстәү
+reviewing-sentences = Җөмләләрне тикшерү
+sentence-domain = Җөмләләр домены
+
+## Sentence collection sidebar content
+
+public-domain-explanation-1 = Барлык җөмләләрнең <publicDomain>иҗтимагый милектә</publicDomain> (<cc0>cc0</cc0>) булуы аеруча әһәмиятле, чөнки Common Voice мәгълүматлар җыелмасы cc0 лицензиясе белән чыгарылган. Җөмләләрне моңа инансагыз гына йөкләгез һәм һәрвакыт тиешле чыганакны күрсәтегез.
+public-domain-explanation-2 = Сөйләмне тану өчен иң яхшы җөмләләр - заманча сөйләм теле. Җөмләләрне уйлап табуны булышыр өчен кайбер идеяләр:
+public-domain-explanation-3 = Заманча сөйләм телендәге җөмләләрне булдырыгыз — үзегез генә, дусларыгыз белән яки тел җәмгыяте белән, мәсәлән, язу конкурсы ярдәмендә
+public-domain-explanation-4 = Авторлар, драматурглар яки сценаристлар белән элемтәгә керегез һәм сорагыз: алар үзләренең әсәрләренең күпмедер өлешен җәмәгать милкенә тапшырырга әзерме?
+public-domain-explanation-5 = Авторлык хокуклары эшләүдән туктаган текстларны эзләгез. Авторы 70 ел элек вафат булган күпчелек әсәрләр шушы даирәгә керә.
+public-domain-explanation-6 = Хөкүмәтләргә, коммерциягә нигезләнмәгән оешмаларга яки медиа оешмаларга мөрәҗәгать итегез һәм аларның веб-контенты, хисапнамә язмалары яки башка контенты иҗтимагый милеккә күчә аламы икәнен ачыклагыз.
+citing-sentences-explanation-1 = Чыганакларны күрсәтү бик мөһим, чөнки без аның ярдәмендә җөмләләрнең иҗтимагый милектә булганлыгын һәм аларга авторлык хокуклары чикләүләре таралмаганын тикшерә алабыз.
+citing-sentences-subheader-websites = Веб-сайтлар
+citing-sentences-subheader-websites-explanation = Сез сайт билгели аласыз, мәсәлән: "Common Voice - https://commonvoice.mozilla.org/"
+citing-sentences-subheader-academic-reference = Академик өземтә китерү
+citing-sentences-subheader-academic-reference-explanation = Сез сылтамаларны цитаталау өчен академик стиль куллана аласыз, мәсәлән, Harvard style стилен: «Mozilla (2021) Common Voice. https://commonvoice.mozilla.org/ адресы буенча ирешелмәле. (Мөрәҗәгать итү датасы: 15 сентябрь 2021 ел.)»
+citing-sentences-subheader-offline-sources = Интернетта булмаган чыганаклар
+citing-sentences-subheader-offline-sources-explanation = Интернетта булмаган, ләкин иҗтимагый милектә булган текст өчен академик стильдәге сылтамаларны кулланырга була. Мәсәлән, Harvard style стилен: «Дҗесс (2021) Ачык лицензия астында минем шигырьләрем».
+citation =
+    .label = Цитата
+self-citation = Үз-үзеңне цитаталау
+self-citation-explanation = Контент сезнең тарафтан язылган булса, үзегезгә менә ничек сылтама бирә аласыз.
+adding-sentences-subheader-length = Озынлык
+adding-sentences-subheader-length-explanation = Җөмлә 15 сүздән кыскарак булырга тиеш.
+adding-sentences-subheader-spelling-punctuation = Орфография һәм тыныш билгеләре
+adding-sentences-subheader-spelling-punctuation-explanation = Җөмләдә орфографик хаталар булмаска тиеш.
+adding-sentences-subheader-speakable = Кычкырып укып була
+adding-sentences-subheader-speakable-explanation = Иң яхшы җөмләләр табигый сөйләм кебек җиңел укыла. Җөмләләрдә фонетика һәм сүзләрнең төрле булуы зур әһәмияткә ия булса да, без җөмләләр яздыруны волонтерлар өчен дә кызык һәм мавыктыргыч ясарга тырышабыз.
+adding-sentences-subheader-numbers = Саннар
+adding-sentences-subheader-numbers-explanation = Идеаль очракта чыганак текстта цифрлар булмаска тиеш, чөнки кычкырып укыганда алар кыенлыклар тудырырга мөмкин. Санның ничек укылуы контекстка бәйле һәм бу мәгълүмат тупланмасында буталчыклык китереп чыгарырга мөмкин. Мәсәлән, «2409» санын «ике дүрт ноль тугыз» дип тә, шулай ук «ике мең дүрт йөз тугыз» дип тә дөрес укып була.
+adding-sentences-subheader-abbreviations = Кыскартмалар һәм акронимнар
+adding-sentences-subheader-abbreviations-explanation = «ФСБ» яки «АКШ» кебек кыскартмалардан һәм акронимнардан чыганак текстта качарга кирәк, чөнки алар язылышына туры килмәгән рәвештә укылырга мөмкин. Моннан тыш, бер үк кыскартманың берничә дөрес укылышы булырга мөмкин.
+adding-sentences-subheader-punctuation = Тыныш билгеләре
+adding-sentences-subheader-punctuation-explanation = Махсус символларны һәм тыныш билгеләрен бик кирәк вакытта гына кертергә кирәк. Мәсәлән, апостроф «don’t» һәм «we’re» кебек инглиз сүзләре эчендә кулланыла һәм башлангыч текст эчендә булырга тиеш. Ләкин  «@» яки «#» кебек махсус символның сезгә кайчан да булса кирәк булуының ихтималы бик түбән.
+adding-sentences-subheader-special-characters = Махсус символлар һәм чит тел хәрефләре
+adding-sentences-subheader-special-characters-explanation-1 = Хәрефләр укылучы текст теленә хас булырга тиеш. Мәсәлән, «ж» – рус әлифбасы хәрефе, ләкин ул инглиз телендә кулланылмый һәм шуңа күрә инглиз телендәге бернинди башлангыч текстта да булырга тиеш түгел.
+adding-sentences-subheader-special-characters-explanation-2 = Телләрдә локальләштерү өчен махсус шартлары булган аерым тикшерү кагыйдәләре булуы мөмкин. Тел өчен махсус тикшерү файлы булмаса, катнашучылар өчен инглиз телендәге кагыйдәләр күрсәтеләчәк.
+adding-sentences-subheader-offensive-content = Рәнҗеткеч эчтәлек
+adding-sentences-subheader-offensive-content-explanation = Җөмлә әдәпсез яки рәнҗеткеч булса — мәсәлән, артык шәрран эчтәлеге яки <communityGuidelines>башка кагыйдәләрне</communityGuidelines> бозу аркасында — сез җөмләне кабул итмәскә тиеш. Проблеманы чишү өчен сез безнең белән шулай ук <emailFragment>commonvoice@mozilla.com</emailFragment> адресы буенча элемтәгә керә аласыз.
+reviewing-sentences-explanation-1 = Әгәр җөмлә югарыдагы критерийларга туры килсә, "Әйе" төймәсенә басыгыз.
+reviewing-sentences-explanation-2 = Әгәр җөмлә югарыдагы критерийларга туры килмәсә, "Юк" төймәсенә басыгыз.
+reviewing-sentences-explanation-3 = Әгәр дә сез җөмләгә карата шикләнсәгез, аны шулай ук калдырып торып, киләсесенә күчә аласыз.
+reviewing-sentences-explanation-4 = Әгәр тикшерү өчен җөмләләр бетсә, зинһар, безгә күбрәк җөмләләр җыярга ярдәм итегез!
+domain-explanation = Домен бу җөмләнең тематик өлкәсен аңлата. Хәзерге вакытта түбәндәгеләр арасыннан сайлый аласыз:
+
+## Question collection ids
+
+adding-questions = Сораулар өстәү
+
+## Question collection sidebar content
+
+what-makes-a-good-question-subheader = Яхшы сорау нинди булырга тиеш?
+what-makes-a-good-question-explanation = Ачык мәгълүматлар җыелмасы өчен яхшы сорау:
+what-makes-a-good-question-explanation-criteria-1 = Аңлаешлы һәм җавап бирүдә авырлыклар тудырмый
+what-makes-a-good-question-explanation-criteria-2 = Гомумән алганда урынлы булырга тиеш
+what-makes-a-good-question-explanation-criteria-3 = Әдәпсез яки рәнҗеткеч лексиканы кулланмаска һәм хупламаска
+what-makes-a-good-question-tip = Сез шулай ук төрле контекстлар һәм өлкәләрне үз эченә алу турында уйлый аласыз.
+easy-to-understand = Аңларга җиңел
+easy-to-understand-explanation = Мәдәниятькә яки контекстка карамастан теләсә кем аңлый алырлык гади сораулар сайлагыз.
+spelling-and-pronunciation = Орфография һәм тыныш билгеләре
+spelling-and-pronunciation-explanation = Орфография һәм грамматика кагыйдәләрен үтәгез
+length = Озынлык
+length-explanation = Сорауга бер-ике җөмлә белән җавап бирерлек булырга тиеш.
+dont-add-subheader = Шуларны өстәмәгез
+culturally-specific-questions = Мәдәнияткә хас сораулар
+culturally-specific-questions-explanation = Мәдәният үзенчәлекләренә бик нык бәйле булган яки респондент турында күпсанлы фаразлауларга нигезләнгән сораулар
+length-avoid-explanation = 15 секунд эчендә (клипның максималь озынлыгы) җавап бирү авыр булган сораулар
+process-steps = Процесс / адымнар
+process-steps-explanation = Җавапны берничә адымда сөйләүне таләп итүче сораулар. Андый сораулар җавапны гадәттәгечә сөйләү урынына аны берәркайдан укып сөйләү теләген уята.
+offensive-content-sensitive-information = Мыскыллаучы эчтәлек яки тыелган мәгълүмат
+offensive-content-sensitive-information-explanation-explanation-1 = Шәхси мәгълүматны сорый алучы сораулар
+offensive-content-sensitive-information-explanation-explanation-2 = Нәфрәт сөйләме яисә башка бер яклы яки мыскыллаучы фикерләр тудыра алган сораулар
+offensive-content-sensitive-information-explanation-explanation-3 = Зыян китерә алучы мәгълүматны уратклашу теләген уята ала торган сораулар
+example-questions-subheader = Сорау үрнәкләре
+example-questions-explanation-1 = Сез <examplePromptsLink>бу таблицада 120 мисалны таба аласыз.</examplePromptsLink>
+example-questions-explanation-2 = Өстәү өчен сораулар төркемен җибәрергә теләсәгез, моны <githubLink>безнең GitHub аша эшләргә була<emailFragment>commonvoice@mozilla.com</emailFragment>
+
+## Spontaneous Speech sidebar content
+
+# Answer Questions
+answer-questions = Сорауларга җавап бирү
+answer-questions-subheader = Гомуми күрсәтмәләр
+answer-questions-explanation-2 = Истә тотыгыз: әгәр тотлыксагыз, тукталып калсагыз яки берәр сүзне кабатласагыз, борчылмагыз. Болар барысы да инклюзив, реаль шартларда эшли торган сөйләм тану коралларын ясарга тырышучы инженерлар өчен файдалы мәгълүмат.
+answer-questions-tip-1 = Ярыйсы ук тыныч урында яздырыгыз
+answer-questions-tip-2 = Яхшы интернет элемтәсе булган урын сайлагыз
+answer-questions-tip-3b = Җавабыгызны 15-30 секунд эчендә тотарга тырышыгыз
+answer-questions-tip-4 = Нәфрәт уятучы, хурлаучы яки башка рәнҗеткеч фикерләрдән баш тартыгыз
+answer-questions-tip-5 = Дустыгыз белән сөйләшкән кебек, табигый итеп сөйләшегез - үзегезнең чын сөйләшегезне, диалектыгызны һәм акцентыгызны кулланыгыз
+answer-questions-tip-6 = Тавышыгызны бертигез тотыгыз - кычкырмагыз һәм җырламагыз
+# Transcribe the Audio
+transcribe-the-audio = Аудионы текстка күчерү
+transcribe-the-audio-subheader-1 = Гомуми күрсәтмәләр
+transcribe-the-audio-subheader-2 = Саннар һәм акронимнар
+transcribe-the-audio-subheader-3 = Махсус билгеләр
+transcribe-the-audio-subheader-4 = Сүз кисәкләре, фальстартлар, кабатланучы сүзләр
+transcribe-the-audio-subheader-5 = Грамматик хаталар һәм көнкүреш сөйләм әйтелмәләре
+transcribe-the-audio-subheader-1-explanation = Гомумән алганда, сез ишеткән бар нәрсәне дә язып барырга тиешсез. Моңа түбәндәгеләр керә:
+transcribe-the-audio-subheader-1-explanation-example-1 = Сөйләмдәге тоткарлыкларны, шул исәптән тукталып торуларны һәм кабатлауларны язып бару
+transcribe-the-audio-subheader-1-explanation-example-2 = Ютәлләү яки көлү кебек тавышларны билгеләү
+transcribe-the-audio-subheader-1-explanation-example-3 = Фонда кирәкмәгән чит тавышларны, мәсәлән, фонда кемнеңдер сөйләгәнен яки машина тавышларын, тамгалау
+transcribe-the-audio-subheader-1-explanation-example-4 = Грамматик үзгәрешләр һәм сленг ничек әйтелсә, нәкъ шулай язып алынырга тиеш. Кешеләрнең сөйләмен төзәтмәгез яки үзгәртмәгез.
+transcribe-the-audio-subheader-2-explanation-1 = Саннар һәм символлар сүз итеп язылган булырга тиеш, цифрлар һәм махсус символлар итеп түгел. Мәсәлән:
+transcribe-the-audio-subheader-2-explanation-2 = Акронимнар, гадәттәгечә язылган кебек, баш хәрефләр белән язу буенча стандартлы кагыйдәләргә нигезләнеп язылырга тиеш. Аларны фонетика аша транскрибларга ярамый. Мәсәлән:
+# text wrapped in correct will be shown as green text in the UI
+transcribe-the-audio-subheader-2-example-1-correct = <correct>Дөрес</correct>: Бу урыннан бер йөз километр еракта
+# text wrapped in wrong will be shown as red text in the UI
+transcribe-the-audio-subheader-2-example-1-wrong = <wrong>Ялгыш</wrong>: Бу урыннан 100 километр еракта
+# text wrapped in correct will be shown as green text in the UI, text wrapped in underline will be underlined in the UI
+transcribe-the-audio-subheader-2-example-2-correct = <correct>Дөрес</correct>: <underline>Ике мең унбиш</underline> елда күрешербез
+# text wrapped in wrong will be shown as green text in the UI, text wrapped in underline will be underlined in the UI
+transcribe-the-audio-subheader-2-example-2-wrong = <wrong>Ялгыш</wrong>: <underline>2015</underline> елда күрешербез
+transcribe-the-audio-subheader-2-example-3-correct = <correct>Дөрес</correct>: Ул егерме процентлы ташлама булды
+transcribe-the-audio-subheader-2-example-3-wrong = <wrong>Ялгыш</wrong>: Ул 20%-лы ташлама булды
+transcribe-the-audio-subheader-2-example-4-correct = <correct>Дөрес</correct>: Узган пәнҗешәмбе көнне <underline>ФБР</underline> аларны кулга алды
+transcribe-the-audio-subheader-2-example-4-wrong = <wrong>Ялгыш</wrong>: Узган пәнҗешәмбе көнне <underline>эф бэ эр</underline> аларны кулга алды
+transcribe-the-audio-subheader-3-explanation = Киләсе махсус тэглар вербаль булмаган өстәмләрне, тутырткычларны һәм вербаль булмаган (инглиз телендәге) контентның башка төрләрен билгеләү өчен кулланылырга тиеш.
+tags-table-header-1 = Билге
+tags-table-header-2 = Мәгънә
+tags-laugh = Көлү
+tags-disfluency = Йөгерек булмаган сөйләм
+tags-unclear = Аңлаешсыз
+tags-noise = Шау-шу
+tags-laugh-explanation = Көлү тавышы.
+tags-disfluency-explanation =
+    Сөйләүче фикерен туплаганчы, паузаны тутыру өчен кулланыла торган сүз яки аваз.
+    Татар телендә иң киң таралган икеләнү авазларына «әмм», «м-м-м», «ә-ә-ә» керә.
+tags-unclear-explanation = Аңлашылмый торган сүз яки сүзләр тезмәсе.
+tags-noise-explanation =
+    Теләсә нинди чит тавыш, мәсәлән, сөйләүченең ютәлләве,
+    машина тавышы, нәрсәнеңдер микрофонга кагылу тавышы, телефон шалтыратуы тавышы һ. б.
+# Note: do not translate any tag, like [noise] or [laugh]
+special-tags-example-2 =
+    Аннары мин [noise] ялга киттем.
+    Ни инде, [noise] [laugh] бу бөтенләй үк ял да түгел иде [laugh]
+transcribe-the-audio-subheader-4-explanation-1 = Кинәт туган сөйләмдә, гадәттә, фальстартлар була. Андый очракларда тулы сүзнең бер кисәге генә ишетелә. Моңа тап булсагыз, сүзнең фальстартлы икәнен күрсәтер өчен сүз фрагментын мөмкин кадәр яхшырак транскриблагыз һәм сүз ахырына дефис (-) өстәгез. Мәсәлән:
+transcribe-the-audio-subheader-4-explanation-1-example = Аның исеме <underline>Ис- Искән-</underline> Искәндәр.
+transcribe-the-audio-subheader-4-explanation-2 = Кайвакыт сөйләүчеләр сүзне яки сүз кисәген берничә тапкыр кабатлый. Моны да язып алырга кирәк. Мисал:
+transcribe-the-audio-subheader-4-explanation-2-example = Аннары мин <underline>йокы йокы йокы бүл- йокы</underline> бүлмәсенә бардым.
+transcribe-the-audio-subheader-5-explanation-1 = Кинәт туган сөйләмдә әлбәттә грамматик хаталар да булырга мөмкин. Транскриблаганда аларны төзәтергә кирәкми. Транскрипция сөйләм контентына төп-төгәл туры килергә тиеш.
+transcribe-the-audio-subheader-5-explanation-2 = Сөйләүчеләр "гади сөйләмдә" кулланыла торган гыйбарәләрне кулланырга мөмкин («апкайту», «апкилү», «хә», «мәйтәм» һ. б. ш.), һәм шул гыйбарәләр формаль үзлекләр буенча гадәттә хаталы итеп санала. Аларны ничек бар, шулай транскрибларга кирәк, формальрәк эквивалент белән алыштырырга кирәкми.
+
+## Review the Transcription
+
+review-the-transcription = Транскриптны тикшерү
+review-the-transcription-subheader = Гомуми күрсәтмәләр
+review-the-transcription-explanation-1 = Гомумиләштереп әйткәндә, транскрипцияне тикшерүче һәм шул транскрипцияне булдыручылар төрле кешеләр булырга тиеш. Кешегә үзе башкарган хезмәтен тикшерү бик авыр! Тикшерү берничә яктан һәм юлдан башкарылса, аның сыйфаты һәм нәтиҗәлелеге югарырак була, читенлекләрне һәм ялгыш фикерләүне булдырмаска булыша.
+review-the-transcription-explanation-2 = Югарыда күрсәтелгән транскрипция булдыру өчен киңәшләрне карагыз һәм транскрипцияне тикшерегез. Сез төзәтмәләрне кертә аласыз һәм аларны җибәрә аласыз.
+review-the-transcription-explanation-3 = Зыянлы, рәнҗеткеч яки башка әдәпсез контентка тап булсагыз, сез аны шулай ук билгели аласыз. Common Voice командасы аны тикшергәнче һәм кирәкле тикшеренүләр башкарганчы, шул контент браузерыгыздан бетереләчәк.
+
+## Code-Switching
+
+code-switching = Телләрне катыштыру
+adding-a-question = Сорау өстәү
+# Adding a Question
+code-switching-adding-question-subheader = Яхшы сорау нинди булырга тиеш?
+code-switching-adding-question-explanation = Ачык мәгълүматлар җыелмасы өчен яхшы сорау:
+code-switching-adding-question-criteria-1 = Аңлаешлы һәм җавап бирүдә авырлыклар тудырмый
+code-switching-adding-question-criteria-2 = Гомумән алганда урынлы булырга тиеш
+code-switching-adding-question-criteria-3 = Әдәпсез яки рәнҗеткеч лексиканы кулланмаска һәм хупламаска
+code-switching-adding-question-note = Сез шулай ук төрле контекстлар һәм өлкәләрне үз эченә алу турында уйлый аласыз.
+# What types of questions to add
+code-switching-types-subheader = Нинди төрдәге сорауларны кертергә?
+code-switching-use-bilingual-prompts-explanation-example = "Что тебе сказала мама, шул көнне өйгә кайткач?"
+code-switching-ask-bilingual-contexts-header = Билингваль контекстлар турында сорарга
+code-switching-ask-bilingual-contexts-explanation = Гадәттә, ике тел дә кулланыла торган ситуацияләрне тасвирлагыз (мәсәлән, өйдә, мәктәптә, җәмгыять чараларында). Мәсәлән:
+code-switching-ask-bilingual-contexts-explanation-example = «Тудыка белән сөйләшкәндә, сез татар телендә рус теле белән катнаш сөйләшәсезме?»
+code-switching-focus-emotional-header = Сезне илһамландырган моментларга игътибар итегез
+code-switching-focus-emotional-explanation = Кешеләр үзләренең хисләрен яки нәрсәнедер ашыгыч тасвирларга кирәк булганда, еш кына кодлар арасында күченә. Мәсәлән:
+code-switching-focus-emotional-explanation-example = «Ата-анагыз сездән зур яңалыклар белгәч нәрсә әйткәнен сөйләгез — алар ничек әйткән, нәкъ шулай итеп».
+code-switching-direct-quotes-header = Туры цитаталарны яки реконструкцияләрне сорагыз
+code-switching-direct-quotes-explanation = Катнашучылардан чынлыкта нәрсә әйтелгәнен кабатларга сорагыз.Мәсәлән:
+code-switching-direct-quotes-explanation-example = «Белгәч, сез нәрсә әйткәнсез? Шуны төп-төгәл сөйләгез»
+code-switching-cultural-topics-header = Мәдәнияткә хас темаларны сайлагыз
+code-switching-cultural-topics-explanation = Ризык, гореф-гадәтләр һәм гаилә динамикасы кодны алыштыруга еш кына китерә ала.
+code-switching-cultural-topics-explanation-example = «Инглиз телендә генә сөйләшүчегә сез Día de los Muertos дигәнен ничек аңлатыр идегез?»
+code-switching-informal-scenarios-header = Формаль булмаган сценарийларны тикшерегез
+code-switching-informal-scenarios-explanation = Дуслар белән әңгәмәләр яки текстлы хәбәрләрне җибәрү өчен табигыйрак күченүләр хас. Мәсәлән:
+code-switching-informal-scenarios-explanation-example = «Дусларыгыз еш кына әллә нәрсәләр кылана — алар аның турында нәрсә һәм ничек сөйли?»
+# What to Avoid
+code-switching-avoid-subheader = Нәрсәдән сакланырга кирәк
+code-switching-avoid-intro = Түбәндәгеләргә китерүе мөмкин булган сораулар:
+code-switching-avoid-1 = Шәхесне ачыклаучы мәгълүмат сорау
+code-switching-avoid-2 = Нәфрәтле, әдәпсез яки рәнҗеткеч сүзләр әйтүне уятучы сөйләмне кулланырга
+code-switching-avoid-3 = Җавап гамәлләр башкаруны уята ала торган ниндидер конфиденциаль мәгълүматны уртаклашырга чакырырга
+code-switching-dont-header = Болай эшләмәгез
+code-switching-dont-1 = Артык формаль телне кулланмагыз
+# Reviewing a Question
+code-switching-review-subheader = Сорауны тикшерү
+code-switching-review-intro = Сорауның критерийларга туры килгәнен тикшерегез:
+code-switching-review-criterion-1 = Аңлаешлы һәм җавап бирүдә авырлыклар тудырмый
+code-switching-review-criterion-2 = Гомумән алганда урынлы булырга тиеш
+code-switching-review-criterion-3 = Әдәпсез яки рәнҗеткеч лексиканы кулланмаска һәм хупламаска
+code-switching-review-does-not-header = Һәм аны нәрсәләр <bold>ТӘШКИЛ ИТМИ</bold>:
+code-switching-review-offensive-content = <bold>Рәнҗеткеч контент яки конфиденциаль мәгълүмат</bold>
+code-switching-answer-header = Рәнҗеткеч контент яки конфиденциаль мәгълүмат
+code-switching-review-no-1 = Шәхси мәгълүматны сорый алучы сораулар
+code-switching-review-no-2 = Нәфрәтле, әдәпсез яки рәнҗеткеч, мыскыллаучы сүзләр әйтүне уята ала торган сораулар
+code-switching-review-no-3 = Зыян китерә алучы мәгълүматны уртаклашу теләген уята ала торган сораулар
+# Answering a Question
+code-switching-answer-subheader = Сорауга җавап бирү
+code-switching-answer-intro = Сорауга җавап биргәндә, нәкъ чын тормыштагы әңгәмәдәге кебек табигый итеп сөйләшергә тырышыгыз. Без көндәлек сөйләмдә телләрнең чынлыкта ничек кушылуын чагылдырырга телибез.
+code-switching-answer-bullet-1 = Реаль тормыш моментлары яки ситуацияләре турында уйлагыз: мәзәкләр, бәхәсләр, гореф-гадәтләр
+code-switching-answer-bullet-2 = Дустыгызга текстлы хәбәр җибәрәсез яки кемгәдер нәрсәдер сөйлисез дип күзаллагыз
+code-switching-answer-bullet-3 = Сез чынлап та кулланган сүзләрне кулланыгыз, алар башка телдән алынган булсалар да
+code-switching-answer-bullet-4 = Җавап бирүнең бернинди «камил» ысулы юк
+code-switching-authentic-header = Табигый һәм аутентик формада җавап бирегез
+code-switching-authentic-speak = <bold>Дусларыгыз яки гаиләгез белзн ничек сөйләр идегез — шулай сөйләгез.</bold> Көндәлек тормышта төрле телләрне катнаштырып сөйләшсәгез, шулай ук эшләгез. Мәсәлән:
+code-switching-authentic-speak-example = «Беләсеңме, мин аңа бара алмыйм дип әйткән идем, ә ул миңа: «Авызыңны яп!»
+code-switching-use-both-languages = <bold>Сезнең өчен нормаль булса, ике телне кулланыгыз.</bold> Бер яки ике генә сүзне куллану да файдалы. Мәсәлән:
+code-switching-use-both-languages-example = "Ул бик нык ачуланды, потому что мин аңа кире шалтыратмадым."
+code-switching-authentic-direct-quotes = <bold>Туры куштырнакларны яки диалогларны кулланыгыз.</bold> Башка кешенең әйткәнен төп-төгәл сөйләгез, ниндидер чистартылган яки формальләштерелгән версияләрне кулланмагыз. Мәсәлән:
+code-switching-authentic-direct-quotes-example = «Әнием әйтте: "Син моны уен дип уйлыйсыңмы?", а я такой: "Окей, остынь!"»
+code-switching-authentic-full-context = <bold>Тулы һәм контекстлы җавап бирегез.</bold> Мөмкин кадәр күбрәк нечкәлекләрне тасвирлагыз. Җавапларыгызда  мисаллар китерегез.
+# Don’t Overthink or Overedit
+code-switching-answer-dont-subheader = Артык уйлап тормагыз һәм үзгәртүләр белән мавыкмагыз
+code-switching-answer-dont-correct-language = <bold>Телегезне «төзәтергә».</bold> Бу тест түгел. Форма «дөреслегенең» бернинди дә әһәмияте юк. Телнең табигый булуы — шунысы гына мөһим.
+# Transcribing
+code-switching-transcribe-subheader = Текстка күчерү
+code-switching-transcribe-do-1 = Сизелмәслек күчүләрне табу өчен кыска кисәкләрне берничә тапкыр уйнатыгыз
+# Capture Speech Exactly as Spoken
+code-switching-capture-header = Сөйләмне нәкъ ишетелгәнчә туплагыз
+# Use standard spelling for each language
+code-switching-spelling-header = Һәр тел өчен стандартлы орфографияне кулланыгыз
+code-switching-spelling-explanation = Кулланылган һәр тел өчен сүзләрне дөрес язарга тырышыгыз. Әлбәттә, сөйләүче аларны махсус итеп стандартлы булмаган итеп укымаса.
+# Don’t Clean Up or Simplify the Language
+code-switching-cleanup-header = Телне чистартмагыз һәм гадиләштермәгез.
+code-switching-cleanup-1 = Тәрҗемә итәргә яки фразаларны яңадан төзергә – сөйләйчүнең нәкъ нәрсә әйткәнен языгыз, аның нинди фикер белдергәнен түгел.
+code-switching-cleanup-2 = «Дөрес» грамматика яки әйтелеш – телнең табигыйлыгын саклагыз.
+code-switching-cleanup-3 = Кечкенә яки әһәмиятле булмаган дип күренгән күчүләргә игътибарсыз калдыру — хәтта алынма сүзләр дә мөһим.
+# Tagging
+code-switching-tagging-subheader = Билгеләү
+code-switching-tagging-error-1 = Дөрес булмаган пунктуация яки регистр
+code-switching-tagging-error-2 = Язу хаталары
+code-switching-tagging-error-3 = Сүзләр хаталы орфография белән язылган
+# Using Correct Orthography for Each Language
+code-switching-orthography-header = Һәр тел өчен дөрес орфография кулланырга
+code-switching-orthography-explanation-example-2 = Әгәр "концерт" сүзе татарча әйтелсә, аны "ц" белән языгыз.
+code-switching-pronunciation-explanation = Кайбер сүзләр ике телдә дә бер үк төрле күренергә, ләкин төрлечә әйтелергә мөмкин.  Дөрес билгеләргә ярдәм итсен өчен, аларның әйтелешен тыңлагыз.  Мәсәлән: чемодан, казан, театр, мотор.
+code-switching-pronunciation-explanation-example-1 = Татарча: /ɕemoˈdɒn/
+code-switching-pronunciation-explanation-example-2 = Русча: /tɕɪmɐˈdan/
+# text wrapped in purple and blue will be shown with a purple and blue background in the UI respectively
+code-switching-punctuation-tagging-explanation-example-1 = <purple>һәм</purple> Мәрьямнең <purple>миңа кычкырган бердәнбер вакыты шул иде,</purple> <blue>потому что</blue> <purple>ул</purple> <blue>один</blue> <purple>заказны</purple> принтить <purple>итәргә тырыша иде.</purple> (BangorTalk)
+code-switching-punctuation-tagging-explanation-example-2 = <purple>ләкин</purple> <blue>ты можешь купить их красными, черными, синими</blue>, <purple>теләсә нәрсә.</purple> (BangorTalk)
+# Be Careful with Lookalikes
+code-switching-lookalikes-header = Охшаш сүзләр белән сак булыгыз
+code-switching-lookalikes-explanation-example-1 = «Сабантуй» рус сленгында «шаулы эчү кичәсе» дигәнне аңлата иде > русча дип билгелә
+code-switching-lookalikes-explanation-example-2 = «Кәнишна» татарчада кулланыла > татарча дип билгелә
+code-switching-not-tag-proper-names-example-1 = Кешеләр: Мәрьям, Булат
+code-switching-not-tag-proper-names-example-2 = Урыннар: Яр Чаллы, Казан
+code-switching-not-tag-proper-names-example-3 = Брендлар/Оешмалар:  Бәхетле, Түбәтәй
+code-switching-not-tag-interjections-example-1 = "Ә"
+code-switching-not-tag-interjections-example-2 = "Юк"
+code-switching-not-tag-interjections-example-3 = «Әһә»
+code-switching-not-tag-interjections-example-4 = "Эм"
+
+## Reporting Content
+
+reporting-content-subheader = Гомуми күрсәтмәләр

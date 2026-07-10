@@ -1,0 +1,411 @@
+# Don't rename the following section, its contents are auto-inserted based on the name (see scripts/pontoon-languages-to-ftl.js)
+# [Languages]
+
+
+## Languages
+
+aa = Afar
+aat = Arvanitika
+ab = Abkhaz
+abb = Bankon
+abq = Abaza
+ace = Aceh
+ady = Adyghe
+af = Nam Phi
+aii = Chắc chắn
+ajg = Adja
+aln = Albania Gheg
+am = Amhara
+an = Aragon
+ar = Ả Rập
+arn = Mapuche
+as = Assam
+ast = Asturias
+az = Azerbaijan
+azz = Cao nguyên Puebla Nahuatl
+ba = Bashkir
+bag = Tuki
+bal = Balochi
+bas = Basaa
+bax = Bamun
+bba = Baatonum
+bbj = Ghomala
+bbl = Tush
+bce = Mengambo
+bci = Baoule
+be = Belarut
+beb = Bamvele
+bew = Betawi
+bfd = Bafut
+bft = Balti
+bg = Bulgaria
+bgp = Đông Baloch
+bkh = Bakoko
+bkm = Kom
+bm = Bambara
+bn = Bengal
+bnm = Batanga
+bnn = Bunun
+bo = Tibetan
+br = Breton
+brh = Brahui
+bri = Mokpwe
+brx = Bodo
+bs = Bosnian
+bsh = Kateviri
+bsk = Brushaski
+bsy = Sabah Bisaya
+btv = Bateri
+bum = Bulu
+bxk = Bukusu
+bxr = Buryat
+byv = Medumba
+ca = Catalunya
+cak = Kaqchikel
+cdo = Eastern Min
+cgg = Chiga
+cjk = Chokwe
+ckb = Central Kurdish
+cnh = Hakha Chin
+co = Corsican
+cpx = Heng Hua
+crh = Crimean Tatar
+cs = Séc
+cut = Teutila Cuicatec
+cux = Tepeuxila Cuicatec
+cv = Chuvash
+cy = Wales
+da = Đan Mạch
+dag = Dagbani
+dar = Dargwa
+dav = Kidaw'ida
+de = Đức
+din = Dinka
+dmk = Dawoodi
+dml = Dameli
+dru = Rukai
+dsb = Hạ Sorb
+dua = Duala
+dv = Dhivehi
+dyu = Dioula
+ebr = Ebrie
+ee = Ewe
+eko = Ekoti
+el = Hy Lạp
+en = Anh
+eo = Quốc tế ngữ
+es = Tây Ban Nha
+et = Estonia
+eto = Eton
+eu = Basque
+ewo = Ewondo
+fa = Ba Tư
+fan = Fang
+ff = Fula
+fi = Phần Lan
+fo = Faroe
+fr = Pháp
+fub = Adamawa Fulfulde
+fue = Borgu Fulfulde
+fuf = Pular Guinea
+fy-NL = Frisia
+ga-IE = Ireland
+gaa = Ga
+gej = Mina
+ggg = Gurgula
+gid = Guidar
+gig = Goaria
+giz = Guiziga
+gjk = Kachhi
+gju = Gujari
+gl = Galicia
+gn = Guarani
+gom = Goan Konkani
+gos = Gronings
+gsw = Alsatian
+gu-IN = Gujarati
+guc = Wayuunaiki
+gv = Manx
+gya = Tây Bắc Gbaya
+ha = Hausa
+he = Do Thái
+hi = Hindi
+hil = Hiligaynon
+hr = Croatia
+hsb = Thượng Sorb
+ht = Haiti
+hu = Hungary
+hy-AM = Armenia
+ia = Interlingua
+ibb = Ibibio
+id = Indo
+ie = Interlingue
+ig = Igbo
+is = Iceland
+it = Ý
+izh = Izhorian
+ja = Nhật
+jbo = Lojban
+jv = Javanese
+ka = Gruzia
+kaa = Karakalpak
+kab = Kabyle
+kbd = Kabardian
+ki = Kikuyu
+kk = Kazakh
+kln = Kalenjin
+km = Khmer
+kmr = Tiếng Kurmanji
+kn = Kannada
+knn = Konkani (Devanagari)
+ko = Hàn
+kpv = Komi-Zyria
+ksf = Bafia
+kw = Cornwall
+ky = Kyrgyz
+lb = Luxembourgish
+lg = Luganda
+lij = Ligurian
+ln = Lingala
+lo = Lào
+lrk = Loarki
+lrl = Achomi
+lt = Litva
+ltg = Latgalian
+lua = Tshiluba
+luo = Dholuo
+lv = Latvia
+lzz = Laz
+mai = Maithili
+mbf = Baba Malay
+mbo = Mbo
+mcf = Matses
+mcn = Massa
+mcx = Mpiemo
+mdd = Mbum
+mdf = Moksha
+mfe = Kreol Morisien
+mg = Malagasy
+mgg = Kunabembe
+mhr = Mari Đông
+mk = Macedonia
+ml = Malayalam
+mn = Mông Cổ
+mni = Meetei Lon
+mos = Mossi
+mr = Marathi
+mrh = Mara
+mrj = Mari Tây
+ms = Mã Lai
+mse = Moussey
+msi = Sabah Malay
+mt = Malta
+mua = Mundang
+mug = Musgu
+mve = Marwari
+mxu = Mada
+my = Miến Điện
+myv = Erzya
+nan-tw = Taiwanese (Minnan)
+nb-NO = Na Uy Bokmål
+nd = IsiNdebele (Bắc)
+ne-NP = Nepal
+nhe = Đông Huasteca Nahuatl
+nhi = Western Sierra Puebla Nahuatl
+nia = Nias
+nl = Hà Lan
+nn-NO = Na Uy Nynorsk
+nnh = Ngiembon
+nqo = NKo
+nr = IsiNdebele (Nam)
+nso = Bắc Sotho
+ny = Chinyanja
+nyn = Nyankole
+oc = Occitan
+om = Afaan Ormoo
+or = Odia
+os = Ossetia
+pa-IN = Punjabi
+pap-AW = Papiamento (Aruba)
+pcm = Tiếng Anh Nigerian Pidgin
+pl = Ba Lan
+plk = Kohistani Shina
+ps = Pashto
+pt = Bồ Đào Nha
+quc = K'iche'
+quy = Quechua Chanka
+qvi = Kichwa
+qxp = Puno Quechua
+rif = Tarifit
+rm-sursilv = Romansh Sursilva
+rm-vallader = Romansh
+ro = Rumani
+ru = Nga
+rw = Kinyarwanda
+sah = Sakha
+sat = Santali (Ol Chiki)
+sc = Sardinia
+scn = Sicilian
+sco = Scots
+sd = Sindhi
+sdh = Southern Kurdish
+seh = Sena
+shi = Shilha
+shn = Shan
+si = Sinhala
+sk = Slovakia
+skr = Saraiki
+sl = Slovenia
+snk = Soninke
+snv = Saʼban
+so = Somali
+sq = Albania
+sr = Serbia
+ss = Siswati
+ssi = Sansi
+st = Sesotho
+su = Sunda
+sv-SE = Thụy Điển
+sw = Swahili
+syr = Syriac
+ta = Tamil
+te = Telugu
+teg = Teke
+tg = Tajik
+th = Thái
+ti = Tigrinya
+tig = Tigre
+tk = Turkmen
+tl = Tagalog
+tli = Tlingit
+tn = Setswana
+tok = Toki Pona
+tr = Thổ Nhĩ Kỳ
+ts = Xitsonga
+tt = Tatar
+tui = Tupuri
+tvu = Tunen
+tw = Twi
+ty = Tahitian
+tyv = Tuvan
+uby = Ubykh
+udl = Ouldémé
+udm = Udmurt
+ug = Uyghur
+uk = Ukraina
+ur = Urdu
+uz = Uzbek
+ve = Tshivenda
+vec = Venetian
+vi = Việt
+vmw = Emakhuwa
+vot = Votic
+wep = Westphalian
+wes = Cameroon Pidgin
+wo = Wolof
+xh = Xhosa
+yi = Yiddish
+yo = Yoruba
+yue = Quảng Đông
+zgh = Tamazight
+zh-CN = Trung (Trung Quốc)
+zh-HK = Trung (Hồng Kông)
+zh-TW = Trung (Đài Loan)
+zu = Zulu
+zza = Zaza
+
+# [/]
+
+
+## Layout
+
+profile = Hồ sơ
+help = Trợ giúp
+contact = Liên hệ
+privacy = Riêng tư
+terms = Điều khoản
+cookies = Cookie
+faq = Câu hỏi thường gặp
+documentation = Tài liệu
+content-license-text = Nội dung có sẵn ở <licenseLink>Giấy phép Creative Commons</licenseLink>
+share-title = Giúp chúng tôi tìm những người khác để cung cấp giọng nói!
+share-text = Hãy giúp dạy cho các phần mềm cách nói chuyện của con người, đóng góp giọng nói của bạn tại { $link }
+link-copied = Đã sao chép liên kết
+back-top = Trở về đầu trang
+logout = Đăng xuất
+donate = Quyên góp
+stayintouch = Mozilla chúng tôi đang xây dựng một cộng đồng xoay quanh công nghệ giọng nói. Chúng tôi muốn giữ liên hệ với các cập nhật, các nguồn dữ liệu mới và biết thêm về cách bạn sử dụng dữ liệu này.
+privacy-info = Chúng tôi cam kết sẽ xử lý thông tin của bạn một cách cẩn thận. Tìm hiểu thêm ở <privacyLink>Thông Báo Bảo Mật</privacyLink> của chúng tôi.
+return-to-cv = Trở về Common Voice
+email-input =
+    .label = Email
+loading = Đang tải...
+email-opt-in-info = Tôi muốn nhận email như lời nhắc mục tiêu, cập nhật tiến độ và bản tin của tôi về Common Voice.
+email-opt-in-info-title = Tham gia danh sách gửi thư Common Voice
+email-opt-in-info-sub-with-challenge = Nhận email như lời nhắc cho thử thách và mục tiêu, cập nhật tiến độ và bản tin về Common Voice.
+email-opt-in-privacy-v2 = Bằng cách chọn nhận email, bạn tuyên bố rằng bạn đồng ý với việc Mozilla xử lý thông tin này như được giải thích trong <privacyLink>chính sách bảo mật</privacyLink> của Mozilla.
+indicates-required = * Trường được yêu cầu
+not-available-abbreviation = N/A
+# Text shown on a button that can be clicked to copy text to the clipboard
+copy = Sao chép
+# Text shown on a button that can be clicked to close a modal or panel
+close = Đóng
+# Text shown on a button that can be clicked to cancel an action
+cancel = Hủy bỏ
+# Text shown on a button that can be clicked to delete an item
+delete = Xóa
+
+## Donate banner
+
+# Text wrapped in <mark></mark> will have a white background.
+donate-banner-cta = <mark>Chúng tôi</mark><br/><mark>cần bạn giúp!</mark>
+# Text wrapped in <strong></strong> will be rendered on bold font
+donate-banner-cta-explanation = Chi phí gần một triệu đô la mỗi năm để lưu trữ các bộ dữ liệu và cải thiện nền tảng cho hơn 100 cộng đồng ngôn ngữ dựa vào những gì chúng tôi làm. <strong>Nếu bạn coi trọng dữ liệu mở, toàn diện - hãy quyên góp hôm nay!</strong>
+# Text wrapped in <mark></mark> will have a white background.
+languages-donate-banner-cta = <mark>Sử dụng CV</mark><br/><mark>cho nghiên cứu của bạn?</mark>
+languages-donate-banner-cta-explanation = Common Voice được tài trợ bởi quyên góp và tài trợ! Chúng tôi thích hợp tác với các học giả, xã hội dân sự và các nhà nghiên cứu trong ngành. Common Voice được sử dụng miễn phí nhưng việc quyên góp vào chi phí nền tảng và lưu trữ thông qua các đề xuất tài trợ thực sự hữu ích.
+localization-select =
+    .label = Chọn ngôn ngữ/bản địa hóa
+
+## MDC Announcement
+
+# Main text for MDC announcement. Text wrapped in <strong></strong> will be rendered with bold font
+announcement-mdc-text = <strong>Bộ dữ liệu Common Voice mới</strong> hiện có thể tải xuống độc quyền thông qua nền tảng liên kết của chúng tôi, Mozilla Data Collective. Tham gia để truy cập hơn 300 bộ dữ liệu toàn cầu, được xây dựng bởi và dành cho cộng đồng..
+# Button text for MDC announcement
+announcement-mdc-button-text = Tham gia Mozilla Data Collective
+# Aria text for button which opens MDC on a new page
+announcement-mdc-button-aria-text = Mở trong một thẻ mới
+
+## Release Delay Announcement
+
+# Text wrapped in <mdcLink></mdcLink> will be rendered as an external link to Mozilla Data Collective
+announcement-release-delay = Kính gửi cộng đồng, chúng tôi hiện đang nỗ lực thực hiện việc phát hành. Chúng tôi dự kiến ​​sẽ triển khai bản cập nhật theo từng giai đoạn trong những ngày tới trên <mdcLink>Mozilla Data Collective</mdcLink>.
+
+## Release Announcement
+
+# Text wrapped in <mdcLink></mdcLink> will be rendered as an external link to Mozilla Data Collective
+announcement-release = Kính gửi cộng đồng, phiên bản mới đã chính thức ra mắt tại <mdcLink>Mozilla Data Collective</mdcLink>. Hãy tham gia để có quyền truy cập vào hơn 500 bộ dữ liệu toàn cầu, được xây dựng bởi và dành cho cộng đồng.
+
+## Pre-Release Announcement (dates TBD)
+
+# Text wrapped in <cvDatasheetsLink></cvDatasheetsLink> will be rendered as an external link to the cv-datasheets GitHub repo
+announcement-pre-release = Kính gửi cộng đồng, thời gian phát hành sắp đến rồi. Vui lòng xác thực và phiên âm, đồng thời truy cập vào <cvDatasheetsLink>cv-datasheets</cvDatasheetsLink> để cập nhật bảng dữ liệu của bạn.
+
+## Release Commencing
+
+# Text wrapped in <mdcLink></mdcLink> will be rendered as an external link to Mozilla Data Collective
+announcement-release-commencing = Kính gửi cộng đồng, chúng tôi đã đến hạn chót để phát hành và đang tiến hành đóng gói các bộ dữ liệu. Phiên bản mới sẽ có sẵn vào <mdcLink>Mozilla Data Collective</mdcLink> trong vài ngày nữa.
+
+## Common Language/Dataset Selector & SearchBox Related
+
+# Generic search box defaults
+searchbox-default-label = Bắt đầu nhập để tìm kiếm
+searchbox-default-placeholder = Tìm kiếm...
+searchbox-default-aria-label = Tìm kiếm
+dropdown-no-results = Không tìm thấy kết quả phù hợp
+# Common Voice Dataset=Language search box
+dataset-searchbox-label = Thay đổi cả ngôn ngữ hiển thị và ngôn ngữ tập dữ liệu
+dataset-searchbox-placeholder = Tìm kiếm một ngôn ngữ...
+dataset-searchbox-aria-label = Tìm kiếm một ngôn ngữ
+dataset-search-no-results = Không tìm thấy ngôn ngữ phù hợp
+request-new-language = Yêu cầu ngôn ngữ mới
