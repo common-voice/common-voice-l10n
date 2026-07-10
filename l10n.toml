@@ -16,17 +16,13 @@ basepath = "."
     reference = "spontaneous-speech/en/**"
     l10n = "spontaneous-speech/{locale}/**"
 
-# Shared strings (all modalities).
+# MONO shared strings (all modalities): common.ftl / errors.ftl / content.ftl.
 [[paths]]
     reference = "mcv-common/en/**"
     l10n = "mcv-common/{locale}/**"
 
-# Per-modality: Scripted Speech.
+# MONO modality strings: one coarse file per modality (scs.ftl / sps.ftl / cs.ftl / acr.ftl).
+# Add a new modality by adding a file here -- never move keys between files (path + id is frozen).
 [[paths]]
-    reference = "mcv-scs/en/**"
-    l10n = "mcv-scs/{locale}/**"
-
-# Per-modality: Spontaneous Speech.
-[[paths]]
-    reference = "mcv-sps/en/**"
-    l10n = "mcv-sps/{locale}/**"
+    reference = "mcv-content/en/**"
+    l10n = "mcv-content/{locale}/**"
