@@ -1,10 +1,6 @@
 ### Spontaneous Speech strings (new strings only).
 
-## Question - add and answer questions
-
-## Transcribe - write what you hear
-
-## Validate - check transcripts
+## Question - questions for this type
 
 ## Errors - problems only in this type
 
