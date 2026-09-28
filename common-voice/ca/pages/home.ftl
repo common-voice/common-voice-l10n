@@ -81,7 +81,6 @@ review-questions = Reviseu les preguntes
 transcribe-audio = Transcriviu àudio
 press-and-stories = Premsa i articles
 community-and-languages = Comunitat i llengües
-coming-soon = Pròximament
 about-us = Quant a Mozilla
 scripted-speech = PARLA GUIONADA
 spontaneous-speech = PARLA ESPONTÀNIA
@@ -158,8 +157,6 @@ download-press-pack = Baixeu el dossier de premsa <icon></icon>
 
 ## Developers section
 
-developers-section-title = Conjunts de dades de parla oberts i d'accés públic en més de 130 idiomes
-developers-section-subtitle = Conjunts de dades per al reconeixement automàtic de la parla (RAP). síntesi de text i altres contextos de processament del llenguatge natural (PLN), creats mitjançant la participació de la comunitat.
 # icon is an arrow that points to the right
 explore-datasets = Exploreu els conjunts de dades <icon></icon>
 

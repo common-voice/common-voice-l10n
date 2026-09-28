@@ -83,7 +83,6 @@ review-questions = კითხვების შემოწმება
 transcribe-audio = ხმის ნაწერად ქცევა
 press-and-stories = პრესა და სიახლეები
 community-and-languages = საზოგადოებები და ენები
-coming-soon = მალე
 about-us = ჩვენ შესახებ
 scripted-speech = ᲬᲔᲠᲘᲗᲘ ᲛᲔᲢᲧᲕᲔᲚᲔᲑᲐ
 spontaneous-speech = ᲖᲔᲞᲘᲠᲘ ᲛᲔᲢᲧᲕᲔᲚᲔᲑᲐ
@@ -161,8 +160,8 @@ download-press-pack = ჩამოტვირთეთ ჩვენი პრ�
 
 ## Developers section
 
-developers-section-title = საჯაროდ ხელმისაწვდომი მეტყველების მონაცემთა ღია კრებული 130-ზე მეტ ენაზე
-developers-section-subtitle = მონაცემთა კრებული ASR, STT, TTS და სხვა NLP-საშუალებებისთვის - შექმნილი სახალხო ერთობის მონაწილეობით.
+developers-section-title-202608 = საჯაროდ ხელმისაწვდომი, მეტყველების მონაცემთა ღია კრებული 330-ზე მეტ ენაზე
+developers-section-subtitle-v2 = მონაცემთა კრებული ASR- და სხვა NLP-დანიშნულებისთვის – შექმნილი სახალხო ერთობის მონაწილეობით.
 # icon is an arrow that points to the right
 explore-datasets = იხილეთ კრებულები <icon></icon>
 

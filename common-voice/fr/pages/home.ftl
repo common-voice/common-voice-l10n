@@ -83,7 +83,6 @@ review-questions = Vérifiez les questions
 transcribe-audio = Transcriptions audio
 press-and-stories = Presse et articles
 community-and-languages = Communautés et langues
-coming-soon = Prochainement
 about-us = À propos
 scripted-speech = PAROLE LUE
 spontaneous-speech = PAROLE SPONTANÉE
@@ -161,8 +160,8 @@ download-press-pack = Téléchargez notre dossier de presse <icon></icon>
 
 ## Developers section
 
-developers-section-title = Jeux de données vocales ouvertes et publics dans plus de 130 langues
-developers-section-subtitle = Jeux de données pour les contextes ASR, STT, TTS et NLP - créés grâce à la participation de la communauté.
+developers-section-title-202608 = Jeux de données vocales ouvertes et publics dans plus de 330 langues
+developers-section-subtitle-v2 = Jeux de données pour les contextes ASR et NLP - créés grâce à la participation de la communauté.
 # icon is an arrow that points to the right
 explore-datasets = Parcourir les jeux de données <icon></icon>
 

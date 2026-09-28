@@ -81,7 +81,6 @@ add-questions = سوآل شآمل ڪرو
 transcribe-audio = آڊيٚو کي لکو
 press-and-stories = اکبآر ائيٚݩ آکهآڻيٚوݩ
 community-and-languages = برآدريٚ ائيٚݩ ٻوليٚ
-coming-soon = جلديٚ آڻ وآريٚ اهي
 about-us = اسآݩ ري باري ميݩ
 scripted-speech = لکل تڪريٚر
 spontaneous-speech = بي سآکتآ تڪريٚر
@@ -152,8 +151,6 @@ download-press-pack = اسآݩ رو پريس پيڪ ڊآئون لوڊ ڪرو
 
 ## Developers section
 
-developers-section-title = 130+ ٻوليآݩ ميݩ آوآميٚ تور تي رسآئيٚ ري لآئيٚڪ کُليل تڪريٚر ڊيٽآ سيٽس
-developers-section-subtitle = ASR، STT، TTS، ائيٚݩ ٻيݩ NLP هوآلي سآݩ ڊيٽآ سيٽ - ڪميٚونٽيٚ ري شرڪت وسيٚلي ٺآهيآ وهُڙآ۔
 # icon is an arrow that points to the right
 explore-datasets = ڊيٽآ سيٽ ري ڳولآ ڪرو<icon></icon>
 

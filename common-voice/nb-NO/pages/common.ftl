@@ -17,6 +17,7 @@ ajg = Adja
 aln = Gheg albansk
 am = Amharisk
 an = Aragonesisk
+apc = Levantinsk-arabisk
 ar = Arabisk
 arn = Mapudungun
 as = Assamesisk
@@ -197,6 +198,7 @@ kpv = Komi-syriansk
 krc = Karatsjajbalkarsk
 ks = Kasjmiri
 ksf = Bafia
+kum = Kumyk
 kvx = Parkari Koli
 kw = Cornisk
 kxp = Wadiyara Koli
@@ -262,6 +264,7 @@ mvy = Indus Kohistani
 mxu = Mada
 my = Burmesisk
 myv = Erziamordvinsk
+mzn = Mazandarani
 nan-tw = Taiwansk (Minnan)
 nb-NO = Norsk (bokmål)
 ncx = Sentrale Puebla Nahuatl
@@ -446,9 +449,6 @@ zoc = Copainalá Zoque
 zu = Zulu
 zza = Zazaisk
 
-# [/]
-
-
 ## Layout
 
 profile = Profil
@@ -527,6 +527,11 @@ announcement-pre-release = Kjære fellesskap, lanseringstidspunktet nærmer seg.
 
 # Text wrapped in <mdcLink></mdcLink> will be rendered as an external link to Mozilla Data Collective
 announcement-release-commencing = Kjære fellesskap, vi har nå nådd fristen for denne utgivelsen, og datasettene blir nå samlet. Den nye utgivelsen vil være tilgjengelig på <mdcLink>Mozilla Data Collective</mdcLink> om et par dager.
+
+## Downtime Announcements
+
+# Generic scheduled downtime for next Sunday early hours
+announcement-scheduled-downtime = Kjære fellesskap, for å optimalisere systemene våre planlegger vi korte perioder med nedetid, som vanligvis er over i løpet av noen få timer. Den neste perioden med nedetid vil finne sted tidlig førstkommende søndag. Ta kontakt med oss på Matrix hvis du støter på et problem.
 
 ## Common Language/Dataset Selector & SearchBox Related
 

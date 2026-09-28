@@ -79,7 +79,6 @@ add-questions = سؤلی ل دی ګډ کَۀ <small> څوار بُو سېره </
 transcribe-audio = ا ډیو نقل کَۀ <small>څوار بُو سېره </small>
 press-and-stories = پرېس او کهانيے
 community-and-languages = کمیونېټی او زبنی
-coming-soon = سېره ر بُو څوا
 about-us = ترماخ بارۀ نر
 scripted-speech = لیکيېک تقریر
 spontaneous-speech = بې ديېڅن تقریر
@@ -150,8 +149,6 @@ download-press-pack = ترماخ ا پرېس پېک ډاؤن لوډ کوئ
 
 ## Developers section
 
-developers-section-title = عام خلق لیکی جَوَت میوک ډېټاسېټ 130لاسته زُت زبنی نر
-developers-section-subtitle = ډېټاسېټ ته ASR, STT, TTS, او بئے ته NLP په حواله ـــ ته کمیونېټی ته مشترک کوششی په ذریعة
 # icon is an arrow that points to the right
 explore-datasets = ډېټاسېټس دی معلوم کَۀ
 

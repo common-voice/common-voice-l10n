@@ -11,14 +11,14 @@ stats = Statistika
 awards = Apbalvojumi
 you = Jūs
 everyone = Citi
-contribution-activity = Ieguldījumu aktivitāte
+contribution-activity = Līdzdarbība
 top-contributors = Aktīvākie dalībnieki
 recorded-clips = Ierakstītie ieraksti
 validated-clips = Pārbaudītie ieraksti
 total-approved = Kopā apstiprinātie
 overall-accuracy = Kopējā precizitāte
 set-visibility = Iestatiet manu redzamību
-visibility-explainer = Šis iestatījums kontrolē jūsu redzamību rezultātu topā. Slēpjot, jūsu progress būs privāts. Tas nozīmē, ka jūsu attēls, lietotājvārds un progress netiks parādīts rezultātu topā. Ņemiet vērā, ka uzvarētāju saraksta atsvaidzināšana prasa ~ { $minutes } minūtes.
+visibility-explainer = Šis iestatījums pārvalda redzamību panākumu sarakstā. Kad paslēpts, virzība būs privāta. Tas nozīmē, ka attēls, lietotājvārds un virzība netiks parādīts panākumu sarakstā. Jāņem vērā, ka panākumu saraksta atsvaidzināšana aizņemt ~{ $minutes } min., lai parādītu izmaiņas.
 visibility-overlay-note = Piezīme: ja tas ir iestatīts uz “Redzams”, šo iestatījumu var mainīt <profileLink> profila lapā </profileLink>.
 show-ranking = Rādīt manu rangu
 
@@ -35,9 +35,9 @@ easy-difficulty = Vienkāršais
 average-difficulty = Vidējais
 difficult-difficulty = Grūtais
 pro-difficulty = Profesionālais
-lose-goal-progress-warning = Rediģējot mērķi, jūs varat zaudēt esošo progresu.
+lose-goal-progress-warning = Pēc mērķa labošanas var zaudēt esošo virzību.
 want-to-continue = Vai vēlaties turpināt?
-finish-editing = Vai vispirms pabeigt rediģēšanu?
+finish-editing = Vispirms pabeigt labošanu?
 lose-changes-warning = Ja aiziesiet tagad, jūs zaudēsit izmaiņas
 build-custom-goal = Izveidojiet pielāgotu mērķi
 help-reach-hours-pluralized =
@@ -83,7 +83,7 @@ goal-share-text = Es tikko izveidoju savu balss talkas mērķi #CommonVoice - pi
 weekly-goal-created = Jūsu nedēļas mērķis ir izveidots
 daily-goal-created = Jūsu ikdienas mērķis ir izveidots
 track-progress = Sekojiet progresam šeit statistikas lapā.
-return-to-edit-goal = Atgriezieties šeit, lai jebkurā laikā rediģētu mērķi.
+return-to-edit-goal = Atgriezies šeit, lai jebkurā laikā labotu savu mērķi!
 share-goal = Dalies ar savu mērķi
 
 ## Goals

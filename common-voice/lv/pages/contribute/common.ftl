@@ -10,8 +10,8 @@ clips-with-count-pluralized =
         [one] <bold>{ $count }</bold> ieraksti
        *[other] <bold>{ $count }</bold> ierakstu
     }
-goal-help-recording = Jūs esat palīdzējuši sasniegt <goalPercentage> </goalPercentage> no mūsu mērķa - { $goalValue } ierakstu dienā!
-goal-help-validation = Jūs esat palīdzējuši sasniegt <goalPercentage> </goalPercentage> no mūsu mērķa - { $goalValue } pārbaudīto ierakstu dienā!
+goal-help-recording = Jūs esat palīdzējuši Common Voice sasniegt <goalPercentage> </goalPercentage> no mūsu ikdienas ierakstīšanas mērķa – { $goalValue }.
+goal-help-validation = Jūs esat palīdzējuši Common Voice sasniegt <goalPercentage> </goalPercentage> no mūsu ikdienas pārbaudīšanas mērķa – { $goalValue }.
 contribute-more =
     { $count ->
         [zero] Vai esat gatavi vēl { $count }?
@@ -22,8 +22,8 @@ speak-empty-state = Mums ir beigušies teikumi, ko ierakstīt šajā valodā...
 no-sentences-for-variants = Iespējams, jūsu izvēlētajā valodā vairs nav teikumu! Ja zināt vēl kādu valodu, varat mainīt iestatījumus, lai redzētu citus teikumus.
 speak-empty-state-cta = Pievienot teikumus
 speak-loading-error =
-    Mēs nevarējām iegūt nevienu teikumu, lai jūs varētu ierunāt.
-    Lūdzu, mēģiniet vēlreiz nedaudz vēlāk.
+    Mēs nevarējām iegūt nevienu teikumu ierunāšanai.
+    Lūgums nedaudz vēlāk mēģināt vēlreiz.
 record-button-label = Ierakstiet savu balsi
 share-title-new = <bold> Palīdziet mums </bold> atrast vairāk balsu
 keep-track-profile = Sekojiet līdzi progresam, izmantojot profilu
@@ -55,12 +55,12 @@ report-grammar-or-spelling-detail = Teikumā ir gramatiska vai pareizrakstības 
 report-different-language = Nepareiza valoda
 report-different-language-detail = Tas ir uzrakstīts valodā, kas atšķiras no tās, ko runāju.
 report-difficult-pronounce = Grūti izrunāt
-report-difficult-pronounce-detail = Tajā ir vārdi vai frāzes, kurus ir grūti lasīt vai izrunāt.
+report-difficult-pronounce-detail = Tajā ir vārdi vai vārdkopas, kuras ir grūti lasīt vai izrunāt.
 report-offensive-speech = Aizvainojoša runa
 report-offensive-speech-detail = Ierakstā izmantota necienīga vai aizskaroša valoda.
 report-other-comment =
     .placeholder = Komentēt
-success = Veiksmīgi
+success = Sekmīgi
 continue = Turpināt
 report-success = Ziņojums sekmīgi nosūtīts!
 
@@ -105,7 +105,7 @@ contribution-criteria-page-title = Ieguldījuma kritēriji
 contribution-criteria-page-description = Izprotiet, kam jāpievērš uzmanība, klausoties ierakstus, un ziniet kā padarīt arī savus ierakstus labākus!
 contribution-for-example = piemēram
 contribution-misreadings-title = Kļūdaini lasījumi
-contribution-misreadings-description = Klausoties ļoti rūpīgi pārbaudiet, vai ierakstītais ir tieši tas, kas uzrakstīts; noraidiet, ja ir pat nelielas kļūdas. <br />Biežākās kļūdas ir šādas:
+contribution-misreadings-description = Klausoties ļoti rūpīgi jāpārbauda, ka ierakstītais ir tieši tas, kas uzrakstīts; jānoraida, pat ja ir nelielas kļūdas. <br />Ļoti izplatītas kļūdas ir šādas:
 contribution-misreadings-description-extended-list-1 = Izlaisti vārdi, piemēram, trūkst <strong>'ja'</strong> vai <strong>'es'</strong>, piemēram, 'es esmu' vietā ierunāts tikai 'esmu'.
 contribution-misreadings-description-extended-list-2 = Norautas vārdu galotnes, piemēram, <strong>'s'</strong> vārda beigās.
 contribution-misreadings-description-extended-list-3 = Ierunāts vārds nepareizā locījumā.
@@ -126,7 +126,7 @@ contribution-misreadings-example-7-explanation = [‘Ja‘ nav tas pats kas ‘j
 contribution-misreadings-example-8-title = Bites ir čakli kukaiņi
 contribution-misreadings-example-8-explanation = [Ierunāts nepareizs teikums]
 contribution-varying-pronunciations-title = Dažādas izrunas
-contribution-varying-pronunciations-description = Esiet piesardzīgi, pirms noraidāt ierakstu, pamatojoties uz to, ka lasītājs ir nepareizi izrunājis vārdu, ievietojis uzsvaru nepareizā vietā vai acīmredzami ignorējis jautājuma zīmi. Izrunas ir dažādas un dažas no tām jūs, iespējams, ikdienā nedzirdat sev apkārt. Novērtējiet to, ka cilvēki var runāt citādi nekā jūs.
+contribution-varying-pronunciations-description = Pirms ieraksta noraidīšanas, pamatojoties uz to, ka lasītājs ir nepareizi izrunājis vārdu, nepareizā vietā ievietojis uzsvaru vai acīmredzami nav ņēmis vērā jautājuma zīmi, jāuzmanās. Pasaulē ir plašs izrunu klāsts, no kurām dažas varētu nebūt dzirdētas vietējā kopienā. Lūgums novērtēt tos, kuri var runāt citādāk, nekā pierasts.
 contribution-varying-pronunciations-description-extended = No otras puses, ja izruna ir nepareiza vai kļūdaina, noraidiet ierakstu. Ja neesat pārliecināti, izmantojiet izlaišanas pogu.
 contribution-varying-pronunciations-example-1-title = Man garšo desa.
 contribution-varying-pronunciations-example-1-explanation = [‘desa’ ir pareizi ierunāta neatkarīgi no tā vai dažādos akcentos tiek lietots platais vai šaurais e]
@@ -147,8 +147,8 @@ contribution-background-voices-example-1-explanation = Vai tu nāc? <strong>[sak
 contribution-volume-title = Skaļums
 contribution-volume-description = Starp lasītājiem būs dabiskas ieraksta skaļuma atšķirības. Noraidīt tikai tad, ja skaļums ir tik liels, ka ierakstā ir krakšķi vai tas pārtrūkst, vai arī, ja tas ir tik kluss, ka nevar saklausīt dzirdēt teikto bez atsauces uz rakstīto tekstu.
 contribution-reader-effects-title = Ierunātāja izrunas īpatnības
-contribution-reader-effects-description = Lielākā daļa ierakstu ir no cilvēkiem, kas runā savā dabiskajā balsī. Varat pieņemt nelielas atkāpes, piemēram, ja kāda frāze tiek pateikta skaļāk, klusāk vai tiek pasniegta ‘dramatiskā’ balsī. Lūdzu, noraidiet dziedātos ierakstus un tos, kas ierunāti robotiskā datora balsī.
+contribution-reader-effects-description = Lielākajā daļā ierakstu ir cilvēki, kas runā savā dabiskajā balsī. Reizēm ierakstos ir pieļaujamas nelielas atkāpes — izkliegšana, čukstēšana vai acīmredzami “dramatiska" balss. Lūgums noraidīt dziedātos ierakstus un tos, kas ierunāti ar datora radītu balsi.
 contribution-just-unsure-title = Vienkārši neesat pārliecināti?
-contribution-just-unsure-description = Ja saskaraties ar kaut ko, kas šajās vadlīnijās nav ietverts, lūdzu, balsojiet kā jums šķiet pareizi. Atcerieties, kvalitāte un precizitāte ir svarīgāka par ierakstu skaitu. Ja tiešām nevarat izlemt, izmantojiet izlaišanas pogu un pārejiet uz nākamo ierakstu.
+contribution-just-unsure-description = Ja sanāk saskarties ar kaut ko, kas nav ietverts šajās vadlīnijās, lūgums balsot tā, kā šķiet pareizāk. Ja tiešām nesanāk izlemt, var izmantot pogu “Izlaist” un turpināt ar nākamo ierakstu.
 see-more = <chevron></chevron>Rādīt vairāk
 see-less = <chevron></chevron>Rādīt mazāk

@@ -79,7 +79,6 @@ review-questions = 審核問題
 transcribe-audio = 轉錄語音 <small>(近期推出)</small>
 press-and-stories = 媒體佮故事
 community-and-languages = 社群佮語言
-coming-soon = 咧欲推出
 about-us = 關於咱
 scripted-speech = 有記錄的講話內容
 spontaneous-speech = 家己的講話內容
@@ -153,8 +152,6 @@ download-press-pack = 下載咱的媒體包裹<icon></icon>
 
 ## Developers section
 
-developers-section-title = 公開予逐家用的，有 130+ 語言的開放講話內容資料集
-developers-section-subtitle = 會當用佇咧 ASR、STT、TTS，佮其他 NLP 技術 - 用社群參與的方式來產生。
 # icon is an arrow that points to the right
 explore-datasets = 瀏覽資料集<icon></icon>
 

@@ -80,7 +80,6 @@ review-questions = შეკითხვი დაყყჲარ
 transcribe-audio = იშა́რეჩო̆  ჩანაწე́რეღ დე́რწარ <small> (ქასტეჼ) </small>
 press-and-stories = პრესააჲ წინი̆ ა́მბუჲაჲ
 community-and-languages = საზოგადოებია́ მატტიშა́
-coming-soon = ქასტეჼ
 about-us = თხოხ
 scripted-speech = დაწე́რადოშ ა́ლ'არ
 spontaneous-speech = ზე́პირ ლე́ვარ
@@ -157,8 +156,6 @@ download-press-pack = აჰ̦ დჵო́ფათ (ჩამოტვირთ
 
 ## Developers section
 
-developers-section-title = ჰ̦ა́მინაჲნოჸ ქოჴა́ბტლაჲნი̆ ა́მბუჲ ჲარეჼ მონაცე́მივ თაგჲიენო̆ ნჵაჲნი̆ კრე́ბულ 130-ეხ სოუ̂ბო̆ მატტა́ხიჼ
-developers-section-subtitle = მონაცემაჼ კრე́ბულ ASR, STT, TTS ჲე ჴეჩო̆ NLP საშუა́ლბინაჲნო̆ - მენხუ́ შე́ქმნადჲალიჼ დინჩ ნა́ხვ (სახა́ლხო̆ ე́რთობას)  ცჰ̦აღ შუიჼ წილ ჩუ ჴე́ჰ̦ოშ
 # icon is an arrow that points to the right
 explore-datasets = გიბათ კრე́ბული
 

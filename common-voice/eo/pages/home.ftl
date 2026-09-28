@@ -80,7 +80,6 @@ review-questions = Kontroli demandojn
 transcribe-audio = Transkribi sonon
 press-and-stories = Gazetaro kaj artikoloj
 community-and-languages = Komunumoj kaj lingvoj
-coming-soon = Baldaŭ
 about-us = Pri ni
 scripted-speech = SKRIPTITA PAROLADO
 spontaneous-speech = SPONTANEA PAROLADO
@@ -153,8 +152,6 @@ download-press-pack = Elŝutu nian gazetaran dosieron <icon></icon>
 
 ## Developers section
 
-developers-section-title = Publike alireblaj datumbazoj pri malferma parolo en pli ol 130 lingvoj
-developers-section-subtitle = Datumoj por ASR, STT, TTS, kaj aliaj NLP-kuntekstoj - kreitaj per komunuma partopreno.
 # icon is an arrow that points to the right
 explore-datasets = Esploru datumarojn <icon></icon>
 

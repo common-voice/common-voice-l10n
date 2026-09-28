@@ -83,7 +83,6 @@ review-questions = Сорауларны тикшерү
 transcribe-audio = Аудионы текстка күчерү
 press-and-stories = Матбугат һәм мәкаләләр
 community-and-languages = Берләшмә һәм телләр
-coming-soon = Тиздән
 about-us = Безнең турында
 scripted-speech = ӘЗЕРЛӘП КУЙГАН СӨЙЛӘМ
 spontaneous-speech = КИНӘТ ТУГАН СӨЙЛӘМ
@@ -159,8 +158,6 @@ featured-section-title = Безнең турында язалар...
 
 ## Developers section
 
-developers-section-title = 130+ телдә һәркем өчен ачык тавыш мәгълүматы тупланмалары
-developers-section-subtitle = ASR, STT, TTS һәм башка NLP өлкәләре өчен мәгълүмат тупланмалары - берләшмә катнашында булдырылган.
 # icon is an arrow that points to the right
 explore-datasets = Мәгълүмат тупланмаларын карау <icon></icon>
 

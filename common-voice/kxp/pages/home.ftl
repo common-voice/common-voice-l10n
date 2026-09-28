@@ -80,7 +80,6 @@ review-questions = سوال ني دهرائي
 transcribe-audio = آڊيو نقل نويسي
 press-and-stories = ڪهاڻيون هانَ پريس
 community-and-languages = برادري هانَ ٻوليون
-coming-soon = جلدي آوشي
 about-us = امارا ڀارا مان
 scripted-speech = لکل تقرير
 spontaneous-speech = اختياري تقرير
@@ -152,8 +151,6 @@ download-press-pack = امارون پريس پيڪ ڊائون لوڊ ڪرو <ico
 
 ## Developers section
 
-developers-section-title = عوامي طور مان 130 ٻوليان مان تقرير ڊيٽا سيٽ سي
-developers-section-subtitle = ASR، STT، TTS،  هانَ ٻيزان  NLP سیاق و سباق  هارو atasets - برادري نين شرڪت ٿي تخليق ڪريان جھان سي۔
 # icon is an arrow that points to the right
 explore-datasets = ڊيٽا بيس کوجنائي ڪروي <icon></icon>
 

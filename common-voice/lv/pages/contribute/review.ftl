@@ -1,9 +1,9 @@
 ## REVIEW
 
-sc-review-lang-not-selected = Jūs neesat atlasījis nevienu valodu. Lūdzu, dodieties uz savu <profileLink>profilu</profileLink>, lai izvēlētos valodas.
+sc-review-lang-not-selected = Nav atlasīta neviena valoda. Lūgums doties uz savu <profileLink>profilu</profileLink>, lai izvēlētos valodas.
 sc-review-title = Pārbaudīt teikumus
 sc-review-loading = Notiek teikumu ielāde…
-sc-review-select-language = Lūdzu, izvēlieties valodu, lai pārbaudītu teikumus.
+sc-review-select-language = Lūgums atlasīt valodu, lai izskatītu teikumus.
 sc-review-no-sentences = Nav teikumu, ko pārbaudīt. <addLink>Pievienojiet teikumus!</addLink>
 sc-review-form-prompt =
     .message = Pārskatītie teikumi nav iesniegti, vai esat pārliecināts?
@@ -32,7 +32,7 @@ sc-review-form-reviewed-message =
         [one] Pārbaudīti { $sentences } teikumi
        *[other] Pārbaudīti { $sentences } teikumi
     }
-sc-review-form-review-failure = Pārbaudes rezultātu nevarēja saglabāt. Lūdzu, pamēģiniet vēlreiz vēlāk.
+sc-review-form-review-failure = Izskatīšanu nevarēja saglabāt. Lūgums vēlāk mēģināt vēlreiz.
 sc-review-link = Pārbaudiet
 
 ## REVIEW CRITERIA
@@ -45,7 +45,7 @@ sc-criteria-item-2 = Teikumam jābūt gramatiski pareizam.
 sc-criteria-item-3 = Teikumam jābūt izrunājamam.
 sc-criteria-item-4 = Ja teikums atbilst visiem kritērijiem, noklikšķiniet uz pogas &quot;Apstiprināt&quot;.
 sc-criteria-item-5-2 = Ja teikums neatbilst iepriekš minētajiem kritērijiem, noklikšķiniet uz &quot;Noraidīt&quot; pogas kreisajā pusē. Ja neesat pārliecināts par teikumu, varat to arī izlaist un pāriet uz nākamo.
-sc-criteria-item-6 = Ja visi teikumi jau ir pārbaudīti, lūdzu, palīdziet mums savākt jaunus teikumus!
+sc-criteria-item-6 = Ja vairs nav izskatāmu teikumu, lūgums palīdzēt mums ievākt vairāk teikumu.
 # <icon></icon> will be replace with an icon that represents review
 sc-review-instruction = Pārbaudiet <icon></icon> vai šis teikums ir pareizs?
 sc-review-rules-title = Vai teikums atbilst vadlīnijām?
@@ -57,7 +57,7 @@ review-error = Pārskatot teikumu, notikusi kļūda
 review-error-rate-limit-exceeded = Jūs strādājat pārāk ātri. Lūdzu veltiet mirkli, lai pārliecinātos, ka teikumi ir pareizi.
 # SENTENCE-COLLECTOR-REDIRECT PAGE
 sc-redirect-page-title = Mēs veicam dažas lielas izmaiņas
-sc-redirect-page-subtitle-1 = Teikumu apkopošanas rīks pāriet uz Common Voice platformu. Tagad varat <writeURL>pievienot</writeURL> un <reviewURL>pārbaudīt</reviewURL> teikumus Common Voice sistēmā.
+sc-redirect-page-subtitle-1 = Teikumu apkopošanas rīks pāriet uz Common Voice platformu. Tagad teikumus var<writeURL>pievienot</writeURL> un <reviewURL>pārbaudīt</reviewURL> Common Voice.
 sc-redirect-page-subtitle-2 = Uzdodiet mums jautājumus <matrixLink>Matrix</matrixLink>, <discourseLink>Discourse</discourseLink> vai rakstot <emailLink>e-pastu</emailLink>.
 # menu item
 review-sentences = Pārbaudīt teikumus

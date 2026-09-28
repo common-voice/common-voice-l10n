@@ -79,7 +79,6 @@ add-questions = سوآل لگآوو
 transcribe-audio = نڪلينٚ ڪيٚ آڊيو
 press-and-stories = پريس اور ڪهآڻيونٚ
 community-and-languages = ڪميونٽيٚ اور ٻوليٚ
-coming-soon = جلدي آرهيورو هي
 about-us = همرآ بآرآ مي
 scripted-speech = لِکريٚ تڪريٚر
 spontaneous-speech = ڪُدرتيٚ ٻآت چيٚت
@@ -150,8 +149,6 @@ download-press-pack = همرو پريس پيڪ ڊآئونلوڊ ڪرو
 
 ## Developers section
 
-developers-section-title = 130 دي وڌيٚڪ ٻوليآنٚ مي اوآمي تو پر موجود کُلري ٻآت چيٚت ڊيٽا سيٽ
-developers-section-subtitle = ASR، STT، TTS، اور دوُسريٚ NLP سورتي هآل ڊيٽآ سيٽ - جيڪي ڪميونٽيٚو ڪي شآملآيو دي هٽآرآ گوآ هينٚ
 # icon is an arrow that points to the right
 explore-datasets = ڊيٽا سيٽسو ڪوُ ڍونڊو<icon></icon>
 

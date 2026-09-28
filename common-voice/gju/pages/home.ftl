@@ -85,7 +85,6 @@ add-questions = سوالاں کو اضافو کرو<small>(بہلاں آوے گ�
 transcribe-audio = آڈیو کو تجزیو کرو<small>(بہلاں آوے گو</small>)
 press-and-stories = دباو تے کہانی
 community-and-languages = برادری تے زبان
-coming-soon = جھب آوے گی
 about-us = مہارا بارہ ما
 scripted-speech = سکرپٹڈ گل
 spontaneous-speech = بے ساختہ گل
@@ -157,8 +156,6 @@ download-press-pack = مہارا پریس پیک نا ڈاون لوڈ کرو<ico
 
 ## Developers section
 
-developers-section-title = 130 تے زیادہ زباناں ما عوامی طور اپر قابل رسائی کھلی گفتگو کو ڈیٹا سیٹ
-developers-section-subtitle = اے ایس آر ، ایس ٹی ٹی ، ٹی ٹی ایس ، تے دوجا  این ایل پی سیاق و سباق وسطے ڈیٹا سیٹ - کمیونٹی کی شرکت کے ذریعہ بنایو گیو ہے
 # icon is an arrow that points to the right
 explore-datasets = ڈیٹا سیٹ نا ڈھونڈو<icon></icon>
 

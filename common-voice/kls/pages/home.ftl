@@ -77,7 +77,6 @@ add-questions = Sawal jama kari ( ghans' en dai)
 transcribe-audio = Sawal ze Jawab ( ghans' en dai)
 press-and-stories = Press (khabar) ze Oc'oh'ink
 community-and-languages = Comety ze Zuban
-coming-soon = Gha'ns' ew dai
 
 ## MENU ITEMS TOOLTIPS
 
@@ -142,8 +141,6 @@ download-press-pack = Homa mon deta download kari
 
 ## Developers section
 
-developers-section-title = Saw thi jagek bahan, mon dek, dataset una 130+ zubanan
-developers-section-subtitle = Dataset as bati ASR, STT, TTS, ya o warek NLP Newishil'a- sawzai shiau comete ani mochan thara.
 # icon is an arrow that points to the right
 explore-datasets = Dataset Jagai
 

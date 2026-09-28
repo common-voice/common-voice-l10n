@@ -17,6 +17,7 @@ ajg = Adja
 aln = Gheg albánština
 am = Amharština
 an = Aragonština
+apc = Levantská arabština
 ar = Arabština
 arn = Mapudungunština
 as = Ásámština
@@ -197,6 +198,7 @@ kpv = Komi-zyrjanština
 krc = Karachay-Balkar
 ks = Kašmírština
 ksf = Bafia
+kum = Kumyčtina
 kvx = Parkari Koli
 kw = Kornština
 kxp = Wadiyara Koli
@@ -262,6 +264,7 @@ mvy = Indus Kohistani
 mxu = Mada
 my = Barmština
 myv = Erzja
+mzn = Mazandarani
 nan-tw = Tchajwanština (Minnan)
 nb-NO = Norština (Bokmål)
 ncx = Střední Puebla Nahuatl
@@ -446,9 +449,6 @@ zoc = Copainalá Zoque
 zu = Zuluština
 zza = Zazaki
 
-# [/]
-
-
 ## Layout
 
 profile = Profil
@@ -527,6 +527,11 @@ announcement-pre-release = Vážená komunito, datum vydání se blíží. Pros�
 
 # Text wrapped in <mdcLink></mdcLink> will be rendered as an external link to Mozilla Data Collective
 announcement-release-commencing = Vážená komunito, termín pro vydání již uplynul a v současné době připravujeme datové sady. Nová verze bude k dispozici na <mdcLink>Mozilla Data Collective</mdcLink> již za pár dní.
+
+## Downtime Announcements
+
+# Generic scheduled downtime for next Sunday early hours
+announcement-scheduled-downtime = Vážená komunito, kvůli optimalizaci našich systémů plánujeme krátké odstávky, které jsou obvykle dokončeny během několika hodin. K další odstávce dojde tuto neděli. Pokud narazíte na problém, obraťte se na nás na Matrixu.
 
 ## Common Language/Dataset Selector & SearchBox Related
 

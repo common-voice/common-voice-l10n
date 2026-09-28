@@ -17,6 +17,7 @@ ajg = Aja
 aln = Guègue
 am = Amharique
 an = Aragonais
+apc = Arabe levantin
 ar = Arabe
 arn = Mapuche
 as = Assamais
@@ -197,6 +198,7 @@ kpv = Komi-zyriène
 krc = Karatchaï balkar
 ks = Cachemiri
 ksf = Bafia
+kum = Koumyk
 kvx = Parkari
 kw = Cornique
 kxp = Wadiyari
@@ -262,6 +264,7 @@ mvy = Kohistani de l’Indus
 mxu = Mada
 my = Birman
 myv = Erzya
+mzn = Mazandarani
 nan-tw = Taïwanais (Minnan)
 nb-NO = Norvégien bokmål
 ncx = Nahuatl central de Puebla
@@ -446,9 +449,6 @@ zoc = Zoque du Chiapas
 zu = Zoulou
 zza = { "" }
 
-# [/]
-
-
 ## Layout
 
 profile = Profil
@@ -527,6 +527,11 @@ announcement-pre-release = Chère communauté, la prochaine version est en appro
 
 # Text wrapped in <mdcLink></mdcLink> will be rendered as an external link to Mozilla Data Collective
 announcement-release-commencing = Chère communauté, nous avons atteint la date limite pour la publication et nous sommes en train de regrouper les jeux de données. La nouvelle version sera disponible sur <mdcLink>Mozilla Data Collective</mdcLink> d’ici quelques jours.
+
+## Downtime Announcements
+
+# Generic scheduled downtime for next Sunday early hours
+announcement-scheduled-downtime = Chère communauté, afin d’optimiser nos systèmes, nous prévoyons de brèves interruptions de service, qui ne durent généralement que quelques heures. La prochaine aura lieu tôt ce dimanche matin. Contactez-nous sur Matrix en cas de problème.
 
 ## Common Language/Dataset Selector & SearchBox Related
 

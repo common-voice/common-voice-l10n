@@ -91,7 +91,6 @@ review-questions = Kérdések áttekintése
 transcribe-audio = Hangok leiratozása
 press-and-stories = Sajtó és történetek
 community-and-languages = Közösség és nyelvek
-coming-soon = Hamarosan
 about-us = Névjegy
 scripted-speech = ELŐRE MEGÍRT BESZÉD
 spontaneous-speech = SPONTÁN BESZÉD
@@ -169,8 +168,6 @@ download-press-pack = Sajtócsomag letöltése <icon></icon>
 
 ## Developers section
 
-developers-section-title = Nyilvánosan elérhető nyílt beszédadatkészletek több mint 130 nyelven
-developers-section-subtitle = Adatkészletek ASR-hez, STT-hez, TTS-hez és más NLP kontextusokhoz – közösségi részvétel segítségével létrehozva.
 # icon is an arrow that points to the right
 explore-datasets = Adatkészletek felfedezése <icon></icon>
 

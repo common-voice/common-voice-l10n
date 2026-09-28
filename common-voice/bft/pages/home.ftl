@@ -79,7 +79,6 @@ add-questions = سوال کن ہرژوق، سوال کن شیزدے بیوس
 transcribe-audio = سکت کن ربیس (شوخمو اونگین یود)
 press-and-stories = تم خلونگ کن نا زدرونگ کن
 community-and-languages = کمیونٹی نا سکت کن
-coming-soon = شوخمو اونگین یود
 
 ## MENU ITEMS TOOLTIPS
 
@@ -144,8 +143,6 @@ download-press-pack = نٸی پریس پیک پو ڈاون لوڈ بیوس
 
 ## Developers section
 
-developers-section-title = خسوم بگیا نا خسومچو پا تھلے چوقلا تھوبا یودپی سکتی ڈیٹا سیٹ کن
-developers-section-subtitle = میونگی روخ بیسے فچوسپن، اے ایس آر، ایس ایس ٹی، ٹی ٹی ایس نا این ایل پی لوکھسینگنو لا ڈیٹا سیٹ کن
 # icon is an arrow that points to the right
 explore-datasets = ڈیٹا سیٹ کن ژول
 

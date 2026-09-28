@@ -79,7 +79,6 @@ review-questions = Convalida domande
 transcribe-audio = Trascrivere audio <small>(disponibile a breve)</small>
 press-and-stories = Stampa e storie
 community-and-languages = Comunità e lingue
-coming-soon = Disponibile a breve
 about-us = Informazioni
 scripted-speech = DISCORSO LETTO
 spontaneous-speech = DISCORSO SPONTANEO
@@ -157,8 +156,8 @@ download-press-pack = Scarica il nostro pacchetto stampa <icon></icon>
 
 ## Developers section
 
-developers-section-title = Dataset aperto di dati vocali pubblicamente accessibili in oltre 130 lingue
-developers-section-subtitle = Dataset per ASR, STT, TTS e altri contesti NLP, creati grazie alla partecipazione della comunità.
+developers-section-title-202608 = Dataset aperto di dati vocali pubblicamente accessibili in oltre 330 lingue
+developers-section-subtitle-v2 = Dataset per ASR e altri contesti NLP, creati grazie alla partecipazione della comunità.
 # icon is an arrow that points to the right
 explore-datasets = Esplora i dataset <icon></icon>
 

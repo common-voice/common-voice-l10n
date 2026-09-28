@@ -87,7 +87,6 @@ review-questions = سوالان نِي نظرسانِي
 transcribe-audio = آڍِيو نِي نقل ڪرو
 press-and-stories = پريس انين وارتايُون
 community-and-languages = ڀِراڌرِي انين ٻولِيُون
-coming-soon = زٽ آويَ سي ريون
 about-us = امارا ٻارا مان
 scripted-speech = اِسڪرِپٽيڍ تقرير
 spontaneous-speech = منصُوٻا وڳرِ ڪرل تقرير
@@ -159,8 +158,6 @@ download-press-pack = امارون پريس پيڪ ڍائونَ لوڍ ڪرو</i
 
 ## Developers section
 
-developers-section-title = 130 ٻولِيان ٿِي وڌارين مان عوامِي طور ٿِي اوپِنَ اِسپيچ ڍيٽاسيٽ رسائِي ۿارُو سي۔
-developers-section-subtitle = ڀِراڌرِي نِي شموليت نيَ زريئيَ ٿِي ASR ،STT ،TTS انين NLP نيَ حواليَ ٿِي ڍيٽاسيٽ ٺاۿيُون جھون۔
 # icon is an arrow that points to the right
 explore-datasets = ڍيٽاسيٽ نِي ڳوچ ڪرو</icon><icon>
 

@@ -81,7 +81,6 @@ add-questions = سوال شامل کرو<small>(جلدی آرہے ہن)</small
 transcribe-audio = آڈیو ٹرانسکرائب کرو<small>(جلدی آ ری اے)</small>
 press-and-stories = پریس ہور کہانڑیاں
 community-and-languages = کمیونٹی ہور زباناں
-coming-soon = جلدی آ رے آ
 
 ## MENU ITEMS TOOLTIPS
 
@@ -146,8 +145,6 @@ download-press-pack = اسدے پریس پیک کو ڈاؤنلوڈ کر<icon></i
 
 ## Developers section
 
-developers-section-title = 130 تو زیادہ زباناں بچ عوامی طور تے دستیاب اوپن سپیچ ڈیٹا سیٹ
-developers-section-subtitle = اے ایس آر ، ایس ٹی ٹی ، ٹی ٹی ایس ، تے دوئے  این ایل پی سیاق و سباق آسطے ڈیٹا سیٹ - کمیونٹی دی شرکت دے ذریعہ بنڑایا گیا۔
 # icon is an arrow that points to the right
 explore-datasets = ڈیٹاسیٹس بارے جانڑو<icon></icon>
 

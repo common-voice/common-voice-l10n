@@ -1,10 +1,10 @@
 ## Tagging Page
 
 tag-page-instruction = Atlasiet <icon></icon> tekstu, lai sāktu
-tag-terms-checkbox = Es piekrītu Common Voice noteikumiem un konfidencialitātes politikai.
+tag-terms-checkbox = Es piekrītu Common Voice noteikumiem un privātuma atrunai.
 tag-popover-title = Atlasiet tagu
 select-a-tag = Atlasiet tagu
-edit-tag = Rediģēt tagu
+edit-tag = Labot tagu
 # Shortcuts modal
 tag-page-shortcut-tag-language-1 = 1
 tag-page-shortcut-tag-language-2 = 2
@@ -20,13 +20,13 @@ undo = Atsaukt
 tag-page-shortcut-select-all = A
 select-all = Atlasīt visu
 # Messages
-tag-success-toast-message = Tagi veiksmīgi saglabāti
+tag-success-toast-message = Birkas sekmīgi iesniegtas
 tag-error-toast-message = Kļūda, iesniedzot tagus
 tag-empty-submit-error = Nav iesniedzama teksta. Lūdzu, vispirms pievienojiet tagus tekstam.
 # Code switching Guidelines
 cs-tag-do-guideline-1 = Izmantojiet pareizu ortogrāfiju
 cs-tag-do-guideline-2 = Izmantojiet izrunu, lai palīdzētu
-cs-tag-do-guideline-3 = Esiet uzmanīgi ar līdzīgiem vārdiem
+cs-tag-do-guideline-3 = Jāuzmanās ar līdzīgiem vārdiem
 cs-tag-do-not-guideline-1 = Atzīmējiet īpašvārdus, jauktus vārdus vai starpsaucienus
 cs-tag-shortcuts-section-title = Tastatūras lietošana
 cs-tag-shortcuts-guideline-1 = <key>1</key>-<key>{ $numLanguages }</key> Birka ar valodu

@@ -92,7 +92,6 @@ review-questions = የግምገማ ጥያቄዎች
 transcribe-audio = ድምጹን ወደ ፅሁፍ ይገልብጡ
 press-and-stories = ህትመት እና ታሪኮች
 community-and-languages = ማህበረሰብ እና ቋንቋዎች
-coming-soon = በቅርብ ቀን
 about-us = ስለ እኛ
 
 ## MENU ITEMS TOOLTIPS
@@ -161,8 +160,6 @@ download-press-pack = የእኛን ህትመት ጥቅል <icon></icon> ያው�
 
 ## Developers section
 
-developers-section-title = በ130+ ቋንቋዎች በይፋ ተደራሽ የሆኑ ክፍት የንግግር ውሂብ ስብስቦች
-developers-section-subtitle = የውሂብ ስብስቦች በድምፅ ለነቁ ንግግሮች፣ ከድምፅ ወደ ፅሁፍ፣ ከፅሁፍ ወደ ድምፅ እና ሌሎች የተፈጥሮ ቋንቋ ስርዓት አውዶች - በማህበረሰብ ተሳትፎ የተፈጠሩ።
 # icon is an arrow that points to the right
 explore-datasets = የውሂብ ስብስቦችን <icon></icon>ን ያስሱ
 

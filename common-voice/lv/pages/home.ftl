@@ -65,15 +65,15 @@ join-newsletter = Ja vēlaties, pievienojieties mūsu e-pasta adresātu saraksta
 whats-public = Kas ir publiski pieejams?
 email-not-public = Mēs nepubliskosim jūsu e-pastu.
 recordings-and-locale-public = Ieguldīto ierakstu skaits un valodas būs publiski pieejamas.
-username-optin-public = Jūs varat izvēlēties, vai lietotājvārds ir publisks vai anonīms.
+username-optin-public = Var izvēlēties, vai lietotājvārds ir redzams visiem vai turēts noslēpumā.
 demographic-deidentified-clarity-2 = Pēc izvēles iesniegtie demogrāfiskie dati (piemēram, vecums, dzimums, valoda un akcents) nekad netiks publiskoti jūsu profilā un netiks saistīti ar jūsu kontu datu kopā. Atsevišķi audio ieraksti tiks saistīti ar demogrāfiskajiem datiem, lai veiktu precīzāku analīzi, piemēram, pētnieks var vēlēties apmācību modeli atlasīt noteiktam demogrāfiskajam segmentam.
-username-email-not-demographic = Jūsu lietotājvārds un e-pasts netiks piesaistīti publicētajiem datiem.
+username-email-not-demographic = Lietotājvārds un e-pasta adrese netiks piesaistīta publicētajiem datiem.
 
 ## Landing
 
 welcome-staff = Sveicināti { $company } darbinieki!
 help-contribute = Jūs varat palīdzēt veidot daudzveidīgu atvērtā pirmkoda datu kopu, izveidojot Common Voice profilu un ierakstot savu balsi.
-login-company = Piesakieties / pierakstieties ar { $company } e-pastu
+login-company = Pieteikties/reģistrēties ar { $company } e-pasta adresi
 profile-not-required = Lai veiktu ieguldījumu, profilu veidot nevajag, bet tas var būt noderīgi ja jūs to izveidosiet
 read-more-about = Lasiet vairāk mūsu lapā Par mums
 
@@ -86,7 +86,6 @@ review-questions = Pārskatīt jautājumus
 transcribe-audio = Pārrakstīt audio
 press-and-stories = Prese un stāsti
 community-and-languages = Kopiena un valodas
-coming-soon = Drīzumā
 about-us = Par mums
 scripted-speech = SAGATAVOTĀ RUNA
 spontaneous-speech = SPONTĀNĀ RUNA
@@ -96,7 +95,7 @@ spontaneous-speech = SPONTĀNĀ RUNA
 about-menu-tooltip = Partnerības, prese un stāsti, kopiena un valodas
 about-us-menu-item-tooltip = Uzziniet par Common Voice misiju un komandu
 partnerships-menu-item-tooltip = Sadarbojieties ar mums
-press-and-stories-menu-item-tooltip = Apmeklējiet mūsu emuāru vai rakstiet par mums
+press-and-stories-menu-item-tooltip = Lasi stāstus, atjauninājumus un mediju segumu par Common Voice
 community-and-languages-menu-item-tooltip = Atklājiet valodas, kopienas un kopīgo balsi
 
 ## MENU ITEM ARIA LABELS
@@ -163,8 +162,8 @@ download-press-pack = Lejupielādējiet mūsu preses pakotni <icon></icon>
 
 ## Developers section
 
-developers-section-title = Publiski pieejamas atvērtās runas datu kopas vairāk nekā 130+ valodās
-developers-section-subtitle = Datu kopas ASR, STT, TTS un citiem NLP uzdevumiem — izveidotas, ar kopienas spēkiem.
+developers-section-title-202608 = Visiem pieejamas atvērtās runas datu kopas 330+ valodās
+developers-section-subtitle-v2 = Datu kopas ASR un citiem NLP kontekstiem – veidotas ar kopienas līdzdalību.
 # icon is an arrow that points to the right
 explore-datasets = Izpētiet datu kopas <icon></icon>
 

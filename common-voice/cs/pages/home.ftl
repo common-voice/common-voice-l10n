@@ -84,7 +84,6 @@ review-questions = Kontrolujte otázky
 transcribe-audio = Přepis zvuku <small>(již brzy)</small>
 press-and-stories = Tisk a příběhy
 community-and-languages = Komunita a jazyky
-coming-soon = Již brzy
 about-us = O nás
 scripted-speech = SKRIPOVANÁ ŘEČ
 spontaneous-speech = SPONTÁNNÍ ŘEČ
@@ -162,8 +161,8 @@ download-press-pack = Stáhněte si náš novinářský balíček <icon></icon>
 
 ## Developers section
 
-developers-section-title = Veřejně přístupné otevřené řečové datasety ve více než 130 jazycích
-developers-section-subtitle = Datasety pro ASR, STT, TTS a další kontexty NLP - vytvořené za účasti komunity.
+developers-section-title-202608 = Veřejně přístupné otevřené řečové datasety ve více než 330 jazycích
+developers-section-subtitle-v2 = Datasety pro ASR a další NLP kontexty - vytvořené za účasti komunity.
 # icon is an arrow that points to the right
 explore-datasets = Prozkoumejte datasety <icon></icon>
 

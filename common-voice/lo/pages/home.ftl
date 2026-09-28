@@ -94,7 +94,6 @@ review-questions = ຄຳຖາມທົບທວນຄືນ
 transcribe-audio = ຖອດຂໍ້ຄວາມສຽງ
 press-and-stories = ກົດ ແລະ ເລື່ອງ
 community-and-languages = ຊຸມຊົນ ແລະ ພາສາ
-coming-soon = ໄວໆນີ້
 about-us = ກ່ຽວກັບເຮົາ
 scripted-speech = ຄໍາເວົ້າທີ່ຂຽນ
 spontaneous-speech = ຄຳເວົ້າແບບເປັນຕົວຕົນ
@@ -169,8 +168,6 @@ download-press-pack = ດາວໂຫລດຊຸດຂ່າວຂອງພວ�
 
 ## Developers section
 
-developers-section-title = ຊຸດຂໍ້ມູນສຽງເວົ້າເປີດໃຫ້ສາທາລະນະເຂົ້າເຖິງໄດ້ໃນ 130+ ພາສາ
-developers-section-subtitle = ຊຸດຂໍ້ມູນສໍາລັບ ASR, STT, TTS, ແລະ ສະພາບການ NLP ອື່ນໆ - ສ້າງໂດຍຜ່ານການມີສ່ວນຮ່ວມຂອງຊຸມຊົນ.
 # icon is an arrow that points to the right
 explore-datasets = ສຳຫຼວດຊຸດຂໍ້ມູນ <icon></icon>
 

@@ -80,7 +80,6 @@ review-questions = ڌوهرائي را سوئال
 transcribe-audio = آڊيو نئہ لکيا رِي صُورت ۾ ڀڌلو
 press-and-stories = اخبارِي اطلاعون انَ وارتائون
 community-and-languages = قوم ان ٻولي
-coming-soon = جلڌِي آوئه ريو
 about-us = امارا ڀارام
 scripted-speech = لکل تقرِير
 spontaneous-speech = تيارئي ڪريا وڳر ڪرل تقرِير
@@ -152,8 +151,6 @@ download-press-pack = امارئي پريس پيڪ شامِل ڪرو<icon></icon
 
 ## Developers section
 
-developers-section-title = 130 ٿِي وڌارئہ ٻوليون ۾ ڊيٽاسيٽ منکون ۿُوڌِي پُوڳيا ۿارُو تيار سئہ
-developers-section-subtitle = "ASR, STT, TTS ان ٻِيزا NLP مضمُونون ۿارُو ڊيٽا سيٽ-جيو قوم رِي شمُوليت ۿارُو ٺايا ڳيا۔
 # icon is an arrow that points to the right
 explore-datasets = ڊيٽاسيٽ رئي تحقِيقات ڪرو<icon></icon>
 

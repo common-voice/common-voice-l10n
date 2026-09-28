@@ -89,7 +89,6 @@ review-questions = Gwiriañ ar goulennoù
 transcribe-audio = Treuzskrivañ enrolladennoù <small>(a-raok pell)</small>
 press-and-stories = Kazetennoù ha pennadoù
 community-and-languages = Kumuniezhioù ha yezhoù
-coming-soon = Dizale
 about-us = Diwar hor penn
 scripted-speech = KOMZOÙ LENNET
 spontaneous-speech = KOMZ NATUREL
@@ -161,8 +160,6 @@ download-press-pack = Pellgargañ hor strobad pennadoù kazetennoù <icon></icon
 
 ## Developers section
 
-developers-section-title = Strobadoù roadennoù mouezh digor d'an holl en ouzhpenn 130+ yezh
-developers-section-subtitle = Strobadoù roadennoù evit anaoudegezh emgefre ar vouezh, sintezenn ar gomz ha doareoù all da blediñ gant ar yezhoù naturel - savet a-drugarez da berzh dud a-youl-vat
 # icon is an arrow that points to the right
 explore-datasets = Furchal e strobadoù roadennoù <icon></icon>
 

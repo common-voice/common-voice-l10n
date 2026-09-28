@@ -79,7 +79,6 @@ add-questions = ჟესაქმ შეკითხუ̂ა̄̈ლ
 transcribe-audio = ახა̈სყ აუდიოშ ტრასკრიფცია
 press-and-stories = პრესა ი ისტორია̄̈ლ
 community-and-languages = საზოგადოება ი ნინა̈რ
-coming-soon = დო̄სგ
 about-us = ნიშგუ̂ეჲ ბედჟი
 scripted-speech = სგალჷჲრ ლიგჷრგა̈ლი
 spontaneous-speech = სპონტანურ გა̈რგლა
@@ -150,8 +149,6 @@ download-press-pack = ჩამოტუ̂ირთე ნიშგუ̂ეჲ �
 
 ## Developers section
 
-developers-section-title = საჯაროდ ხელმისაწვდომ გა̈რგლა̄̈ მონაცემა̈რ 130+ ნინჟი
-developers-section-subtitle = მონაცემრე ნაკრება̈რ ASR, STT, TTS ი NLP იშგენ კონტექსტრეშდ, ხედუ̂ა̄̈ჲ ა̈ნსყა̄̈ნხ თემრე მონაწილეობაშუ̂.
 # icon is an arrow that points to the right
 explore-datasets = ჟ'ა̄̈ხითუ̂რ მონაცემრე ნაკრებ<icon></icon>
 

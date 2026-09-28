@@ -17,6 +17,7 @@ ajg = Adja
 aln = Gegiska albanšćina
 am = Amharšćina
 an = Aragonšćina
+apc = Lewantinska arabšćina
 ar = Arabšćina
 arn = Mapudungun
 as = Asamšćina
@@ -197,6 +198,7 @@ kpv = Komi-syrjenšćina
 krc = Karačajsko-balkaršćina
 ks = Kašmiršćina
 ksf = Bafia
+kum = Kumykšćina
 kvx = Parkari Koli
 kw = Kornišćina
 kxp = Wadiyara Koli
@@ -262,6 +264,7 @@ mvy = Indusowe Kohistani
 mxu = Mada
 my = Burmašćina
 myv = Erzya
+mzn = Mazandarani
 nan-tw = Taiwanšćina (Minnan)
 nb-NO = Norwegski Bokmål
 ncx = Nahuatl centralneho Puebla
@@ -446,9 +449,6 @@ zoc = Copainalá Zoque
 zu = Zulu
 zza = Zaza
 
-# [/]
-
-
 ## Layout
 
 profile = Profil
@@ -527,6 +527,11 @@ announcement-pre-release = Lube zhromadźenstwo, wozjewjenski čas so bliži. Pr
 
 # Text wrapped in <mdcLink></mdcLink> will be rendered as an external link to Mozilla Data Collective
 announcement-release-commencing = Lube zhromadźenstwo, smy rozsudny datum za wozjewjenje docpěli a zjednoćamy datowe sadźby. Nowe wozjewjenje budźe na <mdcLink>Mozilla Data Collective</mdcLink> za por dnjow k dispoziciji.
+
+## Downtime Announcements
+
+# Generic scheduled downtime for next Sunday early hours
+announcement-scheduled-downtime = Lube zhromadźenstwo, zo bychmy swoje systemy optimowali, planujemy krótke wupadne časy, kotrež zwjetša mało hodźin traja. Přichodny wupadny čas budźe tutu njedźelu rano. Stajće so z nami na Matrix do zwiska, jeli problem maće.
 
 ## Common Language/Dataset Selector & SearchBox Related
 

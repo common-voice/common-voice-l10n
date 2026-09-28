@@ -95,7 +95,6 @@ review-questions = سوالاتو جائزہ ہرہ
 transcribe-audio = آڈِیو نَل تِھیا <small> (جِنیْ اِیوݨَس) </small>
 press-and-stories = پریس گہ قصائے
 community-and-languages = کمیونٹی گہ جِبہ
-coming-soon = جِنیْ اِینوْ
 about-us = اسے بارَد
 scripted-speech = لِکِیلیْ تقریر
 spontaneous-speech = بے ساختہ تقریر
@@ -173,8 +172,6 @@ download-press-pack = اسے پریس پیک ڈاؤن لوڈ تِھیا <icon></
 
 ## Developers section
 
-developers-section-title = 130+ جِبوْ مجیْ عوامی شان گیْ قابل رسائی اوپن سورس ڈیٹا سیٹس
-developers-section-subtitle = ASR، STT، TTS، آں مُتہ NLP سیاق گہ سباق اےْ کِرِیا ڈیٹا سیٹس - کمیونٹی  شرکت گیْ سنجِلان۔
 # icon is an arrow that points to the right
 explore-datasets = ڈیٹا سیٹس اورڑِیا <icon></icon>
 

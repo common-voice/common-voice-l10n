@@ -217,9 +217,6 @@ zh-TW = Chinés (Taiwán)
 zu = Zulú
 zza = Zaza
 
-# [/]
-
-
 ## Layout
 
 profile = Perfil
@@ -298,6 +295,11 @@ announcement-pre-release = Ola, comunidade! A nova versión está a caer. Por fa
 
 # Text wrapped in <mdcLink></mdcLink> will be rendered as an external link to Mozilla Data Collective
 announcement-release-commencing = Grazas polas vosas contribucións! Chegamos á data límite para esta publicación e estamos a preparar os conxuntos de datos. A nova versión estará dispoñible en <mdcLink>Mozilla Data Collective</mdcLink> nos próximos días.
+
+## Downtime Announcements
+
+# Generic scheduled downtime for next Sunday early hours
+announcement-scheduled-downtime = Ola, comunidade! Para optimizar os nosos sistemas, programamos breves interrupcións do servizo, que normalmente duran só unhas horas. A próxima será a primeira hora deste domingo. Se atopa algún problema, póñase en contacto connosco a través de Matrix.
 
 ## Common Language/Dataset Selector & SearchBox Related
 

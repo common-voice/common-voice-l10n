@@ -75,7 +75,6 @@ review-questions = ពិនិត្យសំណួរ
 transcribe-audio = បម្លែងសំឡេងជាអត្ថបទ
 press-and-stories = សារព័ត៌មាន និងរឿងរ៉ាវ
 community-and-languages = សហគមន៍ និងភាសា
-coming-soon = ឆាប់ៗនេះ
 about-us = អំពីយើង
 scripted-speech = សុន្ទរកថាដែលមានស្គ្រីប
 spontaneous-speech = សុន្ទរកថាដោយឯកឯង
@@ -153,8 +152,6 @@ download-press-pack = ទាញយកកញ្ចប់សារព័ត៌ម�
 
 ## Developers section
 
-developers-section-title = សំណុំទិន្នន័យសុន្ទរកថាបើកចំហដែលអាចចូលមើលបានជាសាធារណៈជាង 130+ ភាសា
-developers-section-subtitle = សំណុំទិន្នន័យសម្រាប់ ASR, STT, TTS និងបរិបទ NLP ផ្សេងទៀត - បង្កើតឡើងតាមរយៈការចូលរួមរបស់សហគមន៍។
 # icon is an arrow that points to the right
 explore-datasets = រុករកសំណុំទិន្នន័យ <icon></icon>
 

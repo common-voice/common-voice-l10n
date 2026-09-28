@@ -21,6 +21,7 @@ az = Azeirbaidžanu
 ba = Baškiru
 bag = Tuki
 bas = Basaa
+bax = Bamun
 be = Boltkrīvu
 bg = Bulgaru
 bin = Edo
@@ -30,6 +31,7 @@ bn = Bengaļu
 bnn = Bunun
 bo = Tibetīšu
 br = Bretoņu
+brx = Bodo
 bs = Bosnīšu
 bsh = Kateviri
 bsk = Brushaski
@@ -248,9 +250,6 @@ zh-HK = Kinīšu (Honkonga)
 zh-TW = Kinīšu (Taivana)
 zu = Zulu
 zza = Zaza
-
-# [/]
-
 
 ## Layout
 

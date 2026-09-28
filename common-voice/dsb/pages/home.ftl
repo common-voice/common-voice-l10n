@@ -87,7 +87,6 @@ review-questions = Pšašanja pśeglědowaś
 transcribe-audio = Awdio transkriběrowaś
 press-and-stories = Casnikaŕstwo a tšojenja
 community-and-languages = Zgromaźeństwo a rěcy
-coming-soon = Skóro k dispoziciji
 about-us = Wó nas
 scripted-speech = POWĚDANJE ZE SKRIPTOM
 spontaneous-speech = SPONTANE POWĚDANJE
@@ -165,8 +164,8 @@ download-press-pack = Ześěgniśo naše casnikaŕske pódłožki <icon></icon>
 
 ## Developers section
 
-developers-section-title = Zjawnje pśistupne wótwórjone powědańske datowe sajźby we wěcej ako 130 rěcach
-developers-section-subtitle = Datowe sajźby za ASR, STT, TTS a druge konteksty NLP – napórane pśez sobuźěło zgromaźeństwa.
+developers-section-title-202608 = Zjawnje pśistupne wótwórjone powědańske datowe sajźby we wěcej ako 330 rěcach
+developers-section-subtitle-v2 = Datowe sajźby za ASR a druge konteksty NLP – napórane pśez sobuźěło zgromaźeństwa.
 # icon is an arrow that points to the right
 explore-datasets = Datowe sajźby wuslěźiś <icon></icon>
 

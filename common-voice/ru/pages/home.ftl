@@ -84,7 +84,6 @@ review-questions = Рецензировать вопросы
 transcribe-audio = Транскрибируйте аудио <small>(Скоро)</small>
 press-and-stories = Пресса и истории
 community-and-languages = Сообщество и языки
-coming-soon = Скоро
 about-us = О нас
 scripted-speech = ПОДГОТОВЛЕННАЯ РЕЧЬ
 spontaneous-speech = СПОНТАННАЯ РЕЧЬ
@@ -162,8 +161,8 @@ download-press-pack = Скачайте наш пресс-пакет <icon></icon
 
 ## Developers section
 
-developers-section-title = Публично доступные открытые наборы данных речи на более чем 130 языках
-developers-section-subtitle = Наборы данных для ASR, STT, TTS и других контекстов NLP, созданные при участии сообщества.
+developers-section-title-202608 = Публично доступные датасеты на 330+ языках.
+developers-section-subtitle-v2 = Датасеты для ASR, STT, TTS, и других контекстов NLP, созданные при участии сообщества.
 # icon is an arrow that points to the right
 explore-datasets = Просмотрите наборы данных <icon></icon>
 

@@ -79,7 +79,6 @@ add-questions = سوال شامل گر
 transcribe-audio = آڈیو سو نقل
 press-and-stories = دباؤ گر آ قصے
 community-and-languages = کمیونٹی  آ زِب
-coming-soon = ھلہ یا
 about-us = اسئیں متعلق
 scripted-speech = نقل ھویئنل تقریر
 spontaneous-speech = ناڅاپہ تقریر
@@ -150,8 +149,6 @@ download-press-pack = اسوں خبر سو پیک ڈونلوڈ گر <icon> </ico
 
 ## Developers section
 
-developers-section-title = عوامی رسائ سو کھلاو تقریر سو ڈیٹا سیٹ 130+ زہبوں مہ
-developers-section-subtitle = ASR, STT, TTS آ پَروں  NLP  متن۔ کمیونٹی سو شرکت رے سَند۔
 # icon is an arrow that points to the right
 explore-datasets = ڈیٹا سیٹ خور گر <icon></icon>
 

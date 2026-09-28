@@ -206,6 +206,7 @@ mve = Marwari
 mxu = Mada
 my = Miến Điện
 myv = Erzya
+mzn = Mazandarani
 nan-tw = Taiwanese (Minnan)
 nb-NO = Na Uy Bokmål
 nd = IsiNdebele (Bắc)
@@ -313,9 +314,6 @@ zh-HK = Trung (Hồng Kông)
 zh-TW = Trung (Đài Loan)
 zu = Zulu
 zza = Zaza
-
-# [/]
-
 
 ## Layout
 

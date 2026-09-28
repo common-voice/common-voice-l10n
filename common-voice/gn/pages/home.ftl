@@ -88,7 +88,6 @@ review-questions = Porandu apojey
 transcribe-audio = Emoñe’ẽjehai mba’epu <small>Tenondeve</small>
 press-and-stories = Maranduasãiha ha Tembiasakue
 community-and-languages = Tekoha ha ñe’ẽnguéra
-coming-soon = Ag̃aitéma
 about-us = Ore rehegua
 scripted-speech = JE’EPY MBOHAPÉVA
 spontaneous-speech = ÑE’ẼKUAA SYRYRY
@@ -165,8 +164,7 @@ download-press-pack = Emboguejy ore dossier de prensa <icon></icon>
 
 ## Developers section
 
-developers-section-title = Ñe’ẽkuaa ijurujáva opavavépe g̃uarã mba’ekuaarã aty hetave 130 ñe’ẽmegui
-developers-section-subtitle = Mba’ekuaarã aty ASR-pe g̃uarã, STT, TTS ha ambue PNL jeregua, oñemoheñóiva tekoha ñepytyvõ rupi.
+developers-section-title-202608 = Ñe’ẽ mba’ekuaarã aty ijurujáva ha opavavépe g̃uarã hetave 330 ñe’ẽme
 # icon is an arrow that points to the right
 explore-datasets = Eheka mba’ekuaarã atýpe <icon></icon>
 
