@@ -88,7 +88,6 @@ add-questions = سُئال سیمل کرو
 transcribe-audio = نکݪ آڈیو
 press-and-stories = پریس اور کُہاݨِیاں
 community-and-languages = پڑاو اور ٻولِیان
-coming-soon = ٻیگا آݨواڑا
 about-us = مھارے باریم
 scripted-speech = لِکھوڑے بھاشݨ
 spontaneous-speech = ٻولݨیں کی آدت
@@ -160,8 +159,6 @@ download-press-pack = مھارا پریس پیک ڈاؤن لوڈ کر<icon></ico
 
 ## Developers section
 
-developers-section-title = 130+ ٻولِئیم کھلکا نتر سوَلا پُگاوݨاں کھُلا ٻولݨاں ڈیٹا سیٹ
-developers-section-subtitle = اے ایس آر ، ایس ٹی ٹی ، ٹی ٹی ایس ، اور دُؔوجے این ایل پی سرے نتر ڈیٹا سیٹ - پڑاوا کُو بھیݪا کری کن ٻݨائے ہے۔
 # icon is an arrow that points to the right
 explore-datasets = ڈیٹا سیٹا کی کھوج کر <icon></icon>
 

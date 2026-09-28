@@ -84,7 +84,6 @@ review-questions = Verifică întrebări
 transcribe-audio = Transcrie înregistrări audio
 press-and-stories = Presă și relatări
 community-and-languages = Comunitate și limbi
-coming-soon = În curând
 about-us = Despre noi
 scripted-speech = Discurs scris
 spontaneous-speech = Discurs spontan
@@ -162,8 +161,8 @@ download-press-pack = Descarcă dosarul nostru pentru presă <icon></icon>
 
 ## Developers section
 
-developers-section-title = Seturi de date vocale cu sursă deschisă accesibile publicului în peste 130 de limbi
-developers-section-subtitle = Seturi de date pentru recunoaștere și sinteză vocală automate, precum și alte domenii ale procesării limbajului natural. Aceste date au fost create cu ajutorul comunității.
+developers-section-title-202608 = Seturi de date vocale cu acces deschis publicului în peste 330 de limbi
+developers-section-subtitle-v2 = Seturi de date pentru ASR și alte contexte NLP - create prin participarea comunității.
 # icon is an arrow that points to the right
 explore-datasets = Explorează seturile de date <icon></icon>
 

@@ -94,7 +94,6 @@ add-questions = سݸݳلݸݣ خَرِشݳرݳ <small>(ڞَگݳ آݣݺ)</small>
 transcribe-audio = پݸرجِنݳ چھݸت گِرمِنݳنݳشݸ <small>(ڞَگݳ آݣݺ)</small>
 press-and-stories = مݵڈِݵݳ نݸ کہݳنݵݣ
 community-and-languages = کمݵݸنٹݵ نݸ بݳݽݸݣ
-coming-soon = ڞَگݳ آگݳ چھݳ
 
 ## MENU ITEMS TOOLTIPS
 
@@ -159,8 +158,6 @@ download-press-pack = اَمݳ پرݵس پݵک ڈݳݸنلݸڈ اِرݳ<icon></ic
 
 ## Developers section
 
-developers-section-title = +130 مݸ اَڎِݵ بݳݽݺ مݳ عوݳمݵ طݸرَس ہَتَنݳ چھݺ کُھلݳ تقرݵرݵݣݺ ڈݵٹݳ سݵٹݳ
-developers-section-subtitle = سِیݳق و سبݳقݵئ NLP نݸ اݸرݳ TTS, SST, ASR کݳرݸ کمݵݸنِٹی کݸٹ اِرِنݳئی زرݵعَس تیݳر ݳرݸ گیݳ ڈݵٹݳ سݵٹݳ.
 # icon is an arrow that points to the right
 explore-datasets = ڈݵٹݳ سݵٹݳ دریݳفت اِرݳ<icon></icon>
 

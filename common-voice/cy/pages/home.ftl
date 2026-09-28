@@ -95,7 +95,6 @@ review-questions = Adolygu Cwestiynau
 transcribe-audio = Trawsgrifio Sain
 press-and-stories = Y Wasg a Straeon
 community-and-languages = Cymuned ac Ieithoedd
-coming-soon = Yn Dod yn Cyn Hir
 about-us = Amdanom ni
 scripted-speech = LLEFARU TESTUN
 spontaneous-speech = LLEFARU RHYDD
@@ -173,8 +172,8 @@ download-press-pack = Llwythwch i lawr ein pecyn i'r wasg <icon></icon>
 
 ## Developers section
 
-developers-section-title = Setiau data lleferydd agored sy'n hygyrch i'r cyhoedd mewn 130+ o ieithoedd
-developers-section-subtitle = Setiau data ar gyfer ASR, STT, TTS, a chyd-destunau NLP eraill - wedi'u creu trwy gyfranogiad cymunedol.
+developers-section-title-202608 = Setiau data lleferydd agored sy'n hygyrch i'r cyhoedd mewn 330+ o ieithoedd
+developers-section-subtitle-v2 = Setiau data ar gyfer ASR a chyd-destunau NLP eraill - wedi'u creu trwy gyfranogiad cymunedol.
 # icon is an arrow that points to the right
 explore-datasets = Archwiliwch setiau data <icon></icon>
 

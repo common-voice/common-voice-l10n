@@ -79,7 +79,6 @@ review-questions = Бознигарӣ кардани саволҳо
 transcribe-audio = Аудиоро ба матн табдил диҳед <small>(Ба наздикӣ дастрас мешавад)</small>
 press-and-stories = Матбуот ва ҳикояҳо
 community-and-languages = Ҷомеа ва забонҳо
-coming-soon = Ба наздикӣ дастрас мешавад
 about-us = Дар бораи мо
 scripted-speech = НУТҚИ НАМОИШНОМА
 spontaneous-speech = НУТҚИ БЕВОСИТА
@@ -151,8 +150,6 @@ download-press-pack = Бастаи матбуоти моро боргирӣ на
 
 ## Developers section
 
-developers-section-title = Маҷмуъҳои маълумоти овозӣ дар зиёда аз 130 забон дар манбаи ҷамъиятии дастрас
-developers-section-subtitle = Маҷмуи маълумот барои «ASR», «STT», «TTS» ва мазмунҳои дигари «NLP», ки тавассути иштироки ҷомеа сохта шудаанд.
 # icon is an arrow that points to the right
 explore-datasets = Маҷмуи маълумотро озмоед <icon></icon>
 

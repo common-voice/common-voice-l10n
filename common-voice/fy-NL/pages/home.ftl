@@ -91,7 +91,6 @@ review-questions = Fragen beoardiele
 transcribe-audio = Audio transkribearje
 press-and-stories = Parse en ferhalen
 community-and-languages = Mienskip en talen
-coming-soon = Ynkoarten beskikber
 about-us = Oer ús
 scripted-speech = SCRIPTE SPRAAK
 spontaneous-speech = SPONTANE SPRAAK
@@ -169,8 +168,8 @@ download-press-pack = Download ús parsepakket <icon></icon>
 
 ## Developers section
 
-developers-section-title = Publyk tagonklike iepen spraakgegevenssets yn mear as 130 talen
-developers-section-subtitle = Gegevenssets foar ASR, STT, TTS en oare NLP-konteksten – makke fia dielnimming fan de mienskip.
+developers-section-title-202608 = Publyk tagonklike iepen spraakgegevenssets yn mear as 330 talen
+developers-section-subtitle-v2 = Gegevenssets foar ASR en oare NLP-konteksten – makke fia dielnimming fan de mienskip.
 # icon is an arrow that points to the right
 explore-datasets = Gegevenssets ferkenne <icon></icon>
 

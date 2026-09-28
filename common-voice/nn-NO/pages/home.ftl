@@ -81,7 +81,6 @@ review-questions = Vurder spørsmål
 transcribe-audio = Transkriber lyd
 press-and-stories = Presse og historier
 community-and-languages = Fellesskap og språk
-coming-soon = Kjem snart
 about-us = Om oss
 scripted-speech = MANUSBASERT TALE
 spontaneous-speech = SPONTAN TALE
@@ -159,8 +158,8 @@ download-press-pack = Last ned pressepakken vår <icon></icon>
 
 ## Developers section
 
-developers-section-title = Offentleg tilgjengelege opne taledatasett på over 130 språk
-developers-section-subtitle = Datasett for automatisk talegjenkjenning (ASR), tale-til-tekst (STT), tekst-til-tale (TTs) og andre innan naturleg språkbehandling (NLP) – oppretta gjennom samfunnsdeltaking.
+developers-section-title-202608 = Offentleg tilgjengelege opne taledatasett på over 330 språk
+developers-section-subtitle-v2 = Datasett for ASR og andre NLP-kontekstar – oppretta gjennom samfunnsdeltaking.
 # icon is an arrow that points to the right
 explore-datasets = Utforsk datasett <icon></icon>
 

@@ -79,7 +79,6 @@ add-questions = سوال سنا<small>(نوݜٹہ اڅہتی)</small>
 transcribe-audio = آڈیو نقل کشی<small>(نوݜٹہ اڅتہ)</small>
 press-and-stories = وسپلہ دے پرݩجیکہ
 community-and-languages = کمیونٹی (اوگعمہ) دے ورے
-coming-soon = نݜٹو ازیا
 
 ## MENU ITEMS TOOLTIPS
 
@@ -144,8 +143,6 @@ download-press-pack = ایمو ستہ پریس پیک ڈاونلوڈ کشݩع<ic
 
 ## Developers section
 
-developers-section-title = اوگعماں تہ بدوی اہ لہ پعوان ڈیٹا سیٹس 130تݩع دی سکال وریں تہ
-developers-section-subtitle = ڈیٹاسیٹس دیوکں اے اس ار, اس اس ٹی، ٹی  ٹی اس،سورہ ورں ان ایل پی  سیاق دے سباق -چہ امکی اوگعماں سنی تے دزیستہ ای ۔
 # icon is an arrow that points to the right
 explore-datasets = ڈیٹاسیٹ بنڅا<icon></icon>
 

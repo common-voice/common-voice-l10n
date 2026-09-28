@@ -86,7 +86,6 @@ review-questions = onanisso mafunso kachikena
 transcribe-audio = kusandutsa mawu
 press-and-stories = Atolankhani ndi Nkhani
 community-and-languages = mudzi ndi zilankhulo
-coming-soon = kubwera posachedwa
 about-us = Zambiri zaife
 scripted-speech = Zolankhula zolembedwa
 spontaneous-speech = KULANKHULA MWACHIDULE
@@ -164,8 +163,6 @@ download-press-pack = Tsitsani phukusi lathu la atolankhani <icon></icon>
 
 ## Developers section
 
-developers-section-title = Ma data a mawu otseguka omwe amapezeka pagulu m'zilankhulo zoposa 130
-developers-section-subtitle = Ma data a ASR, STT, TTS, ndi zina zokhudzana ndi NLP - adapangidwa kudzera mu kutenga nawo mbali kwa anthu ammudzi.
 # icon is an arrow that points to the right
 explore-datasets = Fufuzani ma dataseti <icon></icon>
 

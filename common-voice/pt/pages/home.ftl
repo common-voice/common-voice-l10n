@@ -79,7 +79,6 @@ add-questions = Adicionar perguntas <small>(em breve)</small>
 transcribe-audio = Transcrever áudio <small>(em breve)</small>
 press-and-stories = Imprensa e histórias
 community-and-languages = Comunidade e idiomas
-coming-soon = Em breve
 
 ## MENU ITEMS TOOLTIPS
 
@@ -144,8 +143,6 @@ download-press-pack = Baixe nosso pacote de imprensa <icon></icon>
 
 ## Developers section
 
-developers-section-title = Conjuntos de dados vocais abertos, acessíveis ao público em mais de 130 idiomas
-developers-section-subtitle = Conjuntos de dados para ASR, STT, TTS e outros contextos de PLN, desenvolvidos com a colaboração da comunidade.
 # icon is an arrow that points to the right
 explore-datasets = Explorar conjuntos de dados <icon></icon>
 

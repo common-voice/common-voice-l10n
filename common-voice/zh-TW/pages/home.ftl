@@ -76,7 +76,6 @@ add-questions = 新增問題 <small>(近期推出)</small>
 transcribe-audio = 轉錄語音 <small>(近期推出)</small>
 press-and-stories = 媒體與故事
 community-and-languages = 社群與語言
-coming-soon = 即將推出
 
 ## MENU ITEMS TOOLTIPS
 
@@ -141,8 +140,6 @@ download-press-pack = 下載我們的宣傳資料 <icon></icon>
 
 ## Developers section
 
-developers-section-title = 包含 130 種以上語言，開放公眾使用的語音資料集
-developers-section-subtitle = 透過社群參與建立的資料集，提供語音合成、語音辨識，及其他自然語言處理專案使用。
 # icon is an arrow that points to the right
 explore-datasets = 瀏覽資料集 <icon></icon>
 

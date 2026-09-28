@@ -17,6 +17,7 @@ ajg = Adja
 aln = Albaneză Gheg
 am = Amhară
 an = Aragoneză
+apc = Arabă levantină
 ar = Arabă
 arn = Mapudungun
 as = Assameză
@@ -197,6 +198,7 @@ kpv = Komi-ziriană
 krc = Karachay-Balkar
 ks = Kașmiră
 ksf = Bafia
+kum = kumîcă
 kvx = Parkari Koli
 kw = Cornică
 kxp = Wadiyara Koli
@@ -262,6 +264,7 @@ mvy = Indus Kohistani
 mxu = Mada
 my = Birmaneză
 myv = Erzya
+mzn = Mazandarani
 nan-tw = Taiwaneză (Minnan)
 nb-NO = Norvegiană Bokmål
 ncx = Central Puebla Nahuatl
@@ -446,9 +449,6 @@ zoc = Zoque din Copainalá
 zu = Zulu
 zza = Zaza
 
-# [/]
-
-
 ## Layout
 
 profile = Profil
@@ -527,6 +527,11 @@ announcement-pre-release = Dragă comunitate, se apropie data de lansare. Vă ru
 
 # Text wrapped in <mdcLink></mdcLink> will be rendered as an external link to Mozilla Data Collective
 announcement-release-commencing = Dragă comunitate, am ajuns la data-limită pentru lansare și grupăm seturile de date. Noua versiune va fi disponibilă pe <mdcLink>Mozilla Data Collective</mdcLink> în câteva zile.
+
+## Downtime Announcements
+
+# Generic scheduled downtime for next Sunday early hours
+announcement-scheduled-downtime = Dragă comunitate, pentru optimizarea sistemelor, programăm perioade scurte de nefuncționare, de obicei finalizate în câteva ore. Următoarea perioadă de nefuncționare va avea loc în această duminică dimineață. Contactați-ne pe Matrix dacă întâmpinați probleme.
 
 ## Common Language/Dataset Selector & SearchBox Related
 

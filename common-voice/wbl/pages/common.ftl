@@ -12,10 +12,12 @@ abq = Abaza
 ace = Saqofati guruh
 ady = Shumol-Maghribi Kakeshian Zik yoy Khalgisht
 af = Afriqahe Khalgisht
+aii = Yewẽr
 ajg = Adja
 aln = Gheg Alnaian
 am = Ethopian (Habashi)
 an = Aragon e Zik yoy Khalgisht
+apc = S̃hobos̃h, ti payghomẽn sẽtet
 ar = Arabi zik
 arn = Chilli et Argetina he Mapuche Qaumiyate Zik
 as = A'ssami Zik
@@ -331,9 +333,6 @@ zh-TW = Chinoyi (Taywon)
 zoc = Copainalá Zoque
 zu = Zulu
 zza = Zaza
-
-# [/]
-
 
 ## Layout
 

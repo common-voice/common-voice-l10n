@@ -83,7 +83,6 @@ review-questions = প্ৰশ্ন পৰ্যালোচনা কৰক
 transcribe-audio = অডিঅ’ লিপিবদ্ধ কৰক
 press-and-stories = সংবাদ আৰু গল্প
 community-and-languages = সমাজ আৰু ভাষা
-coming-soon = শীঘ্ৰেই আহি আছে
 about-us = আমাৰ বিষয়ে
 scripted-speech = লিখিত ভাষণ
 spontaneous-speech = স্বতঃস্ফূৰ্ত ভাষণ
@@ -155,8 +154,6 @@ download-press-pack = আমাৰ প্ৰেছ পেক ডাউনল’�
 
 ## Developers section
 
-developers-section-title = 130টাৰো অধিক ভাষাত ৰাজহুৱাভাৱে সুগম্য মুক্ত ভাষণৰ ডেটাছেট
-developers-section-subtitle = ASR, STT, TTS আৰু অন্যান্য NLP প্ৰসংগৰ বাবে ডেটাছেট - সামাজিক অংশগ্ৰহণৰ দ্বাৰা সৃষ্ট।
 # icon is an arrow that points to the right
 explore-datasets = ডেটাছেটবোৰ অন্বেষণ কৰক <icon></icon>
 

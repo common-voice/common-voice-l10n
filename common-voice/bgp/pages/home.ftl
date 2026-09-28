@@ -94,7 +94,6 @@ add-questions = جستاں ھوار کن اِت <small>(زوت آھگ ءَ اِ�
 transcribe-audio = آڈیو ءِ نبشتہ کنگ <small>(زوت آھگ ءَ اِنت)</small>
 press-and-stories = پریس ءُ کسہ
 community-and-languages = چاگرد ءُ زبان .
-coming-soon = زوت پیداکیں
 
 ## MENU ITEMS TOOLTIPS
 
@@ -159,8 +158,6 @@ download-press-pack = مئے پریس پیک ءَ ڈاؤن لوڈ کن اِت <i
 
 ## Developers section
 
-developers-section-title = 130+ زبانانی تہا سرکاری دسترس ءِ پچیں گپ ءِ ڈیٹاسیٹ
-developers-section-subtitle = اے ایس آر، ایس ٹی ٹی، ٹی ٹی ایس، ءُ دگہ این ایل پی ءِ تناظر ءِ ھاتر ءَ ڈیٹاسیٹ - کمیونٹی ءِ بھر زوری ءِ وسیلہ ءَ جوڑ کنگ بوتگ۔
 # icon is an arrow that points to the right
 explore-datasets = ڈیٹاسیٹانی پٹ ءُ پول ءَ بکن اِت <icon></icon>
 

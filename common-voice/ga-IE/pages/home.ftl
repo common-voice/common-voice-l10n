@@ -83,7 +83,6 @@ add-questions = Cuir Ceisteanna Leis
 transcribe-audio = Tras-scríobh Fuaimeanna
 press-and-stories = An Preas agus Scéalta
 community-and-languages = Pobal agus Teangacha
-coming-soon = Ag teacht go luath
 
 ## MENU ITEMS TOOLTIPS
 
@@ -143,7 +142,6 @@ download-press-pack = Íosluchtaigh ár bpacáiste preas <icon></icon>
 
 ## Developers section
 
-developers-section-title = Tacar sonraí cainte oscailte atá inrochtana go poiblí i 130+ teanga
 # icon is an arrow that points to the right
 explore-datasets = Taiscéal na tacair sonraí <icon></icon>
 

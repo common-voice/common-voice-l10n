@@ -79,7 +79,6 @@ add-questions = کھُد نامہ لُبُسَؤ<small>( ݭُورہ ژِمان)<
 transcribe-audio = آڈیوَہ نقل کېرِؤ<small>( ݭُورہ ژِمان)</small>
 press-and-stories = پرېس اؤ ہیڄان نام
 community-and-languages = برادری اؤ باتی نام
-coming-soon = دَدُپی ژِمان
 
 ## MENU ITEMS TOOLTIPS
 
@@ -144,8 +143,6 @@ download-press-pack = امَنہ پریس پېک<icon></icon> ڈاون لوڈ ک
 
 ## Developers section
 
-developers-section-title = 130+ باتی نامہ عوامی طورے فېدِکَنہ لائق اوپن سپیچ ڈېٹا سېٹس
-developers-section-subtitle = ٹی ٹی ایس، ایس ٹی ٹی، آے ایس آر اؤ واری این ایل پی سیاق و سباقہ ݭڅی ڈېٹا سېٹس۔ برادَرِیَنی شراکَتَنہ ذریعَہ ئے ݫُپان دِتَنَئیت۔
 # icon is an arrow that points to the right
 explore-datasets = <icon></icon> ڈېٹاسیٹسہ معلوم کېرِؤ
 

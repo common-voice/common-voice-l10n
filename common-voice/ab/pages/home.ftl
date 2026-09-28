@@ -81,7 +81,6 @@ review-questions = Азҵаарақәа арецензиа рзура
 transcribe-audio = Аудио атранскрипциа азыжәу <small>(Лассы)</small>
 press-and-stories = Апрессеи аҭоурыхқәеи
 community-and-languages = Аилазаареи абызшәақәеи
-coming-soon = Лассы
 about-us = Ҳара иҳазкны
 scripted-speech = ЗАА ИХИОУ АЖӘАҲӘА
 spontaneous-speech = АСПОНТАНТӘ ЖӘАҲӘА
@@ -159,8 +158,6 @@ download-press-pack = Ҳапресс-пакет ҭыжәга <icon></icon>
 
 ## Developers section
 
-developers-section-title = Зегьы рхы иадырхәаша 130 бызшәа инареиҳаны рыла иҟоу иаарту ажәаҳәа адыррақәа реизга
-developers-section-subtitle = Аилазаара алархәны иаԥҵоу ASR, STT, TTS, иара убас NLP егьырҭ аконтекстқәа рзы адыррақәа реизга.
 # icon is an arrow that points to the right
 explore-datasets = Адыррақәа реизгақәа шәрыхәаԥш <icon></icon>
 

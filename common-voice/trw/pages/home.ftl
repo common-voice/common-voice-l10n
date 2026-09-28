@@ -79,7 +79,6 @@ add-questions = سوال جمع کوا <small>شیرتے ینیِن
 transcribe-audio = آڈیو لیِگا <small> شیرتے ینیِن
 press-and-stories = پریس او سٹوری
 community-and-languages = کمیونیٹی او جیِب
-coming-soon = شیرتے ینیِن
 
 ## MENU ITEMS TOOLTIPS
 
@@ -144,8 +143,6 @@ download-press-pack = مُھون پریس پیک آمن گے مھیدا والا
 
 ## Developers section
 
-developers-section-title = ہر ایک سی کیا آویل 130 جیِبا می ڈیٹا سیٹ
-developers-section-subtitle = ڈیٹا سیٹ ASR, STT, آں دأل NLP پروگراما سی کیا کامک یأمینے خلگے شیرک ہدے سیوادچھیدا۔
 # icon is an arrow that points to the right
 explore-datasets = مے ڈیٹا سیٹ لوٹا <icon>
 

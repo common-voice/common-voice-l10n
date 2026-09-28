@@ -97,7 +97,6 @@ review-questions = Pregledaj pitanja
 transcribe-audio = Transkribiraj audio snimke
 press-and-stories = Objave i priče
 community-and-languages = Zajednica i jezici
-coming-soon = Uskoro stiže
 about-us = O nama
 scripted-speech = PRIPREMLJEN GOVOR
 spontaneous-speech = SPONTANI GOVOR
@@ -175,8 +174,6 @@ download-press-pack = Preuzmi naš paket objava <icon></icon>
 
 ## Developers section
 
-developers-section-title = Javno dostupni skupovi podataka govora bez autorskih prava na više od 130 jezika
-developers-section-subtitle = Skupovi podataka konteksta za automatsko prepoznavanje govora, govor u tekst, tekst u govor i druge obrade prirodnog jezika – stvoreni od zajednice.
 # icon is an arrow that points to the right
 explore-datasets = Istraži skupove podataka <icon></icon>
 

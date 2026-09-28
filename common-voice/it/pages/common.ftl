@@ -17,6 +17,7 @@ ajg = Adja
 aln = Gheg albanese
 am = Amarico
 an = Aragonese
+apc = Arabo levantino
 ar = Arabo
 arn = Mapudungun
 as = Assamese
@@ -197,6 +198,7 @@ kpv = Komi-Zyrian
 krc = Karachay-Balkar
 ks = Kashmiri
 ksf = Bafia
+kum = Cumucco
 kvx = Parkari Koli
 kw = Cornico
 kxp = Wadiyara Koli
@@ -262,6 +264,7 @@ mvy = Indus Kohistani
 mxu = Mada
 my = Birmano
 myv = Erza
+mzn = Mazandarani
 nan-tw = Taiwanese (Minnan)
 nb-NO = Bokmål (Norvegia)
 ncx = Central Puebla Nahuatl
@@ -446,9 +449,6 @@ zoc = Copainalá Zoque
 zu = Zulu
 zza = Zaza
 
-# [/]
-
-
 ## Layout
 
 profile = Profilo
@@ -527,6 +527,11 @@ announcement-pre-release = Cari membri della community, il momento del rilascio 
 
 # Text wrapped in <mdcLink></mdcLink> will be rendered as an external link to Mozilla Data Collective
 announcement-release-commencing = Gentile comunità, abbiamo raggiunto la data di chiusura per la versione e stiamo preparando i dataset. La nuova versione sarà disponibile su <mdcLink>Mozilla Data Collective</mdcLink> tra pochi giorni.
+
+## Downtime Announcements
+
+# Generic scheduled downtime for next Sunday early hours
+announcement-scheduled-downtime = Cara comunità, per ottimizzare i nostri sistemi programmiamo brevi interventi di manutenzione, che in genere si concludono nel giro di poche ore. Il prossimo è previsto nelle prime ore di domenica. In caso di problemi, contattateci su Matrix.
 
 ## Common Language/Dataset Selector & SearchBox Related
 

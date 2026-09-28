@@ -79,7 +79,6 @@ add-questions = کھوجینیک آنے یو/مشک تھے <small> لوکو ان
 transcribe-audio = شونگے ٹرانسکرائیب تھے <small> لوکو انو ہُوں</small>
 press-and-stories = پریس گہ چگائیے/شِلوکے
 community-and-languages = کویوچ گہ باشے
-coming-soon = لوکو اِیُوں ہِیں/ہُوں
 
 ## MENU ITEMS TOOLTIPS
 
@@ -144,8 +143,6 @@ download-press-pack = اَسئیی پرس پیک ڈاؤن لوڈ تھے۔
 
 ## Developers section
 
-developers-section-title = عام جَکوڑے شونگو ڈیٹاسیٹ (130) ایک شل گہ بی گہ دَیو نیو گہ لائیے باشو نی
-developers-section-subtitle = اے-ایس-آر،ایس ایس ٹی،  ٹی ٹی ایس، گہ مُوے این ایل پییو پروگرامو کاری۔ کمیونٹی سے یو بو سَنیا
 # icon is an arrow that points to the right
 explore-datasets = ڈیٹا سیٹ اوڈور تھے چَکے <icon></icon>
 

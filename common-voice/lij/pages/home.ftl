@@ -82,7 +82,6 @@ review-questions = Amia torna e domande
 transcribe-audio = Trascrivi audio <small>(disponibile fito)</small>
 press-and-stories = Stampa e stöie
 community-and-languages = Communitæ e lengue
-coming-soon = Disponibile fito
 about-us = In sce niatri
 scripted-speech = DISCORSO CON TRASCRIÇION
 spontaneous-speech = DISCORSO SPONTANEO
@@ -150,8 +149,6 @@ download-press-pack = Descarrega o nòstro pacchetto stampa <icon></icon>
 
 ## Developers section
 
-developers-section-title = Dataset averto de dæti vocali pubricamente accescibili in ciù de 130 lengue
-developers-section-subtitle = Dataset pe ASR, STT, TTS e atri contesti de NLP, stæti creæ graçie a-a parteçipaçion da communitæ.
 # icon is an arrow that points to the right
 explore-datasets = Esplöra i dataset <icon></icon>
 

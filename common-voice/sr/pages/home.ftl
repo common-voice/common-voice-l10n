@@ -84,7 +84,6 @@ review-questions = Прегледајте питања
 transcribe-audio = Транскрибујте звук
 press-and-stories = Штампа и приче
 community-and-languages = Заједница и језици
-coming-soon = Ускоро
 about-us = О нама
 scripted-speech = ПРИПРЕМЉЕНИ ГОВОР
 spontaneous-speech = СПОНТАНИ ГОВОР
@@ -162,8 +161,6 @@ download-press-pack = Преузмите наш пакет за медије <ic
 
 ## Developers section
 
-developers-section-title = Јавно доступни отворени скупови говорних података на више од 130 језика
-developers-section-subtitle = Скупови података за ASR, STT, TTS и друге NLP контексте — креирани кроз учешће заједнице.
 # icon is an arrow that points to the right
 explore-datasets = Истражите скупове података <icon></icon>
 

@@ -87,7 +87,6 @@ review-questions = Prašenja přepruwować
 transcribe-audio = Awdijo transkribować
 press-and-stories = Nowiny a stawiznički
 community-and-languages = Zhromadźenstwo a rěče
-coming-soon = Bórze k dispoziciji
 about-us = Wo nas
 scripted-speech = RĚČENJE ZE SKRIPTOM
 spontaneous-speech = SPONTANE RĚČENJE
@@ -165,8 +164,8 @@ download-press-pack = Sćehńće naše nowinske podłožki <icon></icon>
 
 ## Developers section
 
-developers-section-title = Zjawnje přistupne wotewrjene rěčenske datowe sadźby we wjace hač 130 rěčach
-developers-section-subtitle = Datowe sadźby za ASR, STT, TTS a druhe konteksty NLP – wutworjene přez sobudźěło zhromadźenstwa.
+developers-section-title-202608 = Zjawnje přistupne wotewrjene rěčenske datowe sadźby we wjace hač 330 rěčach
+developers-section-subtitle-v2 = Datowe sadźby za ASR a druhe konteksty NLP – wutworjene přez sobudźěło zhromadźenstwa.
 # icon is an arrow that points to the right
 explore-datasets = Datowe sadźby wuslědźić <icon></icon>
 
